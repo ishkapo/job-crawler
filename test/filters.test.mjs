@@ -85,6 +85,21 @@ test('location: hybrid outside Portugal is dropped even if an aggregator said Li
   assert.equal(keep({ locationText: 'York', workplace: 'hybrid', description: 'We have introduced hybrid working. This hybrid model is set by the team.' }), false);
 });
 
+test('location: a Lisbon office in the company blurb does not open a US/UK role', () => {
+  assert.equal(keep({ locationText: 'San Francisco OR Seattle | USA', workplace: null,
+    description: 'SingleStore is headquartered in San Francisco with offices in Sunnyvale, Raleigh, Seattle, Boston, London, Lisbon, Bangalore.' }), false);
+  assert.equal(keep({ locationText: 'United Kingdom, London', workplace: 'hybrid',
+    description: 'Offices in London, New York, Singapore, Sydney and our newly established Engineering Hub in Lisbon.' }), false);
+  assert.equal(keep({ locationText: 'Berlin | Germany', workplace: null, description: 'Perks: work from anywhere for 4 weeks a year.' }), false);
+  assert.equal(keep({ locationText: 'Vietnam', workplace: 'remote', isRemote: true,
+    description: 'Full-time schedule: 4 hours per day overlapping with Portugal business hours.' }), false);
+});
+
+test('location: per-country remote listing that hires globally is kept', () => {
+  assert.ok(keep({ locationText: 'Spain', workplace: 'remote', isRemote: true,
+    description: 'LOCATION This is a remote role. We hire globally and work across time zones.' }));
+});
+
 test('location: a time-zone window covering Portugal opens the role', () => {
   assert.ok(tzWindowIncludesPortugal('Fully remote role within UTC -1 to UTC +3 time zones.'));
   assert.ok(!tzWindowIncludesPortugal('Must work within UTC-8 to UTC-5.'));

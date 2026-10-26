@@ -73,12 +73,20 @@ const RESTRICT = [
 ];
 
 // Phrases that explicitly open the role to Portugal / Europe.
-const OPEN = [
-  /\bportugal\b|\blisbon\b|\blisboa\b|\bporto\b/i,
+// Strong signals: the role itself is open to Portugal / Europe.
+const OPEN_STRONG = [
+  /\b(based|located|living|residing|work(ing)?|remote(ly)?|hire|hiring|candidates?|role|position)\b[^.\n]{0,30}\b(in|from|within)\b[^.\n]{0,10}\b(portugal|lisbon|lisboa|porto)\b/i,
+  /\b(portugal|lisbon|lisboa|porto)\b[^.\n]{0,15}\b(remote|hybrid|office|based|hub)\b[^.\n]{0,30}\b(role|position|team|you|this)\b/i,
   /\bremote\b[^.\n]{0,40}\b(across|within|in|from|throughout)\b[^.\n]{0,15}\b(europe|the eu|eu|emea|european union|eea)\b/i,
   /\b(europe|eu|emea)[- ](remote|based)\b/i,
-  /\b(work|hire|hiring) (from )?(anywhere|globally|worldwide)\b/i,
 ];
+// Weak signals: only trusted when the location field itself says "Remote" without naming places.
+const OPEN_WEAK = [
+  /\b(this is a remote role|fully remote|100% remote)\b[^.\n]{0,80}\b(hire|hiring) (globally|worldwide|internationally)\b/i,
+  /\bwe (hire|are hiring) (globally|worldwide|internationally)\b/i,
+  /\b(work|working) from anywhere in the world\b/i,
+];
+const OPEN = [...OPEN_STRONG, ...OPEN_WEAK];
 
 function splitParts(text) {
   return String(text || '')
@@ -112,11 +120,15 @@ export function locationVerdict(job) {
 
   const allowedParts = parts.filter((p) => ALLOW.test(p));
   const geoParts = parts.filter((p) => p.replace(GENERIC, ' ').replace(/\s+/g, ' ').trim().length > 1);
-  const portugalNamed = /\b(portugal|lisbon|lisboa|porto|oporto)\b/i.test(loc) || /\b(portugal|lisbon|lisboa|porto)\b/i.test(desc);
-
   const restrictQuote = findQuote(desc, RESTRICT);
   const tzOpen = tzWindowIncludesPortugal(desc) || tzWindowIncludesPortugal(loc);
-  const openQuote = findQuote(desc, OPEN) || (tzOpen ? findQuote(desc + ' ' + loc, [/\b(utc|gmt|cet|cest|wet)\b[^.\n]{0,40}/i]) || 'time-zone window includes Portugal' : null);
+  const tzQuote = tzOpen ? findQuote(desc + ' ' + loc, [/\b(utc|gmt|cet|cest|wet)\b[^.\n]{0,40}/i]) || 'time-zone window includes Portugal' : null;
+  const strongQuote = findQuote(desc, OPEN_STRONG) || tzQuote;
+  const openQuote = strongQuote || findQuote(desc, OPEN_WEAK);
+  // Portugal must be in the location field, or in a sentence about where this role is done
+  // (a company blurb like "offices in Seattle, London and Lisbon" does not count).
+  const portugalNamed = /\b(portugal|lisbon|lisboa|porto|oporto)\b/i.test(loc) ||
+    !!findQuote(desc, [OPEN_STRONG[0], OPEN_STRONG[1]]);
 
   // Hybrid / on-site: only Portugal works.
   if (onsiteOrHybrid && !(job.isRemote === true)) {
@@ -144,9 +156,12 @@ export function locationVerdict(job) {
     return { keep: true, verdict: 'remote-unspecified', reason: 'remote, no country restriction found', evidence: loc || 'no location field' };
   }
 
-  // Named places that are not Portugal/Europe.
-  if (openQuote && !restrictQuote) {
-    return { keep: true, verdict: 'allowed', reason: 'location lists other places but description opens to Portugal/Europe', evidence: openQuote };
+  // Named places that are not Portugal/Europe: only an explicit statement about this role reopens it.
+  if (strongQuote && !restrictQuote) {
+    return { keep: true, verdict: 'allowed', reason: 'location lists other places but description opens to Portugal/Europe', evidence: strongQuote };
+  }
+  if (job.isRemote === true && openQuote && !restrictQuote) {
+    return { keep: true, verdict: 'allowed', reason: 'remote role listed per country; description says it hires globally', evidence: openQuote };
   }
   return { keep: false, verdict: 'elsewhere', reason: 'location names places outside Portugal/Europe', evidence: loc };
 }

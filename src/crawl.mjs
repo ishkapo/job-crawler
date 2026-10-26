@@ -67,7 +67,13 @@ async function main() {
   await fs.mkdir(outDir, { recursive: true });
 
   let companies = await readJson(path.join(DATA, 'companies.json'), []);
-  companies = companies.filter((c) => !c.disabled);
+  companies = companies
+    .filter((c) => !c.disabled)
+    .map((c) => {
+      let slug = c.slug;
+      try { slug = decodeURIComponent(slug); } catch { /* keep as is */ }
+      return { ...c, slug };
+    });
   const only = argVal('--only');
   if (only) {
     const want = new Set(only.split(','));
@@ -147,8 +153,29 @@ async function main() {
     description: (m.description || '').slice(0, 6000),
   });
 
-  matches.sort((a, b) => String(b.posted || '').localeCompare(String(a.posted || '')));
-  const open = matches.map(trim);
+  // Collapse the same role listed once per country (e.g. Bjak) into one entry,
+  // keeping the listing whose location is best for Portugal.
+  const rank = (m) =>
+    (/\b(portugal|lisbon|lisboa|porto)\b/i.test(m.locationText || '') ? 3 : 0) +
+    (m.location.verdict === 'allowed' ? 2 : 1);
+  const groups = new Map();
+  for (const m of matches) {
+    const key = `${m.ats}:${m.slug}:${String(m.title).toLowerCase().replace(/\s+/g, ' ').trim()}`;
+    const g = groups.get(key);
+    if (!g) {
+      groups.set(key, { best: m, all: [m] });
+    } else {
+      g.all.push(m);
+      if (rank(m) > rank(g.best)) g.best = m;
+    }
+  }
+  const collapsed = [...groups.values()].map(({ best, all }) => {
+    const firstSeen = all.map((x) => x.firstSeen).sort()[0];
+    return { ...best, firstSeen, isNew: firstSeen === today, otherListings: all.length - 1 };
+  });
+
+  collapsed.sort((a, b) => String(b.posted || '').localeCompare(String(a.posted || '')));
+  const open = collapsed.map((m) => ({ ...trim(m), otherListings: m.otherListings }));
   const fresh = open.filter((m) => m.isNew);
 
   // Carry forward status for companies not crawled this run (e.g. --only)

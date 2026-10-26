@@ -542,7 +542,7 @@
  {
   "name": "Pocket Worlds",
   "ats": "ashby",
-  "slug": "Pocket%20Worlds",
+  "slug": "Pocket Worlds",
   "domain": "fintech"
  },
  {
@@ -1526,7 +1526,7 @@
  {
   "name": "Solana Foundation",
   "ats": "ashby",
-  "slug": "Solana%20Foundation",
+  "slug": "Solana Foundation",
   "domain": "fintech"
  },
  {
@@ -2037,7 +2037,9 @@
   "name": "Gemini",
   "ats": "greenhouse",
   "slug": "embed",
-  "domain": "fintech"
+  "domain": "fintech",
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "Atomic Invest",
@@ -2474,7 +2476,7 @@
  {
   "name": "Superhuman Platform Inc",
   "ats": "ashby",
-  "slug": "Superhuman%20Platform%20Inc",
+  "slug": "Superhuman Platform Inc",
   "domain": "tech"
  },
  {
@@ -2525,7 +2527,9 @@
   "ats": "ashby",
   "slug": "moonpay",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "phantom",
@@ -2539,56 +2543,72 @@
   "ats": "ashby",
   "slug": "checkout",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "thoughtmachine",
   "ats": "ashby",
   "slug": "thoughtmachine",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "chainalysis",
   "ats": "ashby",
   "slug": "chainalysis",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "trmlabs",
   "ats": "ashby",
   "slug": "trmlabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "superstate",
   "ats": "ashby",
   "slug": "superstate",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "solana-foundation",
   "ats": "ashby",
   "slug": "solana-foundation",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "matterlabs",
   "ats": "ashby",
   "slug": "matterlabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "aave",
   "ats": "ashby",
   "slug": "aave",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "morpho",
@@ -2609,14 +2629,18 @@
   "ats": "ashby",
   "slug": "iwoca",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "allica",
   "ats": "ashby",
   "slug": "allica",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "ramp",
@@ -2630,7 +2654,9 @@
   "ats": "ashby",
   "slug": "yuno",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "primer",
@@ -2658,14 +2684,18 @@
   "ats": "ashby",
   "slug": "payabl",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "metamask",
   "ats": "ashby",
   "slug": "metamask",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "consensys",
@@ -2679,42 +2709,54 @@
   "ats": "ashby",
   "slug": "zerohash",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "anchorage",
   "ats": "ashby",
   "slug": "anchorage",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "bvnk",
   "ats": "ashby",
   "slug": "bvnk",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "fnality",
   "ats": "ashby",
   "slug": "fnality",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "dfns",
   "ats": "ashby",
   "slug": "dfns",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "fordefi",
   "ats": "ashby",
   "slug": "fordefi",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "turnkey",
@@ -2728,105 +2770,135 @@
   "ats": "ashby",
   "slug": "privy",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "eigenlabs",
   "ats": "ashby",
   "slug": "eigenlabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "offchainlabs",
   "ats": "ashby",
   "slug": "offchainlabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "optimism",
   "ats": "ashby",
   "slug": "optimism",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "celestia",
   "ats": "ashby",
   "slug": "celestia",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "aptoslabs",
   "ats": "ashby",
   "slug": "aptoslabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "avalabs",
   "ats": "ashby",
   "slug": "avalabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "ondo",
   "ats": "ashby",
   "slug": "ondo",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "securitize",
   "ats": "ashby",
   "slug": "securitize",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "centrifuge",
   "ats": "ashby",
   "slug": "centrifuge",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "galaxy",
   "ats": "ashby",
   "slug": "galaxy",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "wintermute",
   "ats": "ashby",
   "slug": "wintermute",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "gsr",
   "ats": "ashby",
   "slug": "gsr",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "flowdesk",
   "ats": "ashby",
   "slug": "flowdesk",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "kaiko",
   "ats": "ashby",
   "slug": "kaiko",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "ledger",
@@ -2847,35 +2919,45 @@
   "ats": "ashby",
   "slug": "argent",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "zodia",
   "ats": "ashby",
   "slug": "zodia",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "copper",
   "ats": "ashby",
   "slug": "copper",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "hidden-road",
   "ats": "ashby",
   "slug": "hidden-road",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "finom",
   "ats": "ashby",
   "slug": "finom",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "vivid",
@@ -2903,7 +2985,9 @@
   "ats": "ashby",
   "slug": "lydia",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "upvest",
@@ -2917,70 +3001,90 @@
   "ats": "ashby",
   "slug": "scalable",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "traderepublic",
   "ats": "ashby",
   "slug": "traderepublic",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "nuri",
   "ats": "ashby",
   "slug": "nuri",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "tink",
   "ats": "ashby",
   "slug": "tink",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "yapily",
   "ats": "ashby",
   "slug": "yapily",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "gocardless",
   "ats": "ashby",
   "slug": "gocardless",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "monzo",
   "ats": "ashby",
   "slug": "monzo",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "wise",
   "ats": "ashby",
   "slug": "wise",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "revolut",
   "ats": "ashby",
   "slug": "revolut",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "n26",
   "ats": "ashby",
   "slug": "n26",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "gemini",
@@ -3001,21 +3105,27 @@
   "ats": "greenhouse",
   "slug": "chainlinklabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "blockdaemon",
   "ats": "greenhouse",
   "slug": "blockdaemon",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "circle",
   "ats": "greenhouse",
   "slug": "circle",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "n26",
@@ -3029,70 +3139,90 @@
   "ats": "greenhouse",
   "slug": "solaris",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "modulr",
   "ats": "greenhouse",
   "slug": "modulr",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "ondo",
   "ats": "greenhouse",
   "slug": "ondo",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "remotecom",
   "ats": "greenhouse",
   "slug": "remotecom",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "offchainlabs",
   "ats": "greenhouse",
   "slug": "offchainlabs",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "zerohash",
   "ats": "greenhouse",
   "slug": "zerohash",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "anchorage",
   "ats": "greenhouse",
   "slug": "anchorage",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "paxos",
   "ats": "greenhouse",
   "slug": "paxos",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "checkoutcom",
   "ats": "greenhouse",
   "slug": "checkoutcom",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "wealthsimple",
   "ats": "greenhouse",
   "slug": "wealthsimple",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "nubank",
@@ -3106,98 +3236,126 @@
   "ats": "greenhouse",
   "slug": "addepar",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "valr",
   "ats": "greenhouse",
   "slug": "valr",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "kraken",
   "ats": "greenhouse",
   "slug": "kraken",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "bitstamp",
   "ats": "greenhouse",
   "slug": "bitstamp",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "backbase",
   "ats": "greenhouse",
   "slug": "backbase",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "mambu",
   "ats": "greenhouse",
   "slug": "mambu",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "10xbanking",
   "ats": "greenhouse",
   "slug": "10xbanking",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "thoughtmachine",
   "ats": "greenhouse",
   "slug": "thoughtmachine",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "clearscore",
   "ats": "greenhouse",
   "slug": "clearscore",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "starlingbank",
   "ats": "greenhouse",
   "slug": "starlingbank",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "zopa",
   "ats": "greenhouse",
   "slug": "zopa",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "transferwise",
   "ats": "greenhouse",
   "slug": "transferwise",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "onfido",
   "ats": "greenhouse",
   "slug": "onfido",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "sumsub",
   "ats": "greenhouse",
   "slug": "sumsub",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "veriff",
@@ -3211,28 +3369,36 @@
   "ats": "greenhouse",
   "slug": "taxfix",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "trade-republic",
   "ats": "greenhouse",
   "slug": "trade-republic",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "securitize",
   "ats": "lever",
   "slug": "securitize",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "ledger",
   "ats": "lever",
   "slug": "ledger",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "qonto",
@@ -3260,14 +3426,18 @@
   "ats": "lever",
   "slug": "bitpanda",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "kryptonite",
   "ats": "lever",
   "slug": "kryptonite",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "wintermute-trading",
@@ -3281,7 +3451,9 @@
   "ats": "lever",
   "slug": "gsr",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "certik",
@@ -3302,63 +3474,81 @@
   "ats": "lever",
   "slug": "polygon",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "near",
   "ats": "lever",
   "slug": "near",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "scalablecapital",
   "ats": "lever",
   "slug": "scalablecapital",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "upvest",
   "ats": "lever",
   "slug": "upvest",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "finom",
   "ats": "lever",
   "slug": "finom",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "mambu",
   "ats": "lever",
   "slug": "mambu",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "solarisbank",
   "ats": "lever",
   "slug": "solarisbank",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "penta",
   "ats": "lever",
   "slug": "penta",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "vivid",
   "ats": "lever",
   "slug": "vivid",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "tether",
@@ -3421,28 +3611,36 @@
   "ats": "personio",
   "slug": "bitwala",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "nuri",
   "ats": "personio",
   "slug": "nuri",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "moss",
   "ats": "personio",
   "slug": "moss",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "billie",
   "ats": "personio",
   "slug": "billie",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "finanzguru",
@@ -3456,7 +3654,9 @@
   "ats": "personio",
   "slug": "smava",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "blockchain",
@@ -3470,14 +3670,18 @@
   "ats": "workable",
   "slug": "bitcoinsuisse",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "sygnum",
   "ats": "workable",
   "slug": "sygnum",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "21shares",
@@ -3491,12 +3695,72 @@
   "ats": "workable",
   "slug": "taurus",
   "domain": "fintech",
-  "curated": true
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
  },
  {
   "name": "metaco",
   "ats": "workable",
   "slug": "metaco",
+  "domain": "fintech",
+  "curated": true,
+  "disabled": true,
+  "note": "404 on first crawl"
+ },
+ {
+  "name": "CircleCI",
+  "ats": "greenhouse",
+  "slug": "circleci",
+  "domain": "tech",
+  "curated": true
+ },
+ {
+  "name": "Moss",
+  "ats": "ashby",
+  "slug": "moss",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Bondora",
+  "ats": "greenhouse-eu",
+  "slug": "bondora",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Nearform",
+  "ats": "greenhouse",
+  "slug": "nearform",
+  "domain": "tech",
+  "curated": true
+ },
+ {
+  "name": "Bitpanda",
+  "ats": "greenhouse-eu",
+  "slug": "bitpanda",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Trade Republic",
+  "ats": "greenhouse",
+  "slug": "traderepublicbank",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "BVNK",
+  "ats": "greenhouse-eu",
+  "slug": "bvnk",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Taxfix",
+  "ats": "ashby",
+  "slug": "taxfix.com",
   "domain": "fintech",
   "curated": true
  }
