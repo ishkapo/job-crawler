@@ -1,0 +1,13 @@
+{
+ "companies": 560,
+ "ok": 453,
+ "failed": 0,
+ "notFound": 107,
+ "jobs": 33068,
+ "titleKept": 5764,
+ "locationKept": 921,
+ "open": 921,
+ "new": 921,
+ "date": "2026-10-26",
+ "deadSlugs": []
+}
