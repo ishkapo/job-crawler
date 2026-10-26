@@ -1,0 +1,42 @@
+name: Daily job crawl
+
+on:
+  schedule:
+    - cron: "40 5 * * *"   # 05:40 UTC, before the 07:53 Lisbon Role Radar scan
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Test filters
+        run: node --test test/*.test.mjs
+
+      - name: Crawl
+        run: node src/crawl.mjs
+
+      - name: Commit results
+        run: |
+          git config user.name "job-crawler-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "crawl: $(date -u +%F) — $(node -e "const r=require('./data/run_report.json');console.log(r.new+' new, '+r.open+' open, '+r.ok+'/'+r.companies+' boards ok')")"
+            git push
+          fi

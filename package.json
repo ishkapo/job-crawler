@@ -1,0 +1,11 @@
+{
+  "name": "job-crawler",
+  "private": true,
+  "type": "module",
+  "description": "Daily crawl of public ATS job boards for senior tech roles open to Portugal",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "crawl": "node src/crawl.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

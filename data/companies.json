@@ -1,0 +1,3503 @@
+[
+ {
+  "name": "Coinbase",
+  "ats": "greenhouse",
+  "slug": "coinbase",
+  "domain": "fintech"
+ },
+ {
+  "name": "Airwallex",
+  "ats": "ashby",
+  "slug": "airwallex",
+  "domain": "fintech"
+ },
+ {
+  "name": "Monzo",
+  "ats": "greenhouse",
+  "slug": "monzo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Alloy",
+  "ats": "greenhouse",
+  "slug": "alloy",
+  "domain": "fintech"
+ },
+ {
+  "name": "Careers at Tide",
+  "ats": "greenhouse",
+  "slug": "tide",
+  "domain": "fintech"
+ },
+ {
+  "name": "M KOPA",
+  "ats": "ashby",
+  "slug": "M-KOPA",
+  "domain": "fintech"
+ },
+ {
+  "name": "Moniepoint",
+  "ats": "greenhouse",
+  "slug": "moniepoint",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lightspeedhq",
+  "ats": "ashby",
+  "slug": "lightspeedhq",
+  "domain": "fintech"
+ },
+ {
+  "name": "ComparaJá",
+  "ats": "greenhouse",
+  "slug": "comparaja",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bjakcareer",
+  "ats": "ashby",
+  "slug": "bjakcareer",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tillo",
+  "ats": "ashby",
+  "slug": "tillo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Oneapp",
+  "ats": "ashby",
+  "slug": "oneapp",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mollie",
+  "ats": "ashby",
+  "slug": "Mollie",
+  "domain": "fintech"
+ },
+ {
+  "name": "Stripe",
+  "ats": "greenhouse",
+  "slug": "stripe",
+  "domain": "fintech"
+ },
+ {
+  "name": "TaptapSend",
+  "ats": "ashby",
+  "slug": "TaptapSend",
+  "domain": "fintech"
+ },
+ {
+  "name": "Access Bank PLC",
+  "ats": "workable",
+  "slug": "access-bank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Robinhood",
+  "ats": "greenhouse",
+  "slug": "robinhood",
+  "domain": "fintech"
+ },
+ {
+  "name": "Plaid",
+  "ats": "ashby",
+  "slug": "plaid",
+  "domain": "fintech"
+ },
+ {
+  "name": "GHX",
+  "ats": "greenhouse",
+  "slug": "globalhealthcareexchangeinc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mercury",
+  "ats": "greenhouse",
+  "slug": "mercury",
+  "domain": "fintech"
+ },
+ {
+  "name": "Super.Com",
+  "ats": "ashby",
+  "slug": "super.com",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ripple",
+  "ats": "greenhouse",
+  "slug": "ripple",
+  "domain": "fintech"
+ },
+ {
+  "name": "Compeer Financial",
+  "ats": "greenhouse",
+  "slug": "compeerfinancial",
+  "domain": "fintech"
+ },
+ {
+  "name": "Octane",
+  "ats": "greenhouse",
+  "slug": "octanelending",
+  "domain": "fintech"
+ },
+ {
+  "name": "BILL",
+  "ats": "greenhouse",
+  "slug": "billcom",
+  "domain": "fintech"
+ },
+ {
+  "name": "Inter Carreiras",
+  "ats": "greenhouse",
+  "slug": "inter",
+  "domain": "fintech"
+ },
+ {
+  "name": "Perplexity",
+  "ats": "ashby",
+  "slug": "Perplexity",
+  "domain": "fintech"
+ },
+ {
+  "name": "Preply",
+  "ats": "ashby",
+  "slug": "preply",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bitvavo",
+  "ats": "ashby",
+  "slug": "bitvavo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Savvy",
+  "ats": "ashby",
+  "slug": "savvy",
+  "domain": "fintech"
+ },
+ {
+  "name": "FastSpring",
+  "ats": "greenhouse",
+  "slug": "fastspring",
+  "domain": "fintech"
+ },
+ {
+  "name": "Seon",
+  "ats": "ashby",
+  "slug": "seon",
+  "domain": "fintech"
+ },
+ {
+  "name": "OKX",
+  "ats": "greenhouse",
+  "slug": "okx",
+  "domain": "fintech"
+ },
+ {
+  "name": "SoFi",
+  "ats": "greenhouse",
+  "slug": "sofi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Welltech",
+  "ats": "ashby",
+  "slug": "welltech",
+  "domain": "fintech"
+ },
+ {
+  "name": "Stone - Linkedin",
+  "ats": "greenhouse",
+  "slug": "stone",
+  "domain": "fintech"
+ },
+ {
+  "name": "Wealthsimple",
+  "ats": "ashby",
+  "slug": "wealthsimple",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pricefox",
+  "ats": "greenhouse",
+  "slug": "pricefox",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bitpanda",
+  "ats": "greenhouse",
+  "slug": "bitpanda",
+  "domain": "fintech"
+ },
+ {
+  "name": "Alpaca",
+  "ats": "greenhouse",
+  "slug": "alpaca",
+  "domain": "fintech"
+ },
+ {
+  "name": "Convene Hospitality Group",
+  "ats": "greenhouse",
+  "slug": "convene",
+  "domain": "fintech"
+ },
+ {
+  "name": "SAP Fioneer",
+  "ats": "workable",
+  "slug": "fioneer",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clara",
+  "ats": "greenhouse",
+  "slug": "clara",
+  "domain": "fintech"
+ },
+ {
+  "name": "Sezzle",
+  "ats": "greenhouse",
+  "slug": "sezzle",
+  "domain": "fintech"
+ },
+ {
+  "name": "Qualia",
+  "ats": "greenhouse",
+  "slug": "qualia",
+  "domain": "fintech"
+ },
+ {
+  "name": "Coalition, Inc.",
+  "ats": "greenhouse",
+  "slug": "coalition",
+  "domain": "fintech"
+ },
+ {
+  "name": "Altruist",
+  "ats": "greenhouse",
+  "slug": "altruist",
+  "domain": "fintech"
+ },
+ {
+  "name": "Appian Corporation",
+  "ats": "greenhouse",
+  "slug": "appian",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fanatics Inc.",
+  "ats": "greenhouse",
+  "slug": "fanaticsinc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clera",
+  "ats": "ashby",
+  "slug": "Clera",
+  "domain": "fintech"
+ },
+ {
+  "name": "Databricks",
+  "ats": "greenhouse",
+  "slug": "databricks",
+  "domain": "fintech"
+ },
+ {
+  "name": "Iwoca.Co.Uk",
+  "ats": "ashby",
+  "slug": "iwoca.co.uk",
+  "domain": "fintech"
+ },
+ {
+  "name": "Rocket Money",
+  "ats": "greenhouse",
+  "slug": "truebill",
+  "domain": "fintech"
+ },
+ {
+  "name": "Galaxy",
+  "ats": "greenhouse",
+  "slug": "galaxydigitalservices",
+  "domain": "fintech"
+ },
+ {
+  "name": "Eye Security",
+  "ats": "ashby",
+  "slug": "eye-security",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pathward, N.A.",
+  "ats": "greenhouse",
+  "slug": "pathward",
+  "domain": "fintech"
+ },
+ {
+  "name": "Allica Bank",
+  "ats": "ashby",
+  "slug": "allica-bank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Capco",
+  "ats": "greenhouse",
+  "slug": "capco",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ebury",
+  "ats": "greenhouse",
+  "slug": "ebury",
+  "domain": "fintech"
+ },
+ {
+  "name": "Capchase",
+  "ats": "ashby",
+  "slug": "capchase",
+  "domain": "fintech"
+ },
+ {
+  "name": "TENTENS Tech",
+  "ats": "ashby",
+  "slug": "TENTENS-Tech",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fireblocks",
+  "ats": "greenhouse",
+  "slug": "fireblocks",
+  "domain": "fintech"
+ },
+ {
+  "name": "Checkout.Com",
+  "ats": "ashby",
+  "slug": "checkout.com",
+  "domain": "fintech"
+ },
+ {
+  "name": "Paytm",
+  "ats": "lever",
+  "slug": "paytm",
+  "domain": "fintech"
+ },
+ {
+  "name": "HRtechX",
+  "ats": "greenhouse",
+  "slug": "hrtechx",
+  "domain": "fintech"
+ },
+ {
+  "name": "Sierra",
+  "ats": "ashby",
+  "slug": "Sierra",
+  "domain": "fintech"
+ },
+ {
+  "name": "Trm Labs",
+  "ats": "ashby",
+  "slug": "trm-labs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fireworks",
+  "ats": "ashby",
+  "slug": "fireworks",
+  "domain": "fintech"
+ },
+ {
+  "name": "Adyen",
+  "ats": "greenhouse",
+  "slug": "adyen",
+  "domain": "fintech"
+ },
+ {
+  "name": "Truelinkfinancial",
+  "ats": "ashby",
+  "slug": "truelinkfinancial",
+  "domain": "fintech"
+ },
+ {
+  "name": "Brex",
+  "ats": "greenhouse",
+  "slug": "brex",
+  "domain": "fintech"
+ },
+ {
+  "name": "ScribdInc",
+  "ats": "ashby",
+  "slug": "ScribdInc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Arena Club",
+  "ats": "greenhouse",
+  "slug": "arenaclub",
+  "domain": "fintech"
+ },
+ {
+  "name": "Graham Capital Management, L.P.",
+  "ats": "greenhouse",
+  "slug": "grahamcapitalmanagement",
+  "domain": "fintech"
+ },
+ {
+  "name": "iCapital",
+  "ats": "greenhouse",
+  "slug": "icapitalnetwork",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lendable",
+  "ats": "ashby",
+  "slug": "lendable",
+  "domain": "fintech"
+ },
+ {
+  "name": "SumUp",
+  "ats": "greenhouse",
+  "slug": "sumup",
+  "domain": "fintech"
+ },
+ {
+  "name": "Neo4j",
+  "ats": "greenhouse",
+  "slug": "neo4j",
+  "domain": "fintech"
+ },
+ {
+  "name": "Xero",
+  "ats": "ashby",
+  "slug": "xero",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lemfi",
+  "ats": "ashby",
+  "slug": "lemfi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Toast",
+  "ats": "greenhouse",
+  "slug": "toast",
+  "domain": "fintech"
+ },
+ {
+  "name": "Toku",
+  "ats": "ashby",
+  "slug": "Toku",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bluevine - US",
+  "ats": "greenhouse",
+  "slug": "bluevineus",
+  "domain": "fintech"
+ },
+ {
+  "name": "Wincent",
+  "ats": "ashby",
+  "slug": "wincent",
+  "domain": "fintech"
+ },
+ {
+  "name": "Oaknorth",
+  "ats": "ashby",
+  "slug": "oaknorth",
+  "domain": "fintech"
+ },
+ {
+  "name": "Grupo QuintoAndar",
+  "ats": "greenhouse",
+  "slug": "quintoandar",
+  "domain": "fintech"
+ },
+ {
+  "name": "Topstep",
+  "ats": "greenhouse",
+  "slug": "topsteptrader",
+  "domain": "fintech"
+ },
+ {
+  "name": "Neurons Lab.Com",
+  "ats": "ashby",
+  "slug": "neurons-lab.com",
+  "domain": "fintech"
+ },
+ {
+  "name": "Crypto",
+  "ats": "lever",
+  "slug": "crypto",
+  "domain": "fintech"
+ },
+ {
+  "name": "Funding Societies | Modalku Group",
+  "ats": "workable",
+  "slug": "fundingsocieties",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pocket Worlds",
+  "ats": "ashby",
+  "slug": "Pocket%20Worlds",
+  "domain": "fintech"
+ },
+ {
+  "name": "Sardine",
+  "ats": "ashby",
+  "slug": "sardine",
+  "domain": "fintech"
+ },
+ {
+  "name": "Blockhouse",
+  "ats": "ashby",
+  "slug": "Blockhouse",
+  "domain": "fintech"
+ },
+ {
+  "name": "Capital on Tap",
+  "ats": "greenhouse",
+  "slug": "capitalontap",
+  "domain": "fintech"
+ },
+ {
+  "name": "Faropoint",
+  "ats": "greenhouse",
+  "slug": "faropoint",
+  "domain": "fintech"
+ },
+ {
+  "name": "AvidXchange, Inc.",
+  "ats": "greenhouse",
+  "slug": "avidxchangeinc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Focus Financial Partners",
+  "ats": "greenhouse",
+  "slug": "focusfinancialpartners",
+  "domain": "fintech"
+ },
+ {
+  "name": "0x",
+  "ats": "ashby",
+  "slug": "0x",
+  "domain": "fintech"
+ },
+ {
+  "name": "Swap",
+  "ats": "ashby",
+  "slug": "swap",
+  "domain": "fintech"
+ },
+ {
+  "name": "ARQ",
+  "ats": "ashby",
+  "slug": "ARQ",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lynx",
+  "ats": "greenhouse",
+  "slug": "lynxtech",
+  "domain": "fintech"
+ },
+ {
+  "name": "Adjoe",
+  "ats": "ashby",
+  "slug": "adjoe",
+  "domain": "fintech"
+ },
+ {
+  "name": "Verve",
+  "ats": "greenhouse",
+  "slug": "verve",
+  "domain": "fintech"
+ },
+ {
+  "name": "Jerry.Ai",
+  "ats": "ashby",
+  "slug": "Jerry.ai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Aspora",
+  "ats": "ashby",
+  "slug": "Aspora",
+  "domain": "fintech"
+ },
+ {
+  "name": "Talos Trading",
+  "ats": "ashby",
+  "slug": "Talos-Trading",
+  "domain": "fintech"
+ },
+ {
+  "name": "Payoneer",
+  "ats": "greenhouse",
+  "slug": "payoneer",
+  "domain": "fintech"
+ },
+ {
+  "name": "Everpure",
+  "ats": "greenhouse",
+  "slug": "purestorage",
+  "domain": "fintech"
+ },
+ {
+  "name": "Figure Lending",
+  "ats": "greenhouse",
+  "slug": "figure",
+  "domain": "fintech"
+ },
+ {
+  "name": "Socure",
+  "ats": "ashby",
+  "slug": "socure",
+  "domain": "fintech"
+ },
+ {
+  "name": "FairMoney",
+  "ats": "workable",
+  "slug": "fairmoney",
+  "domain": "fintech"
+ },
+ {
+  "name": "HugoBank",
+  "ats": "workable",
+  "slug": "hugobank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Cardless",
+  "ats": "ashby",
+  "slug": "cardless",
+  "domain": "fintech"
+ },
+ {
+  "name": "Paxos",
+  "ats": "ashby",
+  "slug": "paxos",
+  "domain": "fintech"
+ },
+ {
+  "name": "Extend",
+  "ats": "greenhouse",
+  "slug": "extend",
+  "domain": "fintech"
+ },
+ {
+  "name": "NinjaTrader",
+  "ats": "greenhouse",
+  "slug": "ninjatrader",
+  "domain": "fintech"
+ },
+ {
+  "name": "Twilio",
+  "ats": "greenhouse",
+  "slug": "twilio",
+  "domain": "fintech"
+ },
+ {
+  "name": "Schonfeld",
+  "ats": "greenhouse",
+  "slug": "schonfeld",
+  "domain": "fintech"
+ },
+ {
+  "name": "Riskified",
+  "ats": "greenhouse",
+  "slug": "riskified",
+  "domain": "fintech"
+ },
+ {
+  "name": "Celonis",
+  "ats": "greenhouse",
+  "slug": "celonis",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fanatics Collectibles",
+  "ats": "greenhouse",
+  "slug": "fanaticscollectibles",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mergemoney",
+  "ats": "ashby",
+  "slug": "mergemoney",
+  "domain": "fintech"
+ },
+ {
+  "name": "Optiver",
+  "ats": "greenhouse",
+  "slug": "optiverus",
+  "domain": "fintech"
+ },
+ {
+  "name": "Qualitate",
+  "ats": "ashby",
+  "slug": "qualitate",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clear Junction",
+  "ats": "workable",
+  "slug": "clearjunction",
+  "domain": "fintech"
+ },
+ {
+  "name": "Libertex Group",
+  "ats": "workable",
+  "slug": "libertexgroup",
+  "domain": "fintech"
+ },
+ {
+  "name": "EvolutionIQ",
+  "ats": "greenhouse",
+  "slug": "evolutioniq",
+  "domain": "fintech"
+ },
+ {
+  "name": "Capital",
+  "ats": "lever",
+  "slug": "capital",
+  "domain": "fintech"
+ },
+ {
+  "name": "Higgsfieldai",
+  "ats": "ashby",
+  "slug": "higgsfieldai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Amartha",
+  "ats": "workable",
+  "slug": "amartha",
+  "domain": "fintech"
+ },
+ {
+  "name": "Next Insurance",
+  "ats": "greenhouse",
+  "slug": "nextinsurance66",
+  "domain": "fintech"
+ },
+ {
+  "name": "Amperos",
+  "ats": "ashby",
+  "slug": "amperos",
+  "domain": "fintech"
+ },
+ {
+  "name": "YipitData",
+  "ats": "greenhouse",
+  "slug": "yipitdata",
+  "domain": "fintech"
+ },
+ {
+  "name": "Testlio",
+  "ats": "greenhouse",
+  "slug": "testlio",
+  "domain": "fintech"
+ },
+ {
+  "name": "FalconX",
+  "ats": "greenhouse",
+  "slug": "falconx",
+  "domain": "fintech"
+ },
+ {
+  "name": "Raintree Systems",
+  "ats": "ashby",
+  "slug": "raintree-systems",
+  "domain": "fintech"
+ },
+ {
+  "name": "Navan",
+  "ats": "greenhouse",
+  "slug": "tripactions",
+  "domain": "fintech"
+ },
+ {
+  "name": "Affirm",
+  "ats": "greenhouse",
+  "slug": "affirm",
+  "domain": "fintech"
+ },
+ {
+  "name": "Alan",
+  "ats": "ashby",
+  "slug": "alan",
+  "domain": "fintech"
+ },
+ {
+  "name": "Netwealth",
+  "ats": "ashby",
+  "slug": "netwealth",
+  "domain": "fintech"
+ },
+ {
+  "name": "World Business Lenders, LLC",
+  "ats": "workable",
+  "slug": "commercial-lending",
+  "domain": "fintech"
+ },
+ {
+  "name": "Delta Exchange",
+  "ats": "workable",
+  "slug": "deltaexchange",
+  "domain": "fintech"
+ },
+ {
+  "name": "Credit Union of Colorado",
+  "ats": "greenhouse",
+  "slug": "creditunionofcolorado",
+  "domain": "fintech"
+ },
+ {
+  "name": "Anthropic",
+  "ats": "greenhouse",
+  "slug": "anthropic",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clearco",
+  "ats": "ashby",
+  "slug": "clearco",
+  "domain": "fintech"
+ },
+ {
+  "name": "Optro",
+  "ats": "ashby",
+  "slug": "optro",
+  "domain": "fintech"
+ },
+ {
+  "name": "Enova International",
+  "ats": "greenhouse",
+  "slug": "enova",
+  "domain": "fintech"
+ },
+ {
+  "name": "Dnb",
+  "ats": "lever",
+  "slug": "dnb",
+  "domain": "fintech"
+ },
+ {
+  "name": "Billtrust US Careers",
+  "ats": "greenhouse",
+  "slug": "billtrust",
+  "domain": "fintech"
+ },
+ {
+  "name": "Trust Wallet",
+  "ats": "ashby",
+  "slug": "trust-wallet",
+  "domain": "fintech"
+ },
+ {
+  "name": "Karbon",
+  "ats": "greenhouse",
+  "slug": "karbon",
+  "domain": "fintech"
+ },
+ {
+  "name": "Snapdocs",
+  "ats": "ashby",
+  "slug": "snapdocs",
+  "domain": "fintech"
+ },
+ {
+  "name": "EBANX",
+  "ats": "greenhouse",
+  "slug": "ebanx",
+  "domain": "fintech"
+ },
+ {
+  "name": "Engine",
+  "ats": "greenhouse",
+  "slug": "engine",
+  "domain": "fintech"
+ },
+ {
+  "name": "Shopmonkey",
+  "ats": "greenhouse",
+  "slug": "shopmonkey",
+  "domain": "fintech"
+ },
+ {
+  "name": "Octus",
+  "ats": "greenhouse",
+  "slug": "octus",
+  "domain": "fintech"
+ },
+ {
+  "name": "Nuitée",
+  "ats": "greenhouse",
+  "slug": "nuitee",
+  "domain": "fintech"
+ },
+ {
+  "name": "ElevenLabs",
+  "ats": "ashby",
+  "slug": "ElevenLabs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clearbank",
+  "ats": "ashby",
+  "slug": "clearbank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gusto, Inc.",
+  "ats": "greenhouse",
+  "slug": "gusto",
+  "domain": "fintech"
+ },
+ {
+  "name": "Cepal Hellas Financial Services S.A.",
+  "ats": "workable",
+  "slug": "cepal",
+  "domain": "fintech"
+ },
+ {
+  "name": "CoverGo",
+  "ats": "workable",
+  "slug": "covergo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Wrapbook",
+  "ats": "ashby",
+  "slug": "wrapbook",
+  "domain": "fintech"
+ },
+ {
+  "name": "Chime Financial, Inc",
+  "ats": "greenhouse",
+  "slug": "chime",
+  "domain": "fintech"
+ },
+ {
+  "name": "Knock",
+  "ats": "greenhouse",
+  "slug": "knock",
+  "domain": "fintech"
+ },
+ {
+  "name": "Judi Health",
+  "ats": "greenhouse",
+  "slug": "judihealth",
+  "domain": "fintech"
+ },
+ {
+  "name": "Breeze",
+  "ats": "greenhouse",
+  "slug": "breezecash",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mission Lane",
+  "ats": "greenhouse",
+  "slug": "missionlane",
+  "domain": "fintech"
+ },
+ {
+  "name": "Upgrade",
+  "ats": "greenhouse",
+  "slug": "upgrade",
+  "domain": "fintech"
+ },
+ {
+  "name": "Sei Labs",
+  "ats": "ashby",
+  "slug": "sei-labs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Alchemy",
+  "ats": "ashby",
+  "slug": "alchemy",
+  "domain": "fintech"
+ },
+ {
+  "name": "Truehold",
+  "ats": "greenhouse",
+  "slug": "truehold",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gen Digital",
+  "ats": "ashby",
+  "slug": "gen-digital",
+  "domain": "fintech"
+ },
+ {
+  "name": "Formance",
+  "ats": "ashby",
+  "slug": "formance",
+  "domain": "fintech"
+ },
+ {
+  "name": "Kin",
+  "ats": "ashby",
+  "slug": "kin",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pleo",
+  "ats": "ashby",
+  "slug": "pleo",
+  "domain": "fintech"
+ },
+ {
+  "name": "BranchInsurance",
+  "ats": "ashby",
+  "slug": "BranchInsurance",
+  "domain": "fintech"
+ },
+ {
+  "name": "Glinttglobal",
+  "ats": "ashby",
+  "slug": "glinttglobal",
+  "domain": "fintech"
+ },
+ {
+  "name": "Finn",
+  "ats": "lever",
+  "slug": "finn",
+  "domain": "fintech"
+ },
+ {
+  "name": "C6 Bank",
+  "ats": "greenhouse",
+  "slug": "c6bank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Teya",
+  "ats": "ashby",
+  "slug": "teya",
+  "domain": "fintech"
+ },
+ {
+  "name": "DataDome",
+  "ats": "greenhouse",
+  "slug": "ddome",
+  "domain": "fintech"
+ },
+ {
+  "name": "Docplanner",
+  "ats": "ashby",
+  "slug": "docplanner",
+  "domain": "fintech"
+ },
+ {
+  "name": "Chainalysis Careers",
+  "ats": "ashby",
+  "slug": "chainalysis-careers",
+  "domain": "fintech"
+ },
+ {
+  "name": "Hudson River Trading",
+  "ats": "greenhouse",
+  "slug": "wehrtyou",
+  "domain": "fintech"
+ },
+ {
+  "name": "CreditorWatch",
+  "ats": "workable",
+  "slug": "creditorwatch",
+  "domain": "fintech"
+ },
+ {
+  "name": "Thndr",
+  "ats": "ashby",
+  "slug": "thndr",
+  "domain": "fintech"
+ },
+ {
+  "name": "Upstart",
+  "ats": "greenhouse",
+  "slug": "upstart",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gelber Group",
+  "ats": "greenhouse",
+  "slug": "gelbergroup",
+  "domain": "fintech"
+ },
+ {
+  "name": "Coinflow",
+  "ats": "ashby",
+  "slug": "Coinflow",
+  "domain": "fintech"
+ },
+ {
+  "name": "Cruxclimate",
+  "ats": "ashby",
+  "slug": "cruxclimate",
+  "domain": "fintech"
+ },
+ {
+  "name": "DKB Code Factory",
+  "ats": "greenhouse",
+  "slug": "dkbcodefactory",
+  "domain": "fintech"
+ },
+ {
+  "name": "Razorpay Software Private Limited",
+  "ats": "greenhouse",
+  "slug": "razorpaysoftwareprivatelimited",
+  "domain": "fintech"
+ },
+ {
+  "name": "Terac",
+  "ats": "ashby",
+  "slug": "terac",
+  "domain": "fintech"
+ },
+ {
+  "name": "AIFT",
+  "ats": "greenhouse",
+  "slug": "aift",
+  "domain": "fintech"
+ },
+ {
+  "name": "BVNK",
+  "ats": "greenhouse",
+  "slug": "bvnk",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bank of Jordan",
+  "ats": "workable",
+  "slug": "bank-of-jordan",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pennylane",
+  "ats": "ashby",
+  "slug": "pennylane",
+  "domain": "fintech"
+ },
+ {
+  "name": "Etched",
+  "ats": "ashby",
+  "slug": "Etched",
+  "domain": "fintech"
+ },
+ {
+  "name": "Vestwell",
+  "ats": "greenhouse",
+  "slug": "vestwell",
+  "domain": "fintech"
+ },
+ {
+  "name": "Trulioo",
+  "ats": "ashby",
+  "slug": "trulioo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tilthq",
+  "ats": "ashby",
+  "slug": "tilthq",
+  "domain": "fintech"
+ },
+ {
+  "name": "Modulr",
+  "ats": "greenhouse",
+  "slug": "modulrfinance",
+  "domain": "fintech"
+ },
+ {
+  "name": "BRKZ",
+  "ats": "greenhouse",
+  "slug": "brkz",
+  "domain": "fintech"
+ },
+ {
+  "name": "Marshmallow",
+  "ats": "ashby",
+  "slug": "marshmallow",
+  "domain": "fintech"
+ },
+ {
+  "name": "Virtu Financial",
+  "ats": "greenhouse",
+  "slug": "virtu",
+  "domain": "fintech"
+ },
+ {
+  "name": "Plata Card",
+  "ats": "greenhouse",
+  "slug": "platacard",
+  "domain": "fintech"
+ },
+ {
+  "name": "Piermont Bank",
+  "ats": "greenhouse",
+  "slug": "piermontbank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Abacus Insights",
+  "ats": "greenhouse",
+  "slug": "abacusinsights",
+  "domain": "fintech"
+ },
+ {
+  "name": "Everfield",
+  "ats": "ashby",
+  "slug": "everfield",
+  "domain": "fintech"
+ },
+ {
+  "name": "Raisin",
+  "ats": "greenhouse",
+  "slug": "raisin",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tala",
+  "ats": "lever",
+  "slug": "tala",
+  "domain": "fintech"
+ },
+ {
+  "name": "BitGo",
+  "ats": "greenhouse",
+  "slug": "bitgo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lightspark",
+  "ats": "ashby",
+  "slug": "lightspark",
+  "domain": "fintech"
+ },
+ {
+  "name": "Block",
+  "ats": "greenhouse",
+  "slug": "block",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gohighlevel",
+  "ats": "lever",
+  "slug": "gohighlevel",
+  "domain": "fintech"
+ },
+ {
+  "name": "Teza Technologies",
+  "ats": "ashby",
+  "slug": "teza-technologies",
+  "domain": "fintech"
+ },
+ {
+  "name": "Integral De",
+  "ats": "ashby",
+  "slug": "integral-de",
+  "domain": "fintech"
+ },
+ {
+  "name": "Satispay",
+  "ats": "ashby",
+  "slug": "satispay",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clasp Group",
+  "ats": "ashby",
+  "slug": "clasp-group",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lavendo",
+  "ats": "ashby",
+  "slug": "lavendo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Aviso Wealth",
+  "ats": "workable",
+  "slug": "aviso",
+  "domain": "fintech"
+ },
+ {
+  "name": "Zuora",
+  "ats": "greenhouse",
+  "slug": "zuora",
+  "domain": "fintech"
+ },
+ {
+  "name": "Zesty.ai",
+  "ats": "greenhouse",
+  "slug": "zestyai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Elliptic",
+  "ats": "ashby",
+  "slug": "Elliptic",
+  "domain": "fintech"
+ },
+ {
+  "name": "PayNearMe, Inc.",
+  "ats": "greenhouse",
+  "slug": "paynearmeinc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fundingcircle",
+  "ats": "ashby",
+  "slug": "fundingcircle",
+  "domain": "fintech"
+ },
+ {
+  "name": "Solaris",
+  "ats": "greenhouse",
+  "slug": "solarisbank",
+  "domain": "fintech"
+ },
+ {
+  "name": "Axi",
+  "ats": "greenhouse",
+  "slug": "axicorpfinancialservicesptyltd",
+  "domain": "fintech"
+ },
+ {
+  "name": "Applied",
+  "ats": "ashby",
+  "slug": "Applied",
+  "domain": "fintech"
+ },
+ {
+  "name": "Uipath",
+  "ats": "ashby",
+  "slug": "uipath",
+  "domain": "fintech"
+ },
+ {
+  "name": "FP Markets",
+  "ats": "workable",
+  "slug": "fpmarkets",
+  "domain": "fintech"
+ },
+ {
+  "name": "Guru Pay",
+  "ats": "workable",
+  "slug": "guru-pay",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ridgeline",
+  "ats": "greenhouse",
+  "slug": "ridgeline",
+  "domain": "fintech"
+ },
+ {
+  "name": "Alma",
+  "ats": "greenhouse",
+  "slug": "alma31",
+  "domain": "fintech"
+ },
+ {
+  "name": "Harvey",
+  "ats": "ashby",
+  "slug": "harvey",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pagaya",
+  "ats": "greenhouse",
+  "slug": "pagaya",
+  "domain": "fintech"
+ },
+ {
+  "name": "Liven",
+  "ats": "ashby",
+  "slug": "liven",
+  "domain": "fintech"
+ },
+ {
+  "name": "SKELAR",
+  "ats": "ashby",
+  "slug": "SKELAR",
+  "domain": "fintech"
+ },
+ {
+  "name": "Multiplymii",
+  "ats": "ashby",
+  "slug": "multiplymii",
+  "domain": "fintech"
+ },
+ {
+  "name": "Quantium",
+  "ats": "greenhouse",
+  "slug": "quantium",
+  "domain": "fintech"
+ },
+ {
+  "name": "American Consumer Credit Counseling",
+  "ats": "workable",
+  "slug": "american-consumer-credit-counseling",
+  "domain": "fintech"
+ },
+ {
+  "name": "Koalafi",
+  "ats": "greenhouse",
+  "slug": "koalafi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Five Rings LLC - Careers",
+  "ats": "greenhouse",
+  "slug": "fiveringsllc",
+  "domain": "fintech"
+ },
+ {
+  "name": "EarnIn",
+  "ats": "greenhouse",
+  "slug": "earnin",
+  "domain": "fintech"
+ },
+ {
+  "name": "Nerdwallet",
+  "ats": "ashby",
+  "slug": "nerdwallet",
+  "domain": "fintech"
+ },
+ {
+  "name": "Self Financial",
+  "ats": "greenhouse",
+  "slug": "selffinancial",
+  "domain": "fintech"
+ },
+ {
+  "name": "Loveholidays",
+  "ats": "ashby",
+  "slug": "loveholidays",
+  "domain": "fintech"
+ },
+ {
+  "name": "NABIS",
+  "ats": "greenhouse",
+  "slug": "nabis",
+  "domain": "fintech"
+ },
+ {
+  "name": "Addepar",
+  "ats": "greenhouse",
+  "slug": "addepar1",
+  "domain": "fintech"
+ },
+ {
+  "name": "Carta",
+  "ats": "greenhouse",
+  "slug": "carta",
+  "domain": "fintech"
+ },
+ {
+  "name": "Kraken.Com",
+  "ats": "ashby",
+  "slug": "kraken.com",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ocrolus Inc.",
+  "ats": "greenhouse",
+  "slug": "ocrolusinc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ruby Labs",
+  "ats": "ashby",
+  "slug": "ruby-labs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Solana Foundation",
+  "ats": "ashby",
+  "slug": "Solana%20Foundation",
+  "domain": "fintech"
+ },
+ {
+  "name": "Capital Farm Credit",
+  "ats": "greenhouse",
+  "slug": "capitalfarmcredit",
+  "domain": "fintech"
+ },
+ {
+  "name": "Rumble - Career Page",
+  "ats": "greenhouse",
+  "slug": "rumble",
+  "domain": "fintech"
+ },
+ {
+  "name": "Wormholelabs",
+  "ats": "ashby",
+  "slug": "wormholelabs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Savvymoney",
+  "ats": "ashby",
+  "slug": "savvymoney",
+  "domain": "fintech"
+ },
+ {
+  "name": "Clear Street",
+  "ats": "greenhouse",
+  "slug": "clearstreet",
+  "domain": "fintech"
+ },
+ {
+  "name": "Kunai",
+  "ats": "greenhouse",
+  "slug": "kunai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tem",
+  "ats": "ashby",
+  "slug": "tem",
+  "domain": "fintech"
+ },
+ {
+  "name": "Luno",
+  "ats": "greenhouse",
+  "slug": "luno",
+  "domain": "fintech"
+ },
+ {
+  "name": "Coinhako",
+  "ats": "ashby",
+  "slug": "Coinhako",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lemonade",
+  "ats": "ashby",
+  "slug": "Lemonade",
+  "domain": "fintech"
+ },
+ {
+  "name": "KBRA",
+  "ats": "greenhouse",
+  "slug": "krollbondratingagency",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mitratech",
+  "ats": "greenhouse",
+  "slug": "mitratech",
+  "domain": "fintech"
+ },
+ {
+  "name": "AutoProff",
+  "ats": "greenhouse",
+  "slug": "autoproff",
+  "domain": "fintech"
+ },
+ {
+  "name": "Inshur",
+  "ats": "ashby",
+  "slug": "inshur",
+  "domain": "fintech"
+ },
+ {
+  "name": "Legora",
+  "ats": "ashby",
+  "slug": "legora",
+  "domain": "fintech"
+ },
+ {
+  "name": "Credible",
+  "ats": "greenhouse",
+  "slug": "credible",
+  "domain": "fintech"
+ },
+ {
+  "name": "Point72",
+  "ats": "greenhouse",
+  "slug": "point72",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pliant",
+  "ats": "ashby",
+  "slug": "pliant",
+  "domain": "fintech"
+ },
+ {
+  "name": "ThriveCart",
+  "ats": "greenhouse",
+  "slug": "thrivecart",
+  "domain": "fintech"
+ },
+ {
+  "name": "Kiwi",
+  "ats": "ashby",
+  "slug": "kiwi",
+  "domain": "fintech"
+ },
+ {
+  "name": "DRW",
+  "ats": "greenhouse",
+  "slug": "drweng",
+  "domain": "fintech"
+ },
+ {
+  "name": "Givebutter",
+  "ats": "ashby",
+  "slug": "givebutter",
+  "domain": "fintech"
+ },
+ {
+  "name": "Pebl",
+  "ats": "ashby",
+  "slug": "pebl",
+  "domain": "fintech"
+ },
+ {
+  "name": "Snorkel AI",
+  "ats": "greenhouse",
+  "slug": "snorkelai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Cloudflare",
+  "ats": "greenhouse",
+  "slug": "cloudflare",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mecka.Ai",
+  "ats": "ashby",
+  "slug": "mecka.ai",
+  "domain": "fintech"
+ },
+ {
+  "name": "Breakmark",
+  "ats": "ashby",
+  "slug": "breakmark",
+  "domain": "fintech"
+ },
+ {
+  "name": "Quantexa",
+  "ats": "ashby",
+  "slug": "quantexa",
+  "domain": "fintech"
+ },
+ {
+  "name": "Neofinancial",
+  "ats": "ashby",
+  "slug": "neofinancial",
+  "domain": "fintech"
+ },
+ {
+  "name": "Addi",
+  "ats": "ashby",
+  "slug": "Addi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Backbase",
+  "ats": "greenhouse",
+  "slug": "workatbackbase",
+  "domain": "fintech"
+ },
+ {
+  "name": "Trading212",
+  "ats": "ashby",
+  "slug": "trading212",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tripledot Studios",
+  "ats": "greenhouse",
+  "slug": "tripledotstudios",
+  "domain": "fintech"
+ },
+ {
+  "name": "Bondora",
+  "ats": "greenhouse",
+  "slug": "bondora",
+  "domain": "fintech"
+ },
+ {
+  "name": "Goodstack",
+  "ats": "ashby",
+  "slug": "goodstack",
+  "domain": "fintech"
+ },
+ {
+  "name": "Rogo",
+  "ats": "ashby",
+  "slug": "Rogo",
+  "domain": "fintech"
+ },
+ {
+  "name": "Weiss Asset Management",
+  "ats": "greenhouse",
+  "slug": "weissassetmanagement",
+  "domain": "fintech"
+ },
+ {
+  "name": "BTIG",
+  "ats": "greenhouse",
+  "slug": "btig27",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mirakl",
+  "ats": "greenhouse",
+  "slug": "mirakl",
+  "domain": "fintech"
+ },
+ {
+  "name": "V7labs.Com",
+  "ats": "ashby",
+  "slug": "v7labs.com",
+  "domain": "fintech"
+ },
+ {
+  "name": "Current",
+  "ats": "greenhouse",
+  "slug": "current81",
+  "domain": "fintech"
+ },
+ {
+  "name": "Rain",
+  "ats": "ashby",
+  "slug": "rain",
+  "domain": "fintech"
+ },
+ {
+  "name": "GCM Grosvenor",
+  "ats": "greenhouse",
+  "slug": "gcmgrosvenor",
+  "domain": "fintech"
+ },
+ {
+  "name": "OpenAI",
+  "ats": "ashby",
+  "slug": "OpenAI",
+  "domain": "fintech"
+ },
+ {
+  "name": "Jane",
+  "ats": "ashby",
+  "slug": "jane",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ostrom",
+  "ats": "ashby",
+  "slug": "ostrom",
+  "domain": "fintech"
+ },
+ {
+  "name": "Arcesium LLC",
+  "ats": "greenhouse",
+  "slug": "arcesiumllc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Harperinsure",
+  "ats": "ashby",
+  "slug": "harperinsure",
+  "domain": "fintech"
+ },
+ {
+  "name": "epay, a Euronet Worldwide Company",
+  "ats": "workable",
+  "slug": "epay",
+  "domain": "fintech"
+ },
+ {
+  "name": "Rho",
+  "ats": "ashby",
+  "slug": "rho",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mystenlabs",
+  "ats": "ashby",
+  "slug": "mystenlabs",
+  "domain": "fintech"
+ },
+ {
+  "name": "IDnow",
+  "ats": "greenhouse",
+  "slug": "idnow",
+  "domain": "fintech"
+ },
+ {
+  "name": "Libertex Europe",
+  "ats": "workable",
+  "slug": "libertex-europe",
+  "domain": "fintech"
+ },
+ {
+  "name": "Column",
+  "ats": "ashby",
+  "slug": "column",
+  "domain": "fintech"
+ },
+ {
+  "name": "DV Trading",
+  "ats": "greenhouse",
+  "slug": "dvtrading",
+  "domain": "fintech"
+ },
+ {
+  "name": "Tensec",
+  "ats": "ashby",
+  "slug": "tensec",
+  "domain": "fintech"
+ },
+ {
+  "name": "Mainstay",
+  "ats": "ashby",
+  "slug": "mainstay",
+  "domain": "fintech"
+ },
+ {
+  "name": "Enpal",
+  "ats": "ashby",
+  "slug": "enpal",
+  "domain": "fintech"
+ },
+ {
+  "name": "Weave",
+  "ats": "ashby",
+  "slug": "Weave",
+  "domain": "fintech"
+ },
+ {
+  "name": "NMI",
+  "ats": "greenhouse",
+  "slug": "nmi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Silver",
+  "ats": "ashby",
+  "slug": "Silver",
+  "domain": "fintech"
+ },
+ {
+  "name": "QuickNode",
+  "ats": "ashby",
+  "slug": "QuickNode",
+  "domain": "fintech"
+ },
+ {
+  "name": "AlphaSense",
+  "ats": "greenhouse",
+  "slug": "alphasense",
+  "domain": "fintech"
+ },
+ {
+  "name": "Replit",
+  "ats": "ashby",
+  "slug": "replit",
+  "domain": "fintech"
+ },
+ {
+  "name": "Zeely",
+  "ats": "ashby",
+  "slug": "zeely",
+  "domain": "fintech"
+ },
+ {
+  "name": "Qube Research & Technologies",
+  "ats": "greenhouse",
+  "slug": "quberesearchandtechnologies",
+  "domain": "fintech"
+ },
+ {
+  "name": "Shift",
+  "ats": "ashby",
+  "slug": "shift",
+  "domain": "fintech"
+ },
+ {
+  "name": "Hauler Hero",
+  "ats": "ashby",
+  "slug": "hauler-hero",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ondo Finance",
+  "ats": "greenhouse",
+  "slug": "ondofinance",
+  "domain": "fintech"
+ },
+ {
+  "name": "Solink",
+  "ats": "ashby",
+  "slug": "solink",
+  "domain": "fintech"
+ },
+ {
+  "name": "LeafLink",
+  "ats": "greenhouse",
+  "slug": "leaflink",
+  "domain": "fintech"
+ },
+ {
+  "name": "Trust Bank",
+  "ats": "greenhouse",
+  "slug": "trustbank",
+  "domain": "fintech"
+ },
+ {
+  "name": "AutoTrader.ca",
+  "ats": "greenhouse",
+  "slug": "autotradercanada",
+  "domain": "fintech"
+ },
+ {
+  "name": "First Circle",
+  "ats": "workable",
+  "slug": "first-circle",
+  "domain": "fintech"
+ },
+ {
+  "name": "Highbeam",
+  "ats": "ashby",
+  "slug": "highbeam",
+  "domain": "fintech"
+ },
+ {
+  "name": "Kapitus",
+  "ats": "greenhouse",
+  "slug": "kapitus",
+  "domain": "fintech"
+ },
+ {
+  "name": "Climate First Bank",
+  "ats": "greenhouse",
+  "slug": "climatefirstbank",
+  "domain": "fintech"
+ },
+ {
+  "name": "OpenFX",
+  "ats": "greenhouse",
+  "slug": "openfx",
+  "domain": "fintech"
+ },
+ {
+  "name": "Allegiantair",
+  "ats": "lever",
+  "slug": "allegiantair",
+  "domain": "fintech"
+ },
+ {
+  "name": "SentinelOne",
+  "ats": "greenhouse",
+  "slug": "sentinellabs",
+  "domain": "fintech"
+ },
+ {
+  "name": "Flourish",
+  "ats": "greenhouse",
+  "slug": "flourish",
+  "domain": "fintech"
+ },
+ {
+  "name": "WorldQuant",
+  "ats": "greenhouse",
+  "slug": "worldquant",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gate",
+  "ats": "lever",
+  "slug": "gate",
+  "domain": "fintech"
+ },
+ {
+  "name": "Matic",
+  "ats": "greenhouse",
+  "slug": "matic",
+  "domain": "fintech"
+ },
+ {
+  "name": "Gemini",
+  "ats": "greenhouse",
+  "slug": "embed",
+  "domain": "fintech"
+ },
+ {
+  "name": "Atomic Invest",
+  "ats": "ashby",
+  "slug": "atomic-invest",
+  "domain": "fintech"
+ },
+ {
+  "name": "Waveapps",
+  "ats": "lever",
+  "slug": "waveapps",
+  "domain": "fintech"
+ },
+ {
+  "name": "Ether.Fi",
+  "ats": "ashby",
+  "slug": "ether.fi",
+  "domain": "fintech"
+ },
+ {
+  "name": "Fortitude Re",
+  "ats": "greenhouse",
+  "slug": "fortitudegroupholdingsllc",
+  "domain": "fintech"
+ },
+ {
+  "name": "Wetravel",
+  "ats": "ashby",
+  "slug": "wetravel",
+  "domain": "fintech"
+ },
+ {
+  "name": "Flow Traders",
+  "ats": "greenhouse",
+  "slug": "flowtraders",
+  "domain": "fintech"
+ },
+ {
+  "name": "Banyan Software",
+  "ats": "greenhouse",
+  "slug": "banyansoftware",
+  "domain": "fintech"
+ },
+ {
+  "name": "Cybcube",
+  "ats": "ashby",
+  "slug": "cybcube",
+  "domain": "fintech"
+ },
+ {
+  "name": "Lithic",
+  "ats": "greenhouse",
+  "slug": "lithic",
+  "domain": "fintech"
+ },
+ {
+  "name": "5bluesoftware",
+  "ats": "ashby",
+  "slug": "5bluesoftware",
+  "domain": "tech"
+ },
+ {
+  "name": "Elastic",
+  "ats": "greenhouse",
+  "slug": "elastic",
+  "domain": "tech"
+ },
+ {
+  "name": "Voodoo",
+  "ats": "ashby",
+  "slug": "voodoo",
+  "domain": "tech"
+ },
+ {
+  "name": "Catawiki",
+  "ats": "greenhouse",
+  "slug": "catawiki",
+  "domain": "tech"
+ },
+ {
+  "name": "BGBx",
+  "ats": "greenhouse",
+  "slug": "bgbx",
+  "domain": "tech"
+ },
+ {
+  "name": "Canals",
+  "ats": "ashby",
+  "slug": "canals",
+  "domain": "tech"
+ },
+ {
+  "name": "Bounce",
+  "ats": "ashby",
+  "slug": "Bounce",
+  "domain": "tech"
+ },
+ {
+  "name": "Flosum",
+  "ats": "workable",
+  "slug": "flosum",
+  "domain": "tech"
+ },
+ {
+  "name": "Referral Board",
+  "ats": "greenhouse",
+  "slug": "referralsuseonly",
+  "domain": "tech"
+ },
+ {
+  "name": "Farfetch",
+  "ats": "lever",
+  "slug": "farfetch",
+  "domain": "tech"
+ },
+ {
+  "name": "1GLOBAL",
+  "ats": "workable",
+  "slug": "1global",
+  "domain": "tech"
+ },
+ {
+  "name": "Alongside",
+  "ats": "workable",
+  "slug": "alongside-team",
+  "domain": "tech"
+ },
+ {
+  "name": "Hostinger",
+  "ats": "ashby",
+  "slug": "hostinger",
+  "domain": "tech"
+ },
+ {
+  "name": "N8n",
+  "ats": "ashby",
+  "slug": "n8n",
+  "domain": "tech"
+ },
+ {
+  "name": "LastPass",
+  "ats": "greenhouse",
+  "slug": "lastpass",
+  "domain": "tech"
+ },
+ {
+  "name": "Clickhouse",
+  "ats": "ashby",
+  "slug": "clickhouse",
+  "domain": "tech"
+ },
+ {
+  "name": "Dashlane",
+  "ats": "greenhouse",
+  "slug": "dashlane",
+  "domain": "tech"
+ },
+ {
+  "name": "Pragmatike",
+  "ats": "ashby",
+  "slug": "pragmatike",
+  "domain": "tech"
+ },
+ {
+  "name": "Cloudlinux",
+  "ats": "workable",
+  "slug": "cloudlinux-1",
+  "domain": "tech"
+ },
+ {
+  "name": "Emerging Travel Group",
+  "ats": "workable",
+  "slug": "emerging-travel-group",
+  "domain": "tech"
+ },
+ {
+  "name": "Rain Technologies",
+  "ats": "ashby",
+  "slug": "rain-technologies",
+  "domain": "tech"
+ },
+ {
+  "name": "Keyrock",
+  "ats": "ashby",
+  "slug": "Keyrock",
+  "domain": "tech"
+ },
+ {
+  "name": "Valtech",
+  "ats": "greenhouse",
+  "slug": "valtech",
+  "domain": "tech"
+ },
+ {
+  "name": "Loka, Inc",
+  "ats": "greenhouse",
+  "slug": "lokainc",
+  "domain": "tech"
+ },
+ {
+  "name": "Splitmetrics",
+  "ats": "ashby",
+  "slug": "splitmetrics",
+  "domain": "tech"
+ },
+ {
+  "name": "Duck Duck Go",
+  "ats": "ashby",
+  "slug": "duck-duck-go",
+  "domain": "tech"
+ },
+ {
+  "name": "Block Labs",
+  "ats": "ashby",
+  "slug": "block-labs",
+  "domain": "tech"
+ },
+ {
+  "name": "Thought Machine",
+  "ats": "ashby",
+  "slug": "thought-machine",
+  "domain": "tech"
+ },
+ {
+  "name": "Reaktor",
+  "ats": "ashby",
+  "slug": "Reaktor",
+  "domain": "tech"
+ },
+ {
+  "name": "Clipbook",
+  "ats": "ashby",
+  "slug": "Clipbook",
+  "domain": "tech"
+ },
+ {
+  "name": "Anyone Ai",
+  "ats": "ashby",
+  "slug": "anyone-ai",
+  "domain": "tech"
+ },
+ {
+  "name": "Discord",
+  "ats": "greenhouse",
+  "slug": "discord",
+  "domain": "tech"
+ },
+ {
+  "name": "Veeam Software",
+  "ats": "greenhouse",
+  "slug": "veeamsoftware",
+  "domain": "tech"
+ },
+ {
+  "name": "GoCardless",
+  "ats": "greenhouse",
+  "slug": "gocardless",
+  "domain": "tech"
+ },
+ {
+  "name": "Datadog",
+  "ats": "greenhouse",
+  "slug": "datadog",
+  "domain": "tech"
+ },
+ {
+  "name": "Dremio",
+  "ats": "greenhouse",
+  "slug": "dremio",
+  "domain": "tech"
+ },
+ {
+  "name": "Syndigo",
+  "ats": "greenhouse",
+  "slug": "syndigo",
+  "domain": "tech"
+ },
+ {
+  "name": "Upwork",
+  "ats": "greenhouse",
+  "slug": "upwork",
+  "domain": "tech"
+ },
+ {
+  "name": "Impinj",
+  "ats": "greenhouse",
+  "slug": "impinjexternal",
+  "domain": "tech"
+ },
+ {
+  "name": "Reachdesk Ltd",
+  "ats": "greenhouse",
+  "slug": "reachdesk",
+  "domain": "tech"
+ },
+ {
+  "name": "Talkdesk",
+  "ats": "greenhouse",
+  "slug": "talkdesk2",
+  "domain": "tech"
+ },
+ {
+  "name": "SingleStore-LinkedIn",
+  "ats": "greenhouse",
+  "slug": "singlestore-linkedin",
+  "domain": "tech"
+ },
+ {
+  "name": "Workato",
+  "ats": "greenhouse",
+  "slug": "workato",
+  "domain": "tech"
+ },
+ {
+  "name": "APEXX",
+  "ats": "ashby",
+  "slug": "APEXX",
+  "domain": "tech"
+ },
+ {
+  "name": "Jupus",
+  "ats": "ashby",
+  "slug": "jupus",
+  "domain": "tech"
+ },
+ {
+  "name": "Mimica",
+  "ats": "ashby",
+  "slug": "mimica",
+  "domain": "tech"
+ },
+ {
+  "name": "Paddle",
+  "ats": "ashby",
+  "slug": "paddle",
+  "domain": "tech"
+ },
+ {
+  "name": "Tempo Io",
+  "ats": "ashby",
+  "slug": "tempo-io",
+  "domain": "tech"
+ },
+ {
+  "name": "Axonius",
+  "ats": "greenhouse",
+  "slug": "axonius",
+  "domain": "tech"
+ },
+ {
+  "name": "knok",
+  "ats": "workable",
+  "slug": "knok",
+  "domain": "tech"
+ },
+ {
+  "name": "Socket",
+  "ats": "ashby",
+  "slug": "socket",
+  "domain": "tech"
+ },
+ {
+  "name": "Mazedesign",
+  "ats": "ashby",
+  "slug": "mazedesign",
+  "domain": "tech"
+ },
+ {
+  "name": "UJET",
+  "ats": "greenhouse",
+  "slug": "ujet",
+  "domain": "tech"
+ },
+ {
+  "name": "Bunch",
+  "ats": "ashby",
+  "slug": "bunch",
+  "domain": "tech"
+ },
+ {
+  "name": "The Flex",
+  "ats": "ashby",
+  "slug": "The-Flex",
+  "domain": "tech"
+ },
+ {
+  "name": "Sosafe",
+  "ats": "ashby",
+  "slug": "sosafe",
+  "domain": "tech"
+ },
+ {
+  "name": "Localstack",
+  "ats": "ashby",
+  "slug": "localstack",
+  "domain": "tech"
+ },
+ {
+  "name": "Axelera",
+  "ats": "ashby",
+  "slug": "axelera",
+  "domain": "tech"
+ },
+ {
+  "name": "Oyster",
+  "ats": "ashby",
+  "slug": "oyster",
+  "domain": "tech"
+ },
+ {
+  "name": "DataCamp",
+  "ats": "greenhouse",
+  "slug": "datacamp",
+  "domain": "tech"
+ },
+ {
+  "name": "Docker",
+  "ats": "ashby",
+  "slug": "docker",
+  "domain": "tech"
+ },
+ {
+  "name": "Neuralconcept",
+  "ats": "ashby",
+  "slug": "neuralconcept",
+  "domain": "tech"
+ },
+ {
+  "name": "Feedzai",
+  "ats": "greenhouse",
+  "slug": "feedzai",
+  "domain": "tech"
+ },
+ {
+  "name": "Superhuman Platform Inc",
+  "ats": "ashby",
+  "slug": "Superhuman%20Platform%20Inc",
+  "domain": "tech"
+ },
+ {
+  "name": "SingleStore",
+  "ats": "greenhouse",
+  "slug": "singlestore",
+  "domain": "tech"
+ },
+ {
+  "name": "Reltio",
+  "ats": "greenhouse",
+  "slug": "reltio",
+  "domain": "tech"
+ },
+ {
+  "name": "Typeform",
+  "ats": "greenhouse",
+  "slug": "typeform",
+  "domain": "tech"
+ },
+ {
+  "name": "Opal OS",
+  "ats": "ashby",
+  "slug": "Opal-OS",
+  "domain": "tech"
+ },
+ {
+  "name": "Wellhub",
+  "ats": "greenhouse",
+  "slug": "gympass",
+  "domain": "tech"
+ },
+ {
+  "name": "Sensor Tower",
+  "ats": "ashby",
+  "slug": "sensor-tower",
+  "domain": "tech"
+ },
+ {
+  "name": "uniswap",
+  "ats": "ashby",
+  "slug": "uniswap",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "moonpay",
+  "ats": "ashby",
+  "slug": "moonpay",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "phantom",
+  "ats": "ashby",
+  "slug": "phantom",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "checkout",
+  "ats": "ashby",
+  "slug": "checkout",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "thoughtmachine",
+  "ats": "ashby",
+  "slug": "thoughtmachine",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "chainalysis",
+  "ats": "ashby",
+  "slug": "chainalysis",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "trmlabs",
+  "ats": "ashby",
+  "slug": "trmlabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "superstate",
+  "ats": "ashby",
+  "slug": "superstate",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "solana-foundation",
+  "ats": "ashby",
+  "slug": "solana-foundation",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "matterlabs",
+  "ats": "ashby",
+  "slug": "matterlabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "aave",
+  "ats": "ashby",
+  "slug": "aave",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "morpho",
+  "ats": "ashby",
+  "slug": "morpho",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "dune",
+  "ats": "ashby",
+  "slug": "dune",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "iwoca",
+  "ats": "ashby",
+  "slug": "iwoca",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "allica",
+  "ats": "ashby",
+  "slug": "allica",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "ramp",
+  "ats": "ashby",
+  "slug": "ramp",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "yuno",
+  "ats": "ashby",
+  "slug": "yuno",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "primer",
+  "ats": "ashby",
+  "slug": "primer",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "truelayer",
+  "ats": "ashby",
+  "slug": "truelayer",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "deel",
+  "ats": "ashby",
+  "slug": "deel",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "payabl",
+  "ats": "ashby",
+  "slug": "payabl",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "metamask",
+  "ats": "ashby",
+  "slug": "metamask",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "consensys",
+  "ats": "ashby",
+  "slug": "consensys",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "zerohash",
+  "ats": "ashby",
+  "slug": "zerohash",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "anchorage",
+  "ats": "ashby",
+  "slug": "anchorage",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bvnk",
+  "ats": "ashby",
+  "slug": "bvnk",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "fnality",
+  "ats": "ashby",
+  "slug": "fnality",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "dfns",
+  "ats": "ashby",
+  "slug": "dfns",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "fordefi",
+  "ats": "ashby",
+  "slug": "fordefi",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "turnkey",
+  "ats": "ashby",
+  "slug": "turnkey",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "privy",
+  "ats": "ashby",
+  "slug": "privy",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "eigenlabs",
+  "ats": "ashby",
+  "slug": "eigenlabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "offchainlabs",
+  "ats": "ashby",
+  "slug": "offchainlabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "optimism",
+  "ats": "ashby",
+  "slug": "optimism",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "celestia",
+  "ats": "ashby",
+  "slug": "celestia",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "aptoslabs",
+  "ats": "ashby",
+  "slug": "aptoslabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "avalabs",
+  "ats": "ashby",
+  "slug": "avalabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "ondo",
+  "ats": "ashby",
+  "slug": "ondo",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "securitize",
+  "ats": "ashby",
+  "slug": "securitize",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "centrifuge",
+  "ats": "ashby",
+  "slug": "centrifuge",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "galaxy",
+  "ats": "ashby",
+  "slug": "galaxy",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "wintermute",
+  "ats": "ashby",
+  "slug": "wintermute",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "gsr",
+  "ats": "ashby",
+  "slug": "gsr",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "flowdesk",
+  "ats": "ashby",
+  "slug": "flowdesk",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "kaiko",
+  "ats": "ashby",
+  "slug": "kaiko",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "ledger",
+  "ats": "ashby",
+  "slug": "ledger",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "safe",
+  "ats": "ashby",
+  "slug": "safe",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "argent",
+  "ats": "ashby",
+  "slug": "argent",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "zodia",
+  "ats": "ashby",
+  "slug": "zodia",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "copper",
+  "ats": "ashby",
+  "slug": "copper",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "hidden-road",
+  "ats": "ashby",
+  "slug": "hidden-road",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "finom",
+  "ats": "ashby",
+  "slug": "finom",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "vivid",
+  "ats": "ashby",
+  "slug": "vivid",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "qonto",
+  "ats": "ashby",
+  "slug": "qonto",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "swan",
+  "ats": "ashby",
+  "slug": "swan",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "lydia",
+  "ats": "ashby",
+  "slug": "lydia",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "upvest",
+  "ats": "ashby",
+  "slug": "upvest",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "scalable",
+  "ats": "ashby",
+  "slug": "scalable",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "traderepublic",
+  "ats": "ashby",
+  "slug": "traderepublic",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "nuri",
+  "ats": "ashby",
+  "slug": "nuri",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "tink",
+  "ats": "ashby",
+  "slug": "tink",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "yapily",
+  "ats": "ashby",
+  "slug": "yapily",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "gocardless",
+  "ats": "ashby",
+  "slug": "gocardless",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "monzo",
+  "ats": "ashby",
+  "slug": "monzo",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "wise",
+  "ats": "ashby",
+  "slug": "wise",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "revolut",
+  "ats": "ashby",
+  "slug": "revolut",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "n26",
+  "ats": "ashby",
+  "slug": "n26",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "gemini",
+  "ats": "greenhouse",
+  "slug": "gemini",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "consensys",
+  "ats": "greenhouse",
+  "slug": "consensys",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "chainlinklabs",
+  "ats": "greenhouse",
+  "slug": "chainlinklabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "blockdaemon",
+  "ats": "greenhouse",
+  "slug": "blockdaemon",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "circle",
+  "ats": "greenhouse",
+  "slug": "circle",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "n26",
+  "ats": "greenhouse",
+  "slug": "n26",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "solaris",
+  "ats": "greenhouse",
+  "slug": "solaris",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "modulr",
+  "ats": "greenhouse",
+  "slug": "modulr",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "ondo",
+  "ats": "greenhouse",
+  "slug": "ondo",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "remotecom",
+  "ats": "greenhouse",
+  "slug": "remotecom",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "offchainlabs",
+  "ats": "greenhouse",
+  "slug": "offchainlabs",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "zerohash",
+  "ats": "greenhouse",
+  "slug": "zerohash",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "anchorage",
+  "ats": "greenhouse",
+  "slug": "anchorage",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "paxos",
+  "ats": "greenhouse",
+  "slug": "paxos",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "checkoutcom",
+  "ats": "greenhouse",
+  "slug": "checkoutcom",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "wealthsimple",
+  "ats": "greenhouse",
+  "slug": "wealthsimple",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "nubank",
+  "ats": "greenhouse",
+  "slug": "nubank",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "addepar",
+  "ats": "greenhouse",
+  "slug": "addepar",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "valr",
+  "ats": "greenhouse",
+  "slug": "valr",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "kraken",
+  "ats": "greenhouse",
+  "slug": "kraken",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bitstamp",
+  "ats": "greenhouse",
+  "slug": "bitstamp",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "backbase",
+  "ats": "greenhouse",
+  "slug": "backbase",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "mambu",
+  "ats": "greenhouse",
+  "slug": "mambu",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "10xbanking",
+  "ats": "greenhouse",
+  "slug": "10xbanking",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "thoughtmachine",
+  "ats": "greenhouse",
+  "slug": "thoughtmachine",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "clearscore",
+  "ats": "greenhouse",
+  "slug": "clearscore",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "starlingbank",
+  "ats": "greenhouse",
+  "slug": "starlingbank",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "zopa",
+  "ats": "greenhouse",
+  "slug": "zopa",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "transferwise",
+  "ats": "greenhouse",
+  "slug": "transferwise",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "onfido",
+  "ats": "greenhouse",
+  "slug": "onfido",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "sumsub",
+  "ats": "greenhouse",
+  "slug": "sumsub",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "veriff",
+  "ats": "greenhouse",
+  "slug": "veriff",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "taxfix",
+  "ats": "greenhouse",
+  "slug": "taxfix",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "trade-republic",
+  "ats": "greenhouse",
+  "slug": "trade-republic",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "securitize",
+  "ats": "lever",
+  "slug": "securitize",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "ledger",
+  "ats": "lever",
+  "slug": "ledger",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "qonto",
+  "ats": "lever",
+  "slug": "qonto",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "anchorage",
+  "ats": "lever",
+  "slug": "anchorage",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "binance",
+  "ats": "lever",
+  "slug": "binance",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bitpanda",
+  "ats": "lever",
+  "slug": "bitpanda",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "kryptonite",
+  "ats": "lever",
+  "slug": "kryptonite",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "wintermute-trading",
+  "ats": "lever",
+  "slug": "wintermute-trading",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "gsr",
+  "ats": "lever",
+  "slug": "gsr",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "certik",
+  "ats": "lever",
+  "slug": "certik",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "immutable",
+  "ats": "lever",
+  "slug": "immutable",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "polygon",
+  "ats": "lever",
+  "slug": "polygon",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "near",
+  "ats": "lever",
+  "slug": "near",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "scalablecapital",
+  "ats": "lever",
+  "slug": "scalablecapital",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "upvest",
+  "ats": "lever",
+  "slug": "upvest",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "finom",
+  "ats": "lever",
+  "slug": "finom",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "mambu",
+  "ats": "lever",
+  "slug": "mambu",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "solarisbank",
+  "ats": "lever",
+  "slug": "solarisbank",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "penta",
+  "ats": "lever",
+  "slug": "penta",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "vivid",
+  "ats": "lever",
+  "slug": "vivid",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "tether",
+  "ats": "recruitee",
+  "slug": "tether",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "holepunch",
+  "ats": "recruitee",
+  "slug": "holepunch",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bitfinex",
+  "ats": "recruitee",
+  "slug": "bitfinex",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Revolut",
+  "ats": "smartrecruiters",
+  "slug": "Revolut",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Wise",
+  "ats": "smartrecruiters",
+  "slug": "Wise",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Bitpanda",
+  "ats": "smartrecruiters",
+  "slug": "Bitpanda",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Visa",
+  "ats": "smartrecruiters",
+  "slug": "Visa",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "Euronext",
+  "ats": "smartrecruiters",
+  "slug": "Euronext",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bitwala",
+  "ats": "personio",
+  "slug": "bitwala",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "nuri",
+  "ats": "personio",
+  "slug": "nuri",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "moss",
+  "ats": "personio",
+  "slug": "moss",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "billie",
+  "ats": "personio",
+  "slug": "billie",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "finanzguru",
+  "ats": "personio",
+  "slug": "finanzguru",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "smava",
+  "ats": "personio",
+  "slug": "smava",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "blockchain",
+  "ats": "workable",
+  "slug": "blockchain",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "bitcoinsuisse",
+  "ats": "workable",
+  "slug": "bitcoinsuisse",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "sygnum",
+  "ats": "workable",
+  "slug": "sygnum",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "21shares",
+  "ats": "workable",
+  "slug": "21shares",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "taurus",
+  "ats": "workable",
+  "slug": "taurus",
+  "domain": "fintech",
+  "curated": true
+ },
+ {
+  "name": "metaco",
+  "ats": "workable",
+  "slug": "metaco",
+  "domain": "fintech",
+  "curated": true
+ }
+]
