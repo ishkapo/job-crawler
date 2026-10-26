@@ -1,13 +1,13 @@
 {
- "companies": 560,
- "ok": 453,
- "failed": 0,
- "notFound": 107,
- "jobs": 33068,
- "titleKept": 5764,
- "locationKept": 921,
- "open": 921,
- "new": 921,
+ "companies": 464,
+ "ok": 461,
+ "failed": 3,
+ "notFound": 0,
+ "jobs": 33281,
+ "titleKept": 5798,
+ "locationKept": 786,
+ "open": 366,
+ "new": 366,
  "date": "2026-10-26",
  "deadSlugs": []
 }

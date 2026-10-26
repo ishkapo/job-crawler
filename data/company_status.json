@@ -2132,7 +2132,7 @@
  "ashby:OpenAI": {
   "name": "OpenAI",
   "ok": true,
-  "jobs": 788,
+  "jobs": 789,
   "checked": "2026-10-26",
   "failStreak": 0
  },
@@ -4023,6 +4023,86 @@
   "ok": false,
   "error": "not found https://api.lever.co/v0/postings/mambu?mode=json",
   "notFound": true,
+  "checked": "2026-10-26",
+  "failStreak": 1
+ },
+ "ashby:Pocket Worlds": {
+  "name": "Pocket Worlds",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "ashby:Solana Foundation": {
+  "name": "Solana Foundation",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "ashby:Superhuman Platform Inc": {
+  "name": "Superhuman Platform Inc",
+  "ok": true,
+  "jobs": 69,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "greenhouse:circleci": {
+  "name": "CircleCI",
+  "ok": true,
+  "jobs": 14,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "greenhouse:nearform": {
+  "name": "Nearform",
+  "ok": true,
+  "jobs": 24,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "ashby:moss": {
+  "name": "Moss",
+  "ok": true,
+  "jobs": 31,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "greenhouse:traderepublicbank": {
+  "name": "Trade Republic",
+  "ok": true,
+  "jobs": 46,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "ashby:taxfix.com": {
+  "name": "Taxfix",
+  "ok": true,
+  "jobs": 16,
+  "checked": "2026-10-26",
+  "failStreak": 0
+ },
+ "greenhouse-eu:bondora": {
+  "name": "Bondora",
+  "ok": false,
+  "error": "fetch failed",
+  "notFound": false,
+  "checked": "2026-10-26",
+  "failStreak": 1
+ },
+ "greenhouse-eu:bitpanda": {
+  "name": "Bitpanda",
+  "ok": false,
+  "error": "fetch failed",
+  "notFound": false,
+  "checked": "2026-10-26",
+  "failStreak": 1
+ },
+ "greenhouse-eu:bvnk": {
+  "name": "BVNK",
+  "ok": false,
+  "error": "fetch failed",
+  "notFound": false,
   "checked": "2026-10-26",
   "failStreak": 1
  }
