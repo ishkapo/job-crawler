@@ -1,836 +1,2138 @@
 [
  {
-  "name": "1inch",
-  "domain": "fintech",
-  "slug": "1inch",
-  "ats": "workable",
+  "name": "A.Team",
+  "domain": "tech",
+  "slug": "ateam",
+  "ats": "ashby",
   "jobs": 2,
   "sample": [
-   "Product Manager | Athens, Attica, Greece | Athens, Attica, Greece",
-   "Renewals Coordinator | Athens, Greece | Athens, Greece"
+   "Graphic Designer | New York City | United States",
+   "Social Media and Community Manager | New York City | United States"
   ],
-  "url": "https://apply.workable.com/j/A3269A621A"
+  "url": "https://jobs.ashbyhq.com/ateam/e98c91ea-9244-4adb-935c-7237d29f8223"
  },
  {
-  "name": "1inch",
+  "name": "a16z crypto",
   "domain": "fintech",
-  "slug": "1inch",
-  "ats": "lever",
-  "jobs": 6,
-  "sample": [
-   "Corporate Counsel | UAE - Dubai | UAE - Dubai | AE",
-   "Data & Analytics Lead | UAE - Dubai | UAE - Dubai | AE",
-   "Data & Analytics Lead | Poland | Poland | UK | Portugal | PL",
-   "Senior Corporate Counsel | UAE - Dubai | UAE - Dubai | Portugal | UK | Poland | Bulgaria | AE"
-  ],
-  "url": "https://jobs.lever.co/1inch/c0f5bff7-fd8b-40d9-9f6d-5caeda1b63b2"
- },
- {
-  "name": "Agicap",
-  "domain": "fintech",
-  "slug": "agicap",
-  "ats": "lever",
-  "jobs": 23,
-  "sample": [
-   "Account Executive DACH - Mid-Market (m/f/d) | Düsseldorf 🇩🇪 | Düsseldorf 🇩🇪 | DE",
-   "Account Executive DACH - Mid-Market (m/f/d) | Berlin 🇩🇪 | Berlin 🇩🇪 | DE",
-   "Account Executive DACH - SMB (m/f/d) | Berlin 🇩🇪 | Berlin 🇩🇪 | DE",
-   "Account Executive DACH - SMB (m/f/d) | Düsseldorf 🇩🇪 | Düsseldorf 🇩🇪 | DE"
-  ],
-  "url": "https://jobs.lever.co/agicap/e0aa73bf-2622-4391-a30c-0629fbfa99ec"
- },
- {
-  "name": "Artificial Labs",
-  "domain": "fintech",
-  "slug": "artificial",
-  "ats": "ashby",
-  "jobs": 12,
-  "sample": [
-   "Lead Forward Deployed Designer | London Office | United Kingdom",
-   "Head of Sales | London Office | United Kingdom",
-   "Senior Client Success Manager | London Office | United Kingdom",
-   "Documentation Lead | London Office | United Kingdom"
-  ],
-  "url": "https://jobs.ashbyhq.com/artificial/1c6387bf-8744-4abc-be40-0468b759bb04"
- },
- {
-  "name": "Aztec Labs",
-  "domain": "fintech",
-  "slug": "aztec-labs",
-  "ats": "ashby",
-  "jobs": 1,
-  "sample": [
-   "Senior Legal Counsel | London HQ"
-  ],
-  "url": "https://jobs.ashbyhq.com/aztec-labs/763bd807-c5fc-468c-be52-f165985c9c71"
- },
- {
-  "name": "B2C2",
-  "domain": "fintech",
-  "slug": "b2c2",
+  "slug": "a16z",
   "ats": "greenhouse",
-  "jobs": 4,
+  "jobs": 15,
   "sample": [
-   "IT - HFT System & Network Specialist - London | London | London",
-   "Onboarding - KYC Onboarding - Senior Associate | New York | New York",
-   "Onboarding - Onboarding Associate | Lisbon | Lisbon ",
-   "Trading - Trader (Market Making) - London | London | London"
+   "Contractor, Workplace Experience Coordinator, New York City | New York, New York, United States | New York",
+   "Executive Assistant, Japan | Tokyo, Chiyoda, Japan | NONE",
+   "Partner 16, Data Engineer - Global Partnerships  | Menlo Park, California, United States; San Francisco, California, United States | Menlo Park",
+   "Partner 18, IT Engineer, AI & Innovation Enablement, San Francisco/Menlo Park | Menlo Park, California, United States; San Francisco, California, United States | San Francisco"
   ],
-  "url": "https://job-boards.eu.greenhouse.io/b2c2/jobs/4831161101"
+  "url": "https://a16z.com/about/jobs/?gh_jid=8039427003"
  },
  {
-  "name": "Basis",
+  "name": "Aave Labs",
   "domain": "fintech",
-  "slug": "basis",
-  "ats": "lever",
-  "jobs": 5,
+  "slug": "aavelabs",
+  "ats": "lever-eu",
+  "jobs": 16,
   "sample": [
-   "Dir, Accounting | United States | United States | US",
-   "Integrated Media Planner | United States | United States | US",
-   "Sr Integrated Media Planner | United States | United States | US",
-   "Sr Software Engineer, Applications | United States | United States | Ontario | US"
+   "Director of Operations | Dublin | Dublin | IE",
+   "Dream Job | Remote, EU | Remote, EU | ES",
+   "Head of Risk | New York | New York | London, England | US",
+   "Legal Counsel, Commercial | New York | New York | United States | US"
   ],
-  "url": "https://jobs.lever.co/basis/0379590a-e64f-4b02-93ff-e57aa385e4e0"
+  "url": "https://jobs.eu.lever.co/aavelabs/7cc15510-67ec-4f34-a3e1-a3800191d426"
  },
  {
-  "name": "Blockworks",
+  "name": "Abound",
   "domain": "fintech",
-  "slug": "blockworks",
+  "slug": "abound",
   "ats": "ashby",
-  "jobs": 6,
-  "sample": [
-   "Senior Data Engineer | New York  | United States",
-   "Senior Backend Engineer | New York  | United States",
-   "Account Executive | Remote - US | United States",
-   "Senior Product Manager | New York  | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/blockworks/6b0b650d-fae6-4cf1-b70f-8225eb7f77f3"
- },
- {
-  "name": "bunq",
-  "domain": "fintech",
-  "slug": "bunq",
-  "ats": "recruitee",
-  "jobs": 22,
-  "sample": [
-   "Support Experience Lead | Sofia, Sofia (stolitsa), Bulgaria | Sofia, Bulgaria | İstanbul, Türkiye",
-   "Collections Expert | Amsterdam, Noord-Holland, Netherlands | Amsterdam, Netherlands | İstanbul, Türkiye | Sofia, Bulgaria",
-   "Head of Product | Amsterdam, Noord-Holland, Netherlands | Amsterdam, Netherlands | Sofia, Bulgaria",
-   "(Senior) Product Owner | Amsterdam, Noord-Holland, Netherlands | Amsterdam, Netherlands"
-  ],
-  "url": "https://careers.bunq.com/o/support-experience-lead"
- },
- {
-  "name": "Campfire",
-  "domain": "fintech",
-  "slug": "campfire",
-  "ats": "ashby",
-  "jobs": 51,
-  "sample": [
-   "Account Executive - Non Tech Vertical | San Francisco | United States",
-   "Social Media Manager | San Francisco | United States",
-   "SEO & AEO Manager | San Francisco | United States",
-   "Campaigns & ABM Manager | San Francisco | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/campfire/44e536af-f292-4dfa-86b8-85a5c04804b1"
- },
- {
-  "name": "Cleo",
-  "domain": "fintech",
-  "slug": "cleo",
-  "ats": "greenhouse",
-  "jobs": 8,
-  "sample": [
-   "Implementation Engineer  | Remote US | Bangalore, India - Office | Remote - USA",
-   "Product Manager  | Remote - USA | Remote - USA",
-   "Sales Development Representative | Chicago, Illinois | Chicago, IL - Office",
-   "Senior Project Manager | Remote | Remote - USA"
-  ],
-  "url": "https://job-boards.greenhouse.io/cleo/jobs/4747888005"
- },
- {
-  "name": "ComplyAdvantage",
-  "domain": "fintech",
-  "slug": "complyadvantage",
-  "ats": "greenhouse",
   "jobs": 14,
   "sample": [
-   "Account Executive | London, England, United Kingdom | London, UK",
-   "Account Executive, Commercial | New York, New York, United States; North Carolina, United States | New York, USA",
-   "Business Development Representative | Austin, Texas, United States; Dallas, Texas, United States; Denver, Colorado, United States; New York, New York, United States; North Carolina, United States | New York, USA",
-   "Commercial Account Manager  | London, England, United Kingdom | London, UK"
+   "Legal Counsel Regulatory | London | United Kingdom",
+   "Product Lead | London | United Kingdom",
+   "Data Engineer | London | United Kingdom",
+   "Senior Security Engineer | London | United Kingdom"
   ],
-  "url": "https://complyadvantage.com/careers/jobs/8642475002?gh_jid=8642475002"
+  "url": "https://jobs.ashbyhq.com/abound/1aa9bb86-ab19-4d1d-afa2-0c894b66ea0e"
  },
  {
-  "name": "Duco",
+  "name": "Adaptive Financial Consulting",
   "domain": "fintech",
-  "slug": "duco",
-  "ats": "greenhouse",
+  "slug": "adaptive",
+  "ats": "ashby",
   "jobs": 9,
   "sample": [
-   "Account Manager | 27 Goswell Rd., Barbican, London EC1M 7AN | London",
-   "DevOps Engineer  | ul. Marii Curie Skłodowskiej 12 50-381 Wrocław Poland | Wroclaw",
-   "GRC Analyst | Poland; ul. Marii Curie Skłodowskiej 12 50-381 Wrocław Poland | Wroclaw",
-   "Partner Sales Manager | 9 East 40th Street, Floor 6 New York, NY 10016 | New York"
+   "Staff Software Engineer | New York City | USA",
+   "Senior Software Engineer (Full Stack) | New York City | USA",
+   "Account Executive - Mid Market | Boston | New York City | United States",
+   "Partner Account Executive | Boston | United States"
   ],
-  "url": "https://job-boards.eu.greenhouse.io/duco/jobs/4969618101"
+  "url": "https://jobs.ashbyhq.com/adaptive/67860d94-83b1-43c6-8618-73a6188a6535"
  },
  {
-  "name": "Ethena Labs",
-  "domain": "fintech",
-  "slug": "ethena",
-  "ats": "lever",
-  "jobs": 5,
-  "sample": [
-   "Business Development Representative | Remote | Remote | US",
-   "Head of Product Marketing | Remote | Remote | US",
-   "Keep me in mind! | Remote | Remote | US",
-   "Sales Engineer | Remote | Remote | US"
-  ],
-  "url": "https://jobs.lever.co/ethena/4fb69034-9add-49b5-99a7-7493551c08af"
- },
- {
-  "name": "Finary",
-  "domain": "fintech",
-  "slug": "finary",
+  "name": "Aleph Alpha",
+  "domain": "tech",
+  "slug": "alephalpha",
   "ats": "ashby",
-  "jobs": 7,
-  "sample": [
-   "Gérant Privé - Clientèle HNW | Paris | France",
-   "Ingénieur Patrimonial - Stage (Juillet 2027) | Paris | France",
-   "Growth Intern - Stage 6 mois, M1 / césure (Bac+4) | Paris | France",
-   "Scriptwriter | Paris | France"
-  ],
-  "url": "https://jobs.ashbyhq.com/finary/4f2e316a-5f84-4514-bcbe-55a8d5daf045"
- },
- {
-  "name": "Fourthline",
-  "domain": "fintech",
-  "slug": "fourthline",
-  "ats": "greenhouse",
   "jobs": 4,
   "sample": [
-   "Backend Software Engineer | Barcelona, Barcelona, Spain | Barcelona Office",
-   "Executive Assistant to the CFO & CTO | Amsterdam, North Holland, Netherlands | Amsterdam Office",
-   "Product Manager - Biometric | Amsterdam, North Holland, Netherlands | Amsterdam Office",
-   "Senior Backend Software Engineer | Barcelona, Barcelona, Spain | Barcelona Office"
+   "Senior AI R&D Engineer - Performance - Pre-training (f/m/d) | Heidelberg | Germany",
+   "Senior AI Researcher- Pre-training (f/m/d) | Heidelberg | Germany",
+   "Senior AI R&D Engineer – Model Training  (f/m/d) | Heidelberg | Berlin | Germany",
+   "Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d) | Heidelberg | Berlin | Germany"
   ],
-  "url": "https://job-boards.eu.greenhouse.io/fourthline/jobs/4635432101"
+  "url": "https://jobs.ashbyhq.com/alephalpha/2faca6ec-69bd-4e04-b055-05f24ddf0f4d"
  },
  {
-  "name": "Freetrade",
-  "domain": "fintech",
-  "slug": "freetrade",
-  "ats": "ashby",
-  "jobs": 3,
-  "sample": [
-   "Senior Backend Software Engineer | London  | United Kingdom",
-   "Senior iOS Engineer | London  | United Kingdom",
-   "Head of Security, Privacy & IT  | London  | United Kingdom"
-  ],
-  "url": "https://jobs.ashbyhq.com/freetrade/fa22d097-d659-4afa-a3bd-afd41e269349"
- },
- {
-  "name": "Gauntlet",
-  "domain": "fintech",
-  "slug": "gauntlet",
-  "ats": "lever",
-  "jobs": 5,
-  "sample": [
-   "Assistant General Counsel | New York City / San Francisco / Los Angeles / Remote | New York City / San Francisco / Los Angeles / Remote | US",
-   "Business Development, APAC | Singapore / Hong Kong | Singapore / Hong Kong | SG",
-   "Business Development, US | New York City / San Francisco / Los Angeles / Remote | New York City / San Francisco / Los Angeles / Remote | US",
-   "Quant Developer | New York City / San Francisco / Los Angeles / Remote | New York City / San Francisco / Los Angeles / Remote | US"
-  ],
-  "url": "https://jobs.lever.co/gauntlet/6b742543-e6a4-4507-998d-c3d481f551cf"
- },
- {
-  "name": "Gelato",
-  "domain": "fintech",
-  "slug": "gelato",
-  "ats": "ashby",
-  "jobs": 1,
-  "sample": [
-   "AI Marketing Specialist | Stockholm | Sweden"
-  ],
-  "url": "https://jobs.ashbyhq.com/gelato/adeb3b63-acaa-4f08-95e2-6a418d940e2a"
- },
- {
-  "name": "Genesis Global",
-  "domain": "fintech",
-  "slug": "genesis",
-  "ats": "ashby",
-  "jobs": 74,
-  "sample": [
-   "Foundation Models | Bay Area | United States",
-   "Data Agent | Bay Area | United States",
-   "Robot Learning | Bay Area | United States",
-   "Data Infrastructure | Bay Area | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/genesis/e9641fe8-5575-424d-9c35-84ce0ada0060"
- },
- {
-  "name": "Genesis Global",
-  "domain": "fintech",
-  "slug": "genesis",
-  "ats": "lever",
-  "jobs": 1,
-  "sample": [
-   "Senior Software Engineer (C2 ) | Bengaluru, IN | Bengaluru, IN | IN"
-  ],
-  "url": "https://jobs.lever.co/genesis/f43f221e-c974-4a35-9030-5924b354e646"
- },
- {
-  "name": "GitLab",
+  "name": "Andela",
   "domain": "tech",
-  "slug": "gitlab",
-  "ats": "greenhouse",
-  "jobs": 238,
-  "sample": [
-   "AI Transformation Owner, CRO | Remote, United States",
-   "AI Transformation Owner, Product & Design | Remote, Canada; Remote, United Kingdom; Remote, United States",
-   "Associate Renewals Manager, India | Remote, India | India",
-   "Associate Renewals Manager, SMB | Remote, Canada; Remote, United States | North America"
-  ],
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8638232002"
- },
- {
-  "name": "Gnosis",
-  "domain": "fintech",
-  "slug": "gnosis",
-  "ats": "personio",
-  "jobs": 2,
-  "sample": [
-   "Open Application | Remote",
-   "Senior Business Development &amp; Partnerships Manager (Fintech) | Remote"
-  ],
-  "url": "https://gnosis.jobs.personio.de/job/815654"
- },
- {
-  "name": "Grafana Labs",
-  "domain": "tech",
-  "slug": "grafanalabs",
-  "ats": "greenhouse",
-  "jobs": 131,
-  "sample": [
-   "Commercial Account Executive, Acquisition | Remote | Netherlands | Netherlands (Remote) | Netherlands (Remote)",
-   "Commercial Account Executive, Acquisition | Remote | Sweden | Sweden (Remote) | Sweden (Remote)",
-   "Director, Strategy & Planning | United States | Remote | United States (Remote) | USA (Remote)",
-   " Enterprise Account Executive, Acquisition | DMV | Remote | United States (Remote) | USA (Remote)"
-  ],
-  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6116452004"
- },
- {
-  "name": "Hashgraph",
-  "domain": "fintech",
-  "slug": "hashgraph",
-  "ats": "ashby",
-  "jobs": 5,
-  "sample": [
-   "Senior Product Manager, HashSphere | India | United States | India",
-   "IT Operations Engineer - Corporate IT | United States | South America | Canada | United States of America",
-   "Sales Development Representative  (EST based) | United States | United States of America",
-   "Head of Product | United States | United States of America"
-  ],
-  "url": "https://jobs.ashbyhq.com/hashgraph/b77d8f13-aefb-4787-8884-abf455f13445"
- },
- {
-  "name": "Helsing",
-  "domain": "tech",
-  "slug": "helsing",
-  "ats": "greenhouse",
-  "jobs": 160,
-  "sample": [
-   "Accountant | Munich - London | Munich",
-   "Accountant - Part time | Munich | Munich",
-   "AI Research Engineer - GPU Simulation | Munich - Berlin - London - Paris | Berlin | London | Munich | Paris",
-   "AI Research Engineer - ML & Signal Processing | Berlin; Munich | Barcelona | Berlin | London | Munich | Paris"
-  ],
-  "url": "https://helsing.ai/jobs/4927641101?gh_jid=4927641101"
- },
- {
-  "name": "LayerZero Labs",
-  "domain": "fintech",
-  "slug": "layerzerolabs",
-  "ats": "greenhouse",
-  "jobs": 7,
-  "sample": [
-   "Backend Engineer | Vancouver, BC | HQ",
-   "Business Development Lead - Hong Kong | APAC | Remote, APAC",
-   "FP&A Manager/Senior Manager | Vancouver, BC | HQ",
-   "Manager, Site Reliability Engineering | Vancouver, BC | HQ"
-  ],
-  "url": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5554606004"
- },
- {
-  "name": "lemon.markets",
-  "domain": "fintech",
-  "slug": "lemon-markets",
-  "ats": "ashby",
-  "jobs": 13,
-  "sample": [
-   "Unexpected Awesome Person (f/m/x) | Berlin (Hybrid) | Germany  (Hybrid) | EU (Hybrid) | Germany",
-   "Founder's Associate Intern (f/m/x) | Berlin Office | Germany",
-   "(Senior) Partner Manager (f/m/x) | Berlin (Hybrid) | Germany",
-   "Working Student Compliance (f/m/x) | Berlin (Hybrid) | Germany"
-  ],
-  "url": "https://jobs.ashbyhq.com/lemon-markets/c5d48e7f-b563-4c56-8476-cd4cc6960457"
- },
- {
-  "name": "LMAX Group",
-  "domain": "fintech",
-  "slug": "lmax",
-  "ats": "workable",
-  "jobs": 6,
-  "sample": [
-   "Broker Operations and Technical Onboarding Graduate | Singapore, Singapore, Singapore | Singapore, Singapore, Singapore",
-   "Junior Software Developer (Java) | London, England, United Kingdom | London, England, United Kingdom",
-   "Market Data Sales, APAC | Singapore, Singapore, Singapore | Singapore, Singapore, Singapore",
-   "Regulatory Capital and Liquidity Manager | London, England, United Kingdom | London, England, United Kingdom"
-  ],
-  "url": "https://apply.workable.com/j/4CE4F39412"
- },
- {
-  "name": "Lunar",
-  "domain": "fintech",
-  "slug": "lunar",
+  "slug": "andela",
   "ats": "ashby",
   "jobs": 15,
   "sample": [
-   "Clinical Workflow Informaticist  | San Francisco | United States",
-   "Fractional Revenue Cycle Specialist | Remote | United States",
-   "Hospital Operations Engagement Manager | San Francisco | United States",
-   "Fractional Clinical Nursing Informaticist | Remote | United States"
+   "Staff Fullstack Engineer | North America | United States",
+   "AI Solutions Manager | North America | Canada | United Kingdom | United States",
+   "Product Designer | North America | United States",
+   "Sales Development Representative  | United Kingdom | United Kingdom"
   ],
-  "url": "https://jobs.ashbyhq.com/lunar/caa7adea-06ae-474c-9016-dbb596dcb7eb"
+  "url": "https://jobs.ashbyhq.com/andela/9829c4f1-548f-4ef9-b4a2-c0ba2e11b90c"
  },
  {
-  "name": "Maple Finance",
+  "name": "Animoca Brands",
   "domain": "fintech",
-  "slug": "maple",
+  "slug": "animocabrands",
+  "ats": "lever",
+  "jobs": 10,
+  "sample": [
+   "AI 产品经理 (Vertical AI Product Manager) | China | China | CN",
+   "Assistant Manager, Accounting | Hong Kong | Hong Kong | HK",
+   "Assistant Manager, Group Reporting | Hong Kong | Hong Kong | HK",
+   "Associate Director, Institutional Distribution & Partnerships | Hong Kong | Hong Kong | HK"
+  ],
+  "url": "https://jobs.lever.co/animocabrands/66c6bd95-742d-4dfd-974d-f6a25e6a81ee"
+ },
+ {
+  "name": "Anthropic peers: Cohere",
+  "domain": "tech",
+  "slug": "cohere",
+  "ats": "ashby",
+  "jobs": 118,
+  "sample": [
+   "Senior Full-Stack Engineer, Internal Applications  | Toronto | Canada | Canada",
+   "Member of Technical Staff, Modeling | London | San Francisco | New York | Paris | Toronto | Montreal | United Kingdom",
+   "Revenue Enablement Manager - EMEA | Europe | London | European Union",
+   "Senior Member of Technical Staff, Multimodal AI | San Francisco | New York | San Francisco | Paris | Toronto | Montreal | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073"
+ },
+ {
+  "name": "Aptos",
+  "domain": "fintech",
+  "slug": "aptosfoundation",
+  "ats": "ashby",
+  "jobs": 1,
+  "sample": [
+   "Community Manager, Korea | Korea/APAC"
+  ],
+  "url": "https://jobs.ashbyhq.com/aptosfoundation/c566f327-c70a-4bb9-86fa-dfa5a8bc42d3"
+ },
+ {
+  "name": "Auterion",
+  "domain": "tech",
+  "slug": "auterion",
+  "ats": "greenhouse",
+  "jobs": 21,
+  "sample": [
+   "DevOps Engineer | Zurich  | Zurich, Switzerland",
+   "Drone Assembly Technician | Zurich, Switzerland | Zurich, Switzerland",
+   "Electronics Engineer | Zurich, Switzerland  | Zurich, Switzerland",
+   "Electronics Engineering Intern | Zurich, Switzerland | Zurich, Switzerland"
+  ],
+  "url": "https://auterion.com/company/careers-open-position/8863310002?gh_jid=8863310002"
+ },
+ {
+  "name": "Babbel",
+  "domain": "tech",
+  "slug": "babbel",
+  "ats": "ashby",
+  "jobs": 10,
+  "sample": [
+   "Senior Product Manager - AI Content Creation (all genders) | Berlin | Germany",
+   "Senior Principal Engineer – AI Content Systems (all genders) | Berlin | Germany",
+   "Senior iOS Engineer – Learning Experience (all genders) | Berlin | Germany",
+   "Senior Infrastructure / DX Engineer – Platform (all genders) | Berlin | Germany"
+  ],
+  "url": "https://jobs.ashbyhq.com/babbel/b47063db-27c9-465c-b4d5-ed447feaf48a"
+ },
+ {
+  "name": "Backstage / Roadie",
+  "domain": "tech",
+  "slug": "roadie",
+  "ats": "greenhouse",
+  "jobs": 8,
+  "sample": [
+   "Associate Billing Specialist | REMOTE",
+   "CX Content Specialist | REMOTE",
+   "Full Stack Engineer | REMOTE",
+   "People Operations Manager | REMOTE"
+  ],
+  "url": "https://job-boards.greenhouse.io/roadie/jobs/8886641002"
+ },
+ {
+  "name": "Banking-as-a-service: Griffin",
+  "domain": "fintech",
+  "slug": "griffin",
+  "ats": "ashby",
+  "jobs": 4,
+  "sample": [
+   "Treasury Manager | London or remote within the UK | Remote | United Kingdom",
+   "Operational Controls Lead | London or remote within the UK | Remote | United Kingdom",
+   "Infrastructure Engineer | London or remote within the UK | United Kingdom",
+   "Manager: Compliance Advisory (and Data Protection) | London or remote within the UK | Remote | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/griffin/351a48db-3b7c-4e4b-972f-e86b72250ded"
+ },
+ {
+  "name": "Baseten",
+  "domain": "tech",
+  "slug": "baseten",
+  "ats": "ashby",
+  "jobs": 105,
+  "sample": [
+   "Software Engineer - Dedicated Inference | San Francisco | Toronto | New York | Montreal | Seattle | United States",
+   "Account Executive - AI Native | San Francisco | United States",
+   "Forward Deployed Engineer | San Francisco | Remote | Toronto | New York | Montreal | Seattle | United States",
+   "Site Reliability Engineer | San Francisco | Remote | Toronto | New York | Montreal | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde"
+ },
+ {
+  "name": "Bolt / StackBlitz",
+  "domain": "tech",
+  "slug": "stackblitz",
+  "ats": "greenhouse",
+  "jobs": 6,
+  "sample": [
+   "Community Manager  | Remote | Remote ",
+   "Head of Finance | Remote | Remote ",
+   "Senior Applied AI Engineer | Remote | Remote ",
+   "Senior Software Engineer - Rails | Remote | Remote "
+  ],
+  "url": "https://job-boards.greenhouse.io/stackblitz/jobs/4223647009"
+ },
+ {
+  "name": "Brainly",
+  "domain": "tech",
+  "slug": "brainly",
+  "ats": "ashby",
+  "jobs": 1,
+  "sample": [
+   "Didn't find a suitable position for you? Let us know that you are interested! | Poland | United States | Spain"
+  ],
+  "url": "https://jobs.ashbyhq.com/brainly/25152b52-7b8d-4dc3-a48d-2be0728069ec"
+ },
+ {
+  "name": "Braintrust",
+  "domain": "tech",
+  "slug": "braintrust",
+  "ats": "ashby",
+  "jobs": 30,
+  "sample": [
+   "Software Engineer, Systems | San Francisco | New York City | Seattle | United States",
+   "Software Engineer, Product | San Francisco | New York City | Seattle | United States",
+   "Design Engineer | San Francisco | New York City | Seattle | United States",
+   "Software Engineer, SDK | Remote | New York City | Seattle | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930"
+ },
+ {
+  "name": "Brale",
+  "domain": "fintech",
+  "slug": "brale",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "Account Executive | Remote - US | Des Moines | United States",
+   "Head of Finance | Remote - US | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/brale/3d49c592-c722-4d84-a3a3-0567e433dc84"
+ },
+ {
+  "name": "Brave1 peers: Swarmer",
+  "domain": "tech",
+  "slug": "swarmer",
   "ats": "ashby",
   "jobs": 14,
   "sample": [
-   "Opportunistic | New York, NY (HQ) | United States",
-   "Product Designer | New York, NY (HQ) | United States",
-   "Sales Development Representative | New York, NY (HQ) | United States",
-   "Design Engineer | New York, NY (HQ) | United States"
+   "OSINT Analyst | Warsaw | Lviv | Kyiv | Poland",
+   "Sales Manager | Kyiv | Ukraine",
+   "Head of Integration | Kyiv | Lviv | Ukraine",
+   "Field Integration Technician | Aberdeen, North Carolina | USA"
   ],
-  "url": "https://jobs.ashbyhq.com/maple/67c3d58d-aff3-448f-9a93-5c8785b72ad4"
+  "url": "https://jobs.ashbyhq.com/swarmer/ae5d3e21-6627-4fa6-98ee-ef68710162f1"
  },
  {
-  "name": "Mesh",
-  "domain": "fintech",
-  "slug": "mesh",
+  "name": "Buildkite",
+  "domain": "tech",
+  "slug": "buildkite",
   "ats": "greenhouse",
-  "jobs": 25,
+  "jobs": 8,
   "sample": [
-   "AP Processor (Part-Time Contract) | LATAM - Remote | LATAM - Remote",
-   "Compliance Officer, Japan | Tokyo, Japan | APAC - Remote",
-   "Director, Japan Business Development and Responsible Director | Tokyo, Japan | APAC - Remote",
-   "Director of Sales | LATAM - Remote | LATAM - Remote"
+   "Account Executive  | United States - West Coast | United States",
+   "Cloud Efficiency Engineer (AWS/FinOps) | ANZ Region | Australia",
+   "Forward Deployed Engineer | United States - Pacific Time  | United States",
+   "Sales Enablement Lead | United States - West Coast | Pacific Time"
   ],
-  "url": "https://job-boards.greenhouse.io/mesh/jobs/5460558008"
+  "url": "https://job-boards.greenhouse.io/buildkite/jobs/5440086008"
  },
  {
-  "name": "Mesh",
+  "name": "Cashlink",
   "domain": "fintech",
-  "slug": "mesh",
-  "ats": "ashby",
-  "jobs": 25,
+  "slug": "cashlink",
+  "ats": "personio",
+  "jobs": 2,
   "sample": [
-   "Senior Business Development Manager, APAC | APAC - Remote",
-   "Head of Design | San Francisco",
-   "Head of Card Product | San Francisco",
-   "Senior Product & Privacy Counsel  | New York City"
+   "ICT-Third-Party-Risk Manager / IKT-Drittparteienrisikomanager (m/w/d) | remote - Frankfurt am Main",
+   "Initiative application (Full time) | remote - Frankfurt am Main"
   ],
-  "url": "https://jobs.ashbyhq.com/mesh/fcc5c5db-da7f-4146-bc4f-62637f8b1c97"
+  "url": "https://cashlink.jobs.personio.de/job/2853559"
  },
  {
-  "name": "Moneyfarm",
+  "name": "Clearwater Analytics",
   "domain": "fintech",
-  "slug": "moneyfarm",
-  "ats": "workable",
-  "jobs": 21,
-  "sample": [
-   "Customer Experience Manager | London, England, United Kingdom | London, England, United Kingdom",
-   "Customer Relationship Manager, Moneyfarm | London, England, United Kingdom | London, England, United Kingdom",
-   "Customer Relationship Manager, Willis Owen and Profile Pensions | Preston, England, United Kingdom | Preston, England, United Kingdom",
-   "Digital Creative Designer | Milan, Metropolitan City of Milan, Italy | Milan, Metropolitan City of Milan, Italy"
-  ],
-  "url": "https://apply.workable.com/j/C48E4DAED2"
- },
- {
-  "name": "Nansen",
-  "domain": "fintech",
-  "slug": "nansen",
+  "slug": "clearwater",
   "ats": "greenhouse",
-  "jobs": 1,
+  "jobs": 15,
   "sample": [
-   "Senior Data Engineer | Remote Europe | Remote EMEA"
+   "Junior Consultant – Vulnerability Assessment, Penetration Testing & Red Teaming | Pune (M.H) | Pune, India",
+   "Junior SOC 2 Type 2 Auditor | Pune (M.H) | Pune, India",
+   "Principal Penetration Tester | Remote United States  | Remote",
+   "Principal Penetration Tester  | India | Pune, India"
   ],
-  "url": "https://job-boards.greenhouse.io/nansen/jobs/6141832004"
+  "url": "https://job-boards.greenhouse.io/clearwater/jobs/4383253009"
  },
  {
-  "name": "Nansen",
+  "name": "Clearwater Analytics",
   "domain": "fintech",
-  "slug": "nansen",
+  "slug": "clearwater",
+  "ats": "personio",
+  "jobs": 6,
+  "sample": [
+   "Analyst Debt Advisory (m/w/d) | Frankfurt am Main | München",
+   "Associate Debt Advisory (m/w/d) | Frankfurt am Main | München",
+   "Associate Director Debt Advisory ab sofort (m/w/d) | Frankfurt am Main | München",
+   "Associate M&amp;A (m/w/d) | Frankfurt am Main | München"
+  ],
+  "url": "https://clearwater.jobs.personio.de/job/2776422"
+ },
+ {
+  "name": "CodeRabbit",
+  "domain": "tech",
+  "slug": "coderabbit",
   "ats": "ashby",
-  "jobs": 1,
+  "jobs": 46,
   "sample": [
-   "Senior Data Engineer | Remote EMEA"
+   "Staff GTM Systems Engineer | San Francisco | United States",
+   "Senior Software Engineer - Backend | San Francisco | United States",
+   "Sales Development Representative - (LATAM) | Boston, MA | United States",
+   "Senior Applied AI Engineer | San Francisco | United States"
   ],
-  "url": "https://jobs.ashbyhq.com/nansen/5624aed6-a705-4957-9048-6f7a88fe44e9"
+  "url": "https://jobs.ashbyhq.com/coderabbit/a40336da-00c0-41a5-a545-187e006dd421"
  },
  {
-  "name": "Nethermind",
+  "name": "Coinmerce",
   "domain": "fintech",
-  "slug": "nethermind",
+  "slug": "coinmerce",
+  "ats": "personio",
+  "jobs": 8,
+  "sample": [
+   "Chief Financial Officer | Schiphol-Rijk",
+   "DeFi/Web3 Trader | Schiphol-Rijk",
+   "Financial Controller | Schiphol-Rijk",
+   "Head of Sales - Coinmerce Capital | Schiphol-Rijk"
+  ],
+  "url": "https://coinmerce.jobs.personio.de/job/2431537"
+ },
+ {
+  "name": "Compound Labs",
+  "domain": "fintech",
+  "slug": "compound",
+  "ats": "ashby",
+  "jobs": 7,
+  "sample": [
+   "Staff Software Engineer | Remote | Milwaukee | USA",
+   "SVP / VP Wealth Advisor | Remote | United States",
+   "Wealth Advisor  | Remote | United States",
+   "Chief Compliance Officer  | Remote | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/compound/cc720738-cc92-43cb-a7ae-d021ea7757d7"
+ },
+ {
+  "name": "Conduit",
+  "domain": "fintech",
+  "slug": "conduit",
   "ats": "ashby",
   "jobs": 2,
   "sample": [
-   "General Application- Remote, Worldwide | Remote | Singapore",
-   "IT Department Lead - Remote, Worldwide | Hungary | Hungary"
+   "Software Engineer, Control Plane | Remote | USA",
+   "General Application | San Francisco | USA"
   ],
-  "url": "https://jobs.ashbyhq.com/nethermind/9ba4666e-a24c-489c-88be-ed1fc0512d75"
+  "url": "https://jobs.ashbyhq.com/conduit/5e599120-22ec-46c8-b933-6c833139d59f"
  },
  {
-  "name": "Numeric",
-  "domain": "fintech",
-  "slug": "numeric",
-  "ats": "ashby",
-  "jobs": 23,
+  "name": "Contentful",
+  "domain": "tech",
+  "slug": "contentful",
+  "ats": "greenhouse",
+  "jobs": 29,
   "sample": [
-   "Account Executive | San Francisco | New York | USA",
-   "Customer Success Manager | San Francisco | USA",
-   "Software Engineer, Product | San Francisco | USA",
-   "Engineering Manager | San Francisco | USA"
+   "DACH Senior Solution Engineer (f/m/d) | Munich, Bavaria, Germany | Munich, Germany",
+   "DACH Senior Solution Engineer (f/m/d) | London, England, United Kingdom | Munich, Germany",
+   "Enterprise Account Executive | New York, New York, United States | New York, NY",
+   "Enterprise Account Executive | Chicago, Illinois, United States | New York, NY"
   ],
-  "url": "https://jobs.ashbyhq.com/numeric/bb1e6e52-c4cb-4ea8-a1a1-63fa16fea268"
+  "url": "https://job-boards.greenhouse.io/contentful/jobs/8327853"
  },
  {
-  "name": "OpenZeppelin",
+  "name": "Cortex",
+  "domain": "tech",
+  "slug": "cortex",
+  "ats": "greenhouse",
+  "jobs": 6,
+  "sample": [
+   "Business Development Representative (US) | Remote | Remote",
+   "Enterprise Account Executive (UK) | Remote | Remote",
+   "Enterprise Account Executive (US) | Remote | Remote",
+   "Lead Software Engineer, Backend | Remote | Remote"
+  ],
+  "url": "https://job-boards.greenhouse.io/cortex/jobs/5413866008"
+ },
+ {
+  "name": "Coursera",
+  "domain": "tech",
+  "slug": "coursera",
+  "ats": "greenhouse",
+  "jobs": 29,
+  "sample": [
+   "Account Development Representative | Singapore | Singapore",
+   "Account Lead - C4B | Singapore | Singapore",
+   "Accounts Payable Specialist (Gurugram) | India | India",
+   "AI Specialist II | India | India"
+  ],
+  "url": "https://job-boards.greenhouse.io/coursera/jobs/6222902004"
+ },
+ {
+  "name": "Coursera",
+  "domain": "tech",
+  "slug": "coursera",
+  "ats": "recruitee",
+  "jobs": 1,
+  "sample": [
+   "Job 1 | New York, New York, United States | New York, United States"
+  ],
+  "url": "https://coursera.recruitee.com/o/job-1"
+ },
+ {
+  "name": "Cursor (Anysphere)",
+  "domain": "tech",
+  "slug": "cursor",
+  "ats": "ashby",
+  "jobs": 123,
+  "sample": [
+   "Software Engineer, Growth  | San Francisco | New York | United States",
+   "Software Engineer, RL Data | Palo Alto, CA | United States",
+   "Software Engineer, Infrastructure | San Francisco | New York | United States",
+   "Software Engineer, Core Services | San Francisco | New York | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
+ },
+ {
+  "name": "DeepL",
+  "domain": "tech",
+  "slug": "deepl",
+  "ats": "ashby",
+  "jobs": 9,
+  "sample": [
+   "Head of Product Growth | London | Amsterdam | United Kingdom",
+   "VP of Sales, AMER | Austin | San Francisco | New York | United States",
+   "Senior Machine Learning Engineering Manager  | London | Amsterdam | Munich | United Kingdom",
+   "Sales Support Specialist | Contract | London | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/deepl/236d8651-c4c9-4bb8-a9ea-57d535cb76fb"
+ },
+ {
+  "name": "Delian Alliance",
+  "domain": "tech",
+  "slug": "delian",
+  "ats": "ashby",
+  "jobs": 3,
+  "sample": [
+   "Integration Engineer (UAV Platforms) | Kyiv, Ukraine | Ukraine",
+   "Integration Engineer (UAV Platforms) | Lviv | Ukraine",
+   "Engineering Program Manager | Athens | Greece"
+  ],
+  "url": "https://jobs.ashbyhq.com/delian/4dec83fb-016a-478b-a227-ea5a33ea61b0"
+ },
+ {
+  "name": "Delta Capita",
   "domain": "fintech",
-  "slug": "openzeppelin",
+  "slug": "deltacapita",
+  "ats": "recruitee",
+  "jobs": 58,
+  "sample": [
+   "Murex Business Analyst (Treasury) | London, Greater London, United Kingdom | London, United Kingdom",
+   "KYC Onboarding Analyst | Ireland, Leinster, Ireland | Ireland, Ireland",
+   "ISDA Negotiator - Institutional Equities Documentation | London, Greater London, United Kingdom | London, United Kingdom",
+   "KYC - Analyst | Hyderabad, Telangāna, India | Hyderabad, India"
+  ],
+  "url": "https://careersdeltacapita.recruitee.com/o/murex-business-analyst-treasury"
+ },
+ {
+  "name": "Depot",
+  "domain": "tech",
+  "slug": "depot",
+  "ats": "ashby",
+  "jobs": 1,
+  "sample": [
+   "Staff Software Engineer | United States | European Union | United Kingdom | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/depot/c303bf37-ee14-4593-9ac9-c2fb4c65253a"
+ },
+ {
+  "name": "Deutsche Börse / 360T",
+  "domain": "fintech",
+  "slug": "360t",
+  "ats": "personio",
+  "jobs": 24,
+  "sample": [
+   "(JUNIOR) PEOPLE OPERATIONS &amp; TALENT ACQUISITION MANAGER (f/m/d) | Frankfurt am Main",
+   "BUSINESS CLIENT ADVISORY SERVICES MANAGER, AMERICAS | New York",
+   "COMPLIANCE MANAGER &amp; DEPUTY COMPLIANCE OFFICER EU (f/m/d) | Frankfurt am Main",
+   "FINANCE MANAGER (f/m/d) | Frankfurt am Main"
+  ],
+  "url": "https://360t.jobs.personio.de/job/1289877"
+ },
+ {
+  "name": "Dojo",
+  "domain": "fintech",
+  "slug": "dojo",
+  "ats": "greenhouse",
+  "jobs": 25,
+  "sample": [
+   "Account Manager | Madrid | ES Madrid",
+   "Brand Designer | London | UK London",
+   "Business Development Representative (Mid-Market & Enterprise) | London | UK London",
+   "Cyber Security Engineer | London | UK London"
+  ],
+  "url": "https://www.dojo.careers/jobs/4986354101/?gh_jid=4986354101"
+ },
+ {
+  "name": "Encore",
+  "domain": "tech",
+  "slug": "encore",
+  "ats": "greenhouse",
+  "jobs": 3,
+  "sample": [
+   "1. Encore March 2027 Program | In-Person | Encore | Sage Corps",
+   "2. Encore - Istanbul April-May 2027 Program | In-Person | Encore | Sage Corps",
+   "3. Encore October 2027 Program | In-Person | Encore"
+  ],
+  "url": "https://job-boards.greenhouse.io/encore/jobs/5777245004"
+ },
+ {
+  "name": "Equals Money",
+  "domain": "fintech",
+  "slug": "equalsmoney",
+  "ats": "recruitee",
+  "jobs": 6,
+  "sample": [
+   "Senior Business Finance Manager (FP&A) | London, England, United Kingdom | London, United Kingdom",
+   "Regulatory Compliance Manager | Chester or London, England, United Kingdom | Chester or London, United Kingdom",
+   "Risk Manager | London, England, United Kingdom | London, United Kingdom",
+   "Group Financial Reporting Manager | London, England, United Kingdom | London, United Kingdom"
+  ],
+  "url": "https://equalsmoney.recruitee.com/o/senior-business-finance-manager-fpa"
+ },
+ {
+  "name": "Espresso Systems",
+  "domain": "fintech",
+  "slug": "espresso",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "Staff ML Engineer | New York Office | United States",
+   "Staff Infrastructure Engineer | New York Office | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/espresso/db3c6bde-5ff8-4234-9425-1ee8cf93c97e"
+ },
+ {
+  "name": "Evervault",
+  "domain": "fintech",
+  "slug": "evervault",
+  "ats": "ashby",
+  "jobs": 6,
+  "sample": [
+   "Growth Engineer | London | United Kingdom",
+   "Business Development Representative | New York | United States",
+   "Business Development Representative | London | United Kingdom",
+   "Security Engineer | London | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/evervault/e2438d17-c576-47f5-8a48-339ffe969726"
+ },
+ {
+  "name": "Federato",
+  "domain": "fintech",
+  "slug": "federato",
+  "ats": "greenhouse",
+  "jobs": 10,
+  "sample": [
+   "Business Development Representative | Remote | Remote - US and Canada",
+   "Customer Engineer (Pre-Sales)  | Remote  | Remote - US and Canada",
+   "Customer Engineer (Pre-Sales) ANZ | Remote - AUS | Remote - ANZ",
+   "Engineering Manager | Remote | Remote - US and Canada"
+  ],
+  "url": "https://job-boards.greenhouse.io/federato/jobs/5447036008"
+ },
+ {
+  "name": "Finix",
+  "domain": "fintech",
+  "slug": "finix",
+  "ats": "lever",
+  "jobs": 27,
+  "sample": [
+   "Account Executive, Direct Merchant | San Francisco | San Francisco | Toronto | Vancouver | Remote | Orlando | US",
+   "Account Executive, Platform | San Francisco | San Francisco | Toronto | Vancouver | Orlando | Remote | US",
+   "Compliance Director, High-Risk | San Francisco | San Francisco | Remote | US",
+   "Customer Delivery Manager | San Francisco | San Francisco | US"
+  ],
+  "url": "https://jobs.lever.co/finix/d2907c20-a739-4c0b-a10e-94aaf1f72c78"
+ },
+ {
+  "name": "Finoa",
+  "domain": "fintech",
+  "slug": "finoa",
+  "ats": "personio",
+  "jobs": 5,
+  "sample": [
+   "(Senior) IT Security Engineer | Vilnius | (Hybrid) Lithuania",
+   "Business Development Intern (m/f/d) | Berlin",
+   "Marketing Intern (m/f/d) | Berlin",
+   "Staking Operations Intern (m/f/d) | Berlin"
+  ],
+  "url": "https://finoa.jobs.personio.de/job/2729487"
+ },
+ {
+  "name": "Flock",
+  "domain": "fintech",
+  "slug": "flock",
+  "ats": "ashby",
+  "jobs": 9,
+  "sample": [
+   "People Operations Lead (Fixed term Contract) | London | United Kingdom",
+   "Customer Success Associate | London | United Kingdom",
+   "Marketing Manager | London | United Kingdom",
+   "Broker Development Manager | Manchester | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/flock/3df3306f-dda5-43e7-899b-745500163a5f"
+ },
+ {
+  "name": "Forter",
+  "domain": "fintech",
+  "slug": "forter",
+  "ats": "greenhouse",
+  "jobs": 21,
+  "sample": [
+   "Accounts Payable Specialist | Israel - Tel Aviv | Israel - Tel Aviv",
+   "Enterprise Account Executive | Australia - Sydney | Australia - Sydney",
+   "Enterprise Account Executive, East | United States - New York  | United States - New York ",
+   "Enterprise Account Executive, West | San Francisco, California, United States | United States - San Francisco"
+  ],
+  "url": "https://job-boards.greenhouse.io/forter/jobs/8905280002"
+ },
+ {
+  "name": "Forto",
+  "domain": "tech",
+  "slug": "forto",
+  "ats": "ashby",
+  "jobs": 9,
+  "sample": [
+   "Air Freight Operations Specialist (f/m/d) | Hamburg | Germany",
+   "Sales Manager (f/m/d) - South & East Germany  | Remote Germany | Germany",
+   "Sales Development Representative (f/m/d) Poland | Warsaw | Poland",
+   "Operations Specialist (f/m/d) - Poland | Warsaw | Poland"
+  ],
+  "url": "https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575"
+ },
+ {
+  "name": "FREENOW",
+  "domain": "tech",
+  "slug": "freenow",
+  "ats": "greenhouse",
+  "jobs": 10,
+  "sample": [
+   "Account Manager, Hospitality Sales | Warszawa, Mazowieckie, Poland | Warsaw",
+   "Communications Lead, Europe | Barcelona, Spain | Barcelona",
+   "Director of Premium Mobility Segments - Europe | London, England, United Kingdom | London",
+   "Engineering Manager, New Business (m/f/d) - Berlin  | Berlin, Germany | Berlin"
+  ],
+  "url": "https://job-boards.greenhouse.io/freenow/jobs/8113604"
+ },
+ {
+  "name": "Frontline Robotics",
+  "domain": "tech",
+  "slug": "frontline",
+  "ats": "greenhouse",
+  "jobs": 3,
+  "sample": [
+   "Project Technician - Level 1  | Houston, TX | Front Line Services",
+   "Project Technician - Level 2 | Houston, TX | Front Line Services",
+   "Project Technician - Level 3 | Houston, TX | Front Line Services"
+  ],
+  "url": "https://job-boards.greenhouse.io/frontline/jobs/4434506009"
+ },
+ {
+  "name": "Fuel Labs",
+  "domain": "fintech",
+  "slug": "fuellabs",
+  "ats": "lever",
+  "jobs": 1,
+  "sample": [
+   "Join Our Talent Network ! | Portugal | Portugal | Canada | Singapore | Switzerland | Germany | PT"
+  ],
+  "url": "https://jobs.lever.co/fuellabs/17b28ec2-97ee-4912-876d-0c42c85e90c2"
+ },
+ {
+  "name": "Getquin",
+  "domain": "fintech",
+  "slug": "getquin",
+  "ats": "personio",
+  "jobs": 9,
+  "sample": [
+   "Content Creator (f/m/d) | Berlin",
+   "Finanzberater (w/m/d) | Berlin",
+   "Finanzbuchhalter (f/m/d) - Teilzeit | Remote",
+   "Founder&#039;s Associate, Strategy &amp; AI (m/f/d) | Berlin"
+  ],
+  "url": "https://getquin.jobs.personio.de/job/1309674"
+ },
+ {
+  "name": "GoStudent",
+  "domain": "tech",
+  "slug": "gostudent",
+  "ats": "greenhouse",
+  "jobs": 25,
+  "sample": [
+   "Account Manager DACH (all genders) | Spain Remote | Barcelona ",
+   "Account Manager DACH (all genders) | Austria Remote | Vienna, Austria",
+   "Account Manager DACH (all genders) | Vienna, Austria | Vienna, Austria",
+   "Account Manager DACH (all genders) | Germany Remote | Berlin, Germany"
+  ],
+  "url": "https://www.gostudent.org/en-gb/job-position/?gh_jid=4665885101"
+ },
+ {
+  "name": "Gradient AI",
+  "domain": "fintech",
+  "slug": "gradientai",
+  "ats": "greenhouse",
+  "jobs": 5,
+  "sample": [
+   "Enterprise Sales Director - Health | Remote | Remote",
+   "Program Operations Specialist | Remote | Remote",
+   "Senior Client Executive  | Remote | Remote",
+   "Staff Data Scientist | Remote | Remote"
+  ],
+  "url": "https://job-boards.greenhouse.io/gradientai/jobs/7753578003"
+ },
+ {
+  "name": "Graphite",
+  "domain": "tech",
+  "slug": "graphite",
+  "ats": "ashby",
+  "jobs": 4,
+  "sample": [
+   "Engineering Manager | San Francisco | United States",
+   "Data Scientist | New York | United States",
+   "Senior Software Engineer | San Francisco | United States",
+   "Engineering Manager | New York City, New York | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/graphite/95538ed3-fbfb-4b08-8b57-abc6745119f5"
+ },
+ {
+  "name": "Grayscale",
+  "domain": "fintech",
+  "slug": "grayscale",
+  "ats": "greenhouse",
+  "jobs": 3,
+  "sample": [
+   "Head Chef | ATlanta",
+   "Nico test prosp pool | Atlanta",
+   "Not a real job | Atlanta - Remote | Atlanta Office"
+  ],
+  "url": "https://job-boards.greenhouse.io/grayscale/jobs/4437277002"
+ },
+ {
+  "name": "Grayscale",
+  "domain": "fintech",
+  "slug": "grayscaleinvestments",
   "ats": "greenhouse",
   "jobs": 7,
   "sample": [
-   "Blockchain Security Researcher  | Remote - Worldwide",
-   "Head of IT & Security | Remote | Remote",
-   "Program Manager (Customer Success) | Remote | Remote",
-   "Senior Blockchain Security Developer (Canton) | Remote"
+   "Campaign Manager, Marketing | Stamford, Connecticut, United States | Stamford",
+   "Chief Compliance Officer | Stamford, Connecticut, United States | Stamford",
+   "Cybersecurity Engineer | Stamford, Connecticut, United States | Stamford",
+   "Events Lead | Stamford, Connecticut, United States | Stamford"
   ],
-  "url": "https://openzeppelin.com/careers/opening/?gh_jid=4254142003"
+  "url": "https://job-boards.greenhouse.io/grayscaleinvestments/jobs/8012557003"
  },
  {
-  "name": "Parity Technologies",
-  "domain": "fintech",
-  "slug": "parity",
-  "ats": "ashby",
-  "jobs": 2,
-  "sample": [
-   "Senior Security Engineer - Remote | Remote",
-   "Tech Lead | Remote"
-  ],
-  "url": "https://jobs.ashbyhq.com/parity/058e8560-8e9a-4d75-b48d-b81f510caa39"
- },
- {
-  "name": "Polymesh",
-  "domain": "fintech",
-  "slug": "polymath",
-  "ats": "ashby",
-  "jobs": 4,
-  "sample": [
-   "Strategic Projects Lead | San Francisco | United States",
-   "Member of Technical Staff - Research | San Francisco | United States",
-   "Member of Technical Staff - Engineering | San Francisco | United States",
-   "Software Engineer | San Francisco | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/polymath/8550d81d-806a-45db-a5c8-02588729b861"
- },
- {
-  "name": "PPRO",
-  "domain": "fintech",
-  "slug": "ppro",
-  "ats": "ashby",
-  "jobs": 26,
-  "sample": [
-   "Engineering Manager - Local Payments   | Berlin | Germany",
-   "Senior Software Engineer - Transaction Processing (Java, AWS, DynamoDB) | Berlin | Germany",
-   "Senior Payment Partnerships Manager | London | United Kingdom",
-   "New Business Manager - EMEA | London | United Kingdom"
-  ],
-  "url": "https://jobs.ashbyhq.com/ppro/a15f9c1c-5682-4e00-8d98-4650ced8336a"
- },
- {
-  "name": "Public.com",
-  "domain": "fintech",
-  "slug": "public",
-  "ats": "greenhouse",
-  "jobs": 3,
-  "sample": [
-   "Accounting Manager | New York, New York | New York City",
-   "Counsel | New York, New York | New York City",
-   "Director, Business Development | New York, New York | New York City"
-  ],
-  "url": "https://job-boards.greenhouse.io/public/jobs/7720156003"
- },
- {
-  "name": "Rillet",
-  "domain": "fintech",
-  "slug": "rillet",
-  "ats": "ashby",
-  "jobs": 41,
-  "sample": [
-   "Accounting Success Manager | San Francisco | New York City | Chicago | United States",
-   "Engineering Manager | San Francisco | New York City | United States",
-   "Manager, Deployment Team - Accounting Solutions | Remote | New York City | San Francisco | Chicago",
-   "Product Manager  | San Francisco | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/rillet/30ac8f73-bd93-43fb-8a17-60e03a98dbff"
- },
- {
-  "name": "Risk Labs (Across)",
-  "domain": "fintech",
-  "slug": "risklabs",
-  "ats": "ashby",
-  "jobs": 1,
-  "sample": [
-   "Enterprise Partnerships Lead (Financial Markets) | United States - Remote"
-  ],
-  "url": "https://jobs.ashbyhq.com/risklabs/08e0c4c0-8e4f-4489-b98b-6b746f1c6546"
- },
- {
-  "name": "Stellar Development Foundation",
-  "domain": "fintech",
-  "slug": "stellar",
-  "ats": "ashby",
-  "jobs": 22,
-  "sample": [
-   "Staff Software Engineer, C++/Rust | San Francisco",
-   "Staff Software Engineer, C++/Rust | New York",
-   "Senior Software Engineer, C++/Rust | New York",
-   "Senior Software Engineer, C++/Rust | San Francisco"
-  ],
-  "url": "https://jobs.ashbyhq.com/stellar/1de316f8-baca-417d-8e36-a939019b08a9"
- },
- {
-  "name": "Stellar Development Foundation",
-  "domain": "fintech",
-  "slug": "stellar",
-  "ats": "lever-eu",
-  "jobs": 5,
-  "sample": [
-   "Brand Ambassador | Amstelveen | Amstelveen | NL",
-   "Coffee shop assistant | Samsung Kings Cross, London | Samsung Kings Cross, London | GB",
-   "Experience Specialist / Product Expert | Sage, Studio London | Sage, Studio London | GB",
-   "Sales Advisor | Bluewater, Kent | Bluewater, Kent | GB"
-  ],
-  "url": "https://jobs.eu.lever.co/stellar/c3da8377-50e2-48dc-9b51-47564494aea0"
- },
- {
-  "name": "Supabase",
+  "name": "Harness",
   "domain": "tech",
-  "slug": "supabase",
-  "ats": "ashby",
-  "jobs": 64,
-  "sample": [
-   "AI Platform Engineer | Remote, Global",
-   "Customer Solution Architect (AMER) | Remote, AMER",
-   "Support Engineer (EMEA) | Remote, EMEA",
-   "Support Engineer (AMER) | Remote, AMER"
-  ],
-  "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541"
- },
- {
-  "name": "Sword Health",
-  "domain": "tech",
-  "slug": "swordhealth",
+  "slug": "harnessinc",
   "ats": "greenhouse",
-  "jobs": 58,
+  "jobs": 69,
   "sample": [
-   "Business Development Manager - Germany | Remote - Germany | Remote - Germany",
-   "Business Development Manager - Greece | Remote - Greece | Remote - Greece",
-   "Client Success Manager, Mid-Market | Remote - UK | Remote - UK",
-   "Clinical Sales Manager | Hybrid - Lisbon | Hybrid - Lisbon"
+   "AppSec Sales Engineer  | San Francisco, California, United States; U.S. (Remote) | San Francisco (HQ), CA",
+   "AppSec Sales Engineer - East | Atlanta, Georgia, United States; Austin, Texas, United States; Dallas, Texas, United States; Miami, Florida, United States; Raleigh, North Carolina, United States; Tampa, Florida, United States | U.S. (Remote)",
+   "Content Engineer, Developer Relations | U.S. (Remote) | U.S. (Remote)",
+   "Customer Experience Engineer I/II | U.S. (Remote) | U.S. (Remote)"
   ],
-  "url": "https://job-boards.greenhouse.io/swordhealth/jobs/4434773009"
+  "url": "https://www.harness.io/company/jobs/apply?gh_jid=5088981007&gh_jid=5088981007"
  },
  {
-  "name": "Symphony",
+  "name": "Helius",
   "domain": "fintech",
-  "slug": "symphony",
-  "ats": "greenhouse",
-  "jobs": 18,
-  "sample": [
-   "Account Manager | London | Belfast | New York | Sophia Antipolis",
-   "Account Manager | New York | Belfast | New York | Sophia Antipolis",
-   "Associate Director, Business Development | New York | New York",
-   "Business Development Manager | Hong Kong | Hong Kong"
-  ],
-  "url": "https://symphony.com/company/apply?gh_jid=8249805"
- },
- {
-  "name": "Symphony",
-  "domain": "fintech",
-  "slug": "symphony",
-  "ats": "lever-eu",
-  "jobs": 6,
-  "sample": [
-   "Data Architect | Bosnia & Herzegovina, Serbia, North Macedonia, Colombia, Brazil | Bosnia & Herzegovina, Serbia, North Macedonia, Colombia, Brazil",
-   "Data Engineer | Bosnia & Hercegovina, Serbia, North Macedonia | Bosnia & Hercegovina, Serbia, North Macedonia",
-   "Delivery Director | Belgrade | Belgrade | Brazil, Colombia, Bosnia and Herzegovina, Serbia, North Macedonia | RS",
-   "Delivery Manager | Bosnia & Herzegovina, Serbia, North Macedonia | Bosnia & Herzegovina, Serbia, North Macedonia"
-  ],
-  "url": "https://jobs.eu.lever.co/symphony/0bffc53d-d4c4-4c66-bfce-87251498c206"
- },
- {
-  "name": "Temporal",
-  "domain": "tech",
-  "slug": "temporal",
+  "slug": "helius",
   "ats": "ashby",
-  "jobs": 73,
-  "sample": [
-   "Technical Executive Communications, Senior Manager | San Francisco, California | Seattle, Washington | United States",
-   "Senior Product Manager, Hybrid Platform & Deployment Models | United States (Remote) | Canada (Remote) | United States",
-   "Senior Developer Success Engineer - West | United States (Remote) | Los Angeles, California | Seattle, Washington | San Francisco, California | Portland, Oregon | United States",
-   "Staff Solutions Architect, Banking (India) | Bengaluru, Karnataka | India"
-  ],
-  "url": "https://jobs.ashbyhq.com/temporal/30600762-62fe-4ffb-9b6e-98f145329ea3"
- },
- {
-  "name": "TriliTech",
-  "domain": "fintech",
-  "slug": "trilitech",
-  "ats": "ashby",
-  "jobs": 3,
-  "sample": [
-   "Product Manager - Metals.io | Remote",
-   "Product Manager | Remote",
-   "Senior Mobile Engineer - Wallets  | Remote"
-  ],
-  "url": "https://jobs.ashbyhq.com/trilitech/e5154e9a-5d8f-4339-8c21-6c8d16479bd4"
- },
- {
-  "name": "Trustly",
-  "domain": "fintech",
-  "slug": "trustly",
-  "ats": "ashby",
-  "jobs": 35,
-  "sample": [
-   "Senior Finance Business Partner | London | New York",
-   "Staff Security Engineer - AI Enablement | San Francisco",
-   "Chief Information Security Officer | San Francisco",
-   "VP, Design | San Francisco"
-  ],
-  "url": "https://jobs.ashbyhq.com/trustly/25a5ad95-0d99-4043-820e-15755cb5515a"
- },
- {
-  "name": "Unit",
-  "domain": "fintech",
-  "slug": "unit",
-  "ats": "ashby",
-  "jobs": 2,
-  "sample": [
-   "Senior Backend Engineer | Tel Aviv Office | Israel",
-   "GTM Lead (Bay Area) | San Francisco | United States"
-  ],
-  "url": "https://jobs.ashbyhq.com/unit/04e7723a-baec-4e24-8d90-d78b9391e2f2"
- },
- {
-  "name": "Vercel",
-  "domain": "tech",
-  "slug": "vercel",
-  "ats": "greenhouse",
-  "jobs": 93,
-  "sample": [
-   "Account Executive, Commercial | Hybrid - London | Office - London",
-   "Account Executive, Commercial | Remote - Germany | Remote - Germany",
-   "Account Executive, Majors | Hybrid - London | Office - London",
-   "Account Executive, Majors (APAC) | Hybrid - Sydney | Remote - Australia "
-  ],
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004"
- },
- {
-  "name": "Vitesse",
-  "domain": "fintech",
-  "slug": "vitesse",
-  "ats": "ashby",
-  "jobs": 4,
-  "sample": [
-   "Customer Support Manager | London | United Kingdom",
-   "Senior People Partner  | London | United Kingdom",
-   "Enterprise Customer Success Director | London | United Kingdom",
-   "Customer Success Lead - Enterprise  | London | United Kingdom"
-  ],
-  "url": "https://jobs.ashbyhq.com/vitesse/0d81608c-5e5f-4610-92e0-d7e0bc728647"
- },
- {
-  "name": "Wealthfront",
-  "domain": "fintech",
-  "slug": "wealthfront",
-  "ats": "lever",
-  "jobs": 22,
-  "sample": [
-   "Android Engineer | Palo Alto, CA | Palo Alto, CA | Seattle, WA | San Francisco, CA | New York City, NY | US",
-   "Anti-Money Laundering Monitoring Analyst | Palo Alto, San Francisco, New York City | Palo Alto, San Francisco, New York City | Boston, MA | US",
-   "Backend Engineer | Palo Alto, CA | Palo Alto, CA | New York City, NY | Seattle, WA | San Francisco, CA | US",
-   "Client Services Representative | Palo Alto, CA (Open to US-based Remote) | Palo Alto, CA (Open to US-based Remote) | US"
-  ],
-  "url": "https://jobs.lever.co/wealthfront/78d6f6d5-1f08-4d5d-87be-c4250567bfb5"
- },
- {
-  "name": "Younited",
-  "domain": "fintech",
-  "slug": "younited",
-  "ats": "lever",
   "jobs": 8,
   "sample": [
-   "Analyste Fraude & LCB-FT (F/H) | Paris | Paris | FR",
-   "Credit Strategy Manager (F/H) | Paris | Paris | FR",
-   "CRM Strategy Manager | Roma, Italy | Roma, Italy | IT",
-   "Fraud Manager - Data & IA (F/H) | Paris | Paris | FR"
+   "Technical Recruiter | North America | United States",
+   "Solutions Engineer | North America | North America",
+   "Platform Engineering Lead | North America | United States",
+   "Senior Software Engineer, Backend | North America | United States"
   ],
-  "url": "https://jobs.lever.co/younited/93d90582-5673-4106-84d9-8ed5349ff581"
+  "url": "https://jobs.ashbyhq.com/helius/b444d95c-7142-4981-b4dd-b26fc2954309"
  },
  {
-  "name": "Zego",
+  "name": "Holded",
   "domain": "fintech",
-  "slug": "zego",
-  "ats": "ashby",
-  "jobs": 37,
+  "slug": "holded",
+  "ats": "recruitee",
+  "jobs": 7,
   "sample": [
-   "Lead AI Product Manager - Telematics | London | United Kingdom",
-   "Lead AI Product Manager - Telematics, Portugal | Portugal | Portugal",
-   "Senior AI Product Manager - Mobile Experience | London | United Kingdom",
-   "Senior AI Product Manager - Mobile Experience, Portugal | Portugal | Portugal"
+   "RevOps Specialist | Barcelona, Catalunya [Cataluña], Spain | Barcelona, Spain",
+   "Implementation Manager | Barcelona, Catalunya [Cataluña], Spain | Barcelona, Spain",
+   "Backend Developer (Projects / CRM) | Barcelona, Catalunya [Cataluña], Spain | Barcelona, Spain",
+   "Product Data Analyst | Barcelona, Catalunya [Cataluña], Spain | Barcelona, Spain"
   ],
-  "url": "https://jobs.ashbyhq.com/zego/2370ecf6-1bb6-4402-84c5-5428b2511302"
+  "url": "https://jobs.holded.com/o/revops-specialist-1"
  },
  {
-  "name": "Zerion",
-  "domain": "fintech",
-  "slug": "zerion",
+  "name": "Hotjar / Contentsquare",
+  "domain": "tech",
+  "slug": "contentsquare",
   "ats": "lever",
+  "jobs": 18,
+  "sample": [
+   "Deal Desk Analyst (12 month contract) | London | London | GB",
+   "Enterprise Account Executive | Sydney | Sydney | AU",
+   "Enterprise Account Executive - KSA | Riyadh | Riyadh | SA",
+   "Enterprise Account Executive UKI | London | London | GB"
+  ],
+  "url": "https://jobs.lever.co/contentsquare/d872f05c-6bd6-49f6-a2da-189d1488c08f"
+ },
+ {
+  "name": "IMC Trading",
+  "domain": "fintech",
+  "slug": "imc",
+  "ats": "greenhouse",
+  "jobs": 168,
+  "sample": [
+   "2026 Chess Academy Australia & New Zealand | APAC | Sydney",
+   "2027 EU Campus Programme Talent Community | Europe",
+   "2027 EU Chess Academy - Expression of Interest | Europe",
+   "2027 US Chess Academy Interest Form | Chicago, United States"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4979079101"
+ },
+ {
+  "name": "Incode",
+  "domain": "fintech",
+  "slug": "incode",
+  "ats": "greenhouse",
+  "jobs": 13,
+  "sample": [
+   "Account Executive | San Francisco | San Francisco",
+   "Account Executive | London | London",
+   "Business Development Representative - EMEA | Belgrade | Belgrade",
+   "Data Analytics Team Lead | Serbia | Belgrade"
+  ],
+  "url": "https://job-boards.greenhouse.io/incode/jobs/6231218004"
+ },
+ {
+  "name": "Injective",
+  "domain": "fintech",
+  "slug": "injective",
+  "ats": "ashby",
+  "jobs": 11,
+  "sample": [
+   "PR and Communications Manager | New York | United States",
+   "Social Media and Influencer Marketing Manager | New York or Remote (US) | United States",
+   "Growth Marketing Manager | New York or Remote (US) | United States",
+   "Accounting Manager | New York or Remote (US) | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/injective/5ee51522-d62e-42fc-b408-2b029cc6d0f4"
+ },
+ {
+  "name": "Isar Aerospace",
+  "domain": "tech",
+  "slug": "isaraerospace",
+  "ats": "greenhouse",
+  "jobs": 136,
+  "sample": [
+   "12 months internship - Propulsion Test Engineer (m/f/d) | Kiruna, Norrbotten, Sweden | Kiruna, Sweden",
+   "Account Manager Defense (f/m/d) | Parsdorf, Bavaria, Germany | Parsdorf, Germany",
+   "Additive Manufacturing Operator (m/f/d) | Parsdorf, Bavaria, Germany | Parsdorf, Germany",
+   "AIT Technician | Kiruna, Norrbotten, Sweden | Kiruna, Sweden"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101"
+ },
+ {
+  "name": "Jane Street",
+  "domain": "fintech",
+  "slug": "janestreet",
+  "ats": "greenhouse",
+  "jobs": 221,
+  "sample": [
+   "Accounting Coordinator | New York, New York, United States | New York",
+   "AML Onboarding Analyst | London, England, United Kingdom | London",
+   "Architect  | New York, New York, United States | New York",
+   "ASIC Engineer | New York, New York, United States | New York"
+  ],
+  "url": "https://www.janestreet.com/join-jane-street/apply/8631912002?gh_jid=8631912002"
+ },
+ {
+  "name": "Jito Labs",
+  "domain": "fintech",
+  "slug": "jito",
+  "ats": "lever",
+  "jobs": 3,
+  "sample": [
+   "Growth Marketing Lead | Remote, North America | Remote, North America | US",
+   "Product Designer | Worldwide, but must be willing to attend regular EST meetings | Worldwide, but must be willing to attend regular EST meetings | US",
+   "Propose Your Dream Job | Worldwide, but must be willing to attend regular EST meetings | Worldwide, but must be willing to attend regular EST meetings | US"
+  ],
+  "url": "https://jobs.lever.co/jito/e7f3b33a-d707-45f3-b238-2b447f9473d2"
+ },
+ {
+  "name": "Jump Trading",
+  "domain": "fintech",
+  "slug": "jumptrading",
+  "ats": "greenhouse",
+  "jobs": 96,
+  "sample": [
+   "Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | Hong Kong | Shanghai | Singapore",
+   "Campus AI Research Engineer – Deep Learning (Full-Time) | Chicago; New York | Chicago | New York City ",
+   "Campus AI Research Engineer - Deep Learning (Intern) | Chicago; New York | Chicago | New York City ",
+   "Campus AI Research Engineer (Full-Time) | Chicago; New York | Chicago | New York City "
+  ],
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938"
+ },
+ {
+  "name": "Jump Trading",
+  "domain": "fintech",
+  "slug": "jump",
+  "ats": "ashby",
+  "jobs": 3,
+  "sample": [
+   "Join the Jump Product & Design Talent Pool  | Remote (US) | USA",
+   "Join the Jump Engineering Talent Pool | Remote (US) | USA",
+   "Join the Jump Go-To-Market Talent Pool | Remote (US) | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/jump/238256c7-fad7-4398-a374-e8e15fbdee2c"
+ },
+ {
+  "name": "Jump Trading",
+  "domain": "fintech",
+  "slug": "jump",
+  "ats": "recruitee",
+  "jobs": 3,
+  "sample": [
+   "Projectleider software ontwikkeling | Zwijndrecht, Zuid-Holland, Nederland | Zwijndrecht, Nederland",
+   "Business Development Representative | Zwijndrecht, Zuid-Holland, Nederland | Zwijndrecht, Nederland",
+   "Ervaren Mendix Developer | Zwijndrecht, Zuid-Holland, Nederland | Zwijndrecht, Nederland"
+  ],
+  "url": "https://jump.recruitee.com/o/projectleider-software-ontwikkeling"
+ },
+ {
+  "name": "Juni",
+  "domain": "fintech",
+  "slug": "juni",
+  "ats": "personio",
+  "jobs": 8,
+  "sample": [
+   "(Senior) Project Manager Events (m/f/d) | Berlin-Mitte",
+   "Business Development &amp; Strategic Partnerships Manager:in (m/w/d) | Berlin-Mitte",
+   "Communications Manager (m/f/d) | Berlin-Mitte",
+   "Freelance Data Engineer (Postgres / Systems Integration) | Remote | Berlin-Mitte"
+  ],
+  "url": "https://juni.jobs.personio.de/job/2813417"
+ },
+ {
+  "name": "Kahoot",
+  "domain": "tech",
+  "slug": "kahoot",
+  "ats": "workable",
+  "jobs": 6,
+  "sample": [
+   "Sales Executive SME (French-speaking) | Copenhagen, Capital Region of Denmark, Denmark | Copenhagen, Capital Region of Denmark, Denmark",
+   "Sales Executive SME (French-speaking) | Oslo, Oslo, Norway | Oslo, Oslo, Norway",
+   "Senior Account Executive, Education (France) | Paris, Île-de-France, France | Paris, Île-de-France, France",
+   "Senior Data Engineer | Oslo, Oslo, Norway | Oslo, Oslo, Norway"
+  ],
+  "url": "https://apply.workable.com/j/F5C99DA5FC"
+ },
+ {
+  "name": "LangChain",
+  "domain": "tech",
+  "slug": "langchain",
+  "ats": "ashby",
+  "jobs": 101,
+  "sample": [
+   "Python OSS Engineer  | San Francisco, CA | Boston, MA | United States",
+   "Enterprise Account Executive (San Francisco Bay Area) | San Francisco, CA | United States",
+   "Senior Frontend Engineer, AI Observability & Evals Platform  | Remote - US | United States",
+   "Software Engineering Manager, AI Observability & Evals Platform (New York, NY) | New York, NY | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d"
+ },
+ {
+  "name": "LaunchDarkly",
+  "domain": "tech",
+  "slug": "launchdarkly",
+  "ats": "greenhouse",
+  "jobs": 52,
+  "sample": [
+   "Accounts Payable & Expense Specialist | India | APAC - India",
+   "Backend Software Engineer, SDK | Remote - US | US - Oakland, CA (HQ)",
+   "Corporate Account Executive - EMEA | Hybrid - EMEA | EMEA - UK",
+   "Corporate Regional Sales Director - EMEA  | London, England, United Kingdom | EMEA - UK"
+  ],
+  "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7989233003"
+ },
+ {
+  "name": "Ledgy",
+  "domain": "fintech",
+  "slug": "ledgy",
+  "ats": "greenhouse",
+  "jobs": 3,
+  "sample": [
+   "AI Software Engineer (Senior or Staff) | London, UK; UK Remote; Germany Remote; Spain Remote; Poland Remote; Romania (Remote) | Berlin | London",
+   "Customer Success & Operations Manager (Public Markets) | London, United Kingdom | London",
+   "Mid-Level Software Engineer | London, United Kingdom | London"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/ledgy/jobs/5009181101"
+ },
+ {
+  "name": "Liberis",
+  "domain": "fintech",
+  "slug": "liberis",
+  "ats": "greenhouse",
+  "jobs": 19,
+  "sample": [
+   "Associate Partner Manager | Atlanta, Georgia, United States of America | Liberis - Atlanta",
+   "Collections Agent - German or Czech/Slovak Speaking | Nottingham, United Kingdom | Liberis - Nottingham ",
+   "Customer Operations Executive - European Spanish Speaking | London, United Kingdom | Liberis - London",
+   "Customer Service Executive, Collections - German or Czech/Slovak Speaking | Nottingham, United Kingdom | Liberis - Nottingham "
+  ],
+  "url": "https://job-boards.greenhouse.io/liberis/jobs/8324638"
+ },
+ {
+  "name": "Linear",
+  "domain": "tech",
+  "slug": "linear",
+  "ats": "ashby",
+  "jobs": 32,
+  "sample": [
+   "Senior / Staff Fullstack Engineer | Europe | European Union",
+   "Senior / Staff Fullstack Engineer | North America | United States",
+   "Senior / Staff Product Engineer | Europe | European Union",
+   "Senior / Staff Product Engineer | North America | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/linear/d3bc1ced-3ce4-4086-a050-555055dbb1ff"
+ },
+ {
+  "name": "Lovable",
+  "domain": "tech",
+  "slug": "lovable",
+  "ats": "greenhouse",
+  "jobs": 61,
+  "sample": [
+   "1_Candidatura Spontanea | Bergamo | Lovable",
+   "Adv_Affi (VR) | Affi | Lovable",
+   "Adv_Ancona  | Ancona | Lovable",
+   "Adv_Antegnate (BG) | Antegnate | Lovable"
+  ],
+  "url": "https://job-boards.greenhouse.io/lovable/jobs/5363505"
+ },
+ {
+  "name": "Lovable",
+  "domain": "tech",
+  "slug": "lovable",
+  "ats": "ashby",
+  "jobs": 82,
+  "sample": [
+   "Data Platform Engineer | Stockholm | Sweden",
+   "Research Engineering Lead | Stockholm | Sweden",
+   "Product Designer | Stockholm | Sweden",
+   "Brand Designer, Web | London | Stockholm | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683"
+ },
+ {
+  "name": "Magic Eden",
+  "domain": "fintech",
+  "slug": "magiceden",
+  "ats": "ashby",
   "jobs": 1,
   "sample": [
-   "Senior Backend Engineer | Remote | Remote | PT"
+   "Senior Growth Product Manager, AI-Native | Remote | Australia"
   ],
-  "url": "https://jobs.lever.co/zerion/d10ab83b-f425-49c2-bc93-09a14e97c2b8"
+  "url": "https://jobs.ashbyhq.com/magiceden/1bde0a10-11c5-4b21-8cef-983e77eb3722"
  },
  {
-  "name": "Zilch",
+  "name": "Man Group",
   "domain": "fintech",
-  "slug": "zilch",
+  "slug": "mangroup",
+  "ats": "greenhouse",
+  "jobs": 65,
+  "sample": [
+   "Analyst, Solutions Middle Office | London | London",
+   "Associate, Discretionary Investment Specialists | London | London",
+   "Business Manager | Boston; Massachusetts | Massachusetts",
+   "Business Manager | Sofia | Sofia"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5003542101"
+ },
+ {
+  "name": "Maven Securities",
+  "domain": "fintech",
+  "slug": "maven",
+  "ats": "ashby",
+  "jobs": 3,
+  "sample": [
+   "Partnerships Lead, Maven for Business | Remote",
+   "Senior Software Engineer | Remote",
+   "Growth Lead | Remote"
+  ],
+  "url": "https://jobs.ashbyhq.com/maven/b77efe68-3480-45c8-b3b1-b155e62674be"
+ },
+ {
+  "name": "Merkle Science",
+  "domain": "fintech",
+  "slug": "merklescience",
+  "ats": "lever",
+  "jobs": 21,
+  "sample": [
+   "Account Executive - US | New York | New York | US",
+   "Content Writer - Crypto/Blockchain | Remote | Remote | SG",
+   "Customer success manager | Bangalore | Bangalore | IN",
+   "Customer Success Manager | New York | New York | US"
+  ],
+  "url": "https://jobs.lever.co/merklescience/31c164c9-1af0-4e20-ab81-3ef7cc172c7f"
+ },
+ {
+  "name": "Miro",
+  "domain": "tech",
+  "slug": "miro",
   "ats": "ashby",
   "jobs": 12,
   "sample": [
-   "Senior Product Designer  | Zilch UK | United Kingdom",
-   "Finance Director  | Zilch UK | United Kingdom",
-   "Senior Data Scientist | Zilch UK | United Kingdom",
-   "Performance Marketing Lead | Zilch UK | United Kingdom"
+   "Head of CS, DACH | Munich",
+   "Strategic Key Account Executive (DACH) | London",
+   "Expression of Interest: Enterprise & Strategic Account Executive | Austin",
+   "Vice President Customer Success | Austin"
   ],
-  "url": "https://jobs.ashbyhq.com/zilch/57a156a7-bd35-4962-aa0e-417513741bae"
+  "url": "https://jobs.ashbyhq.com/miro/04078a6b-74df-45dc-9e1a-d83ea685a004"
+ },
+ {
+  "name": "Modal",
+  "domain": "tech",
+  "slug": "modal",
+  "ats": "ashby",
+  "jobs": 43,
+  "sample": [
+   "Member of Technical Staff - Systems | New York | San Francisco | United States",
+   "Forward Deployed Engineer - ML | New York | San Francisco | United States",
+   "Business Operations Manager | New York | United States",
+   "Member of Technical Staff - ML Performance | New York | San Francisco | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/modal/9b33ebe7-e829-4f03-97ba-5c94dbd7daf6"
+ },
+ {
+  "name": "Modern Treasury",
+  "domain": "fintech",
+  "slug": "moderntreasury",
+  "ats": "ashby",
+  "jobs": 9,
+  "sample": [
+   "Software Engineer  | San Francisco | New York | Remote | USA",
+   "Software Engineer - Infrastructure  | Remote | New York | San Francisco | USA",
+   "Account Executive | San Francisco | New York | USA",
+   "Product Manager, Payments | San Francisco | New York | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/moderntreasury/f2ff4c9c-0c2f-4bb8-b446-77cab281126a"
+ },
+ {
+  "name": "Moneybox",
+  "domain": "fintech",
+  "slug": "moneybox",
+  "ats": "ashby",
+  "jobs": 16,
+  "sample": [
+   "Senior Data Engineer | London Office",
+   "Director of Treasury | London Office",
+   "Financial Coach - (Remote) | Remote",
+   "Head of Advice - (Remote) | Remote"
+  ],
+  "url": "https://jobs.ashbyhq.com/moneybox/8f562e37-e5c6-41c5-b352-5e570f7939b4"
+ },
+ {
+  "name": "Moonfare",
+  "domain": "fintech",
+  "slug": "moonfare",
+  "ats": "greenhouse",
+  "jobs": 22,
+  "sample": [
+   "Chief of Staff (f/m/d) | Berlin, Germany | Berlin",
+   "Content Producer (m/f/d) | Berlin, Germany | Berlin",
+   "Experiential Marketing Manager | London, United Kingdom | London",
+   "Fund Reporting Specialist | Luxembourg, Luxembourg | Berlin | Luxembourg"
+  ],
+  "url": "https://www.moonfare.com/open-position/?gh_jid=8040024003"
+ },
+ {
+  "name": "Multiverse",
+  "domain": "tech",
+  "slug": "multiverse",
+  "ats": "ashby",
+  "jobs": 28,
+  "sample": [
+   "Enterprise Account Executive, UK | London | UK",
+   "Mid Market Account Executive, UK | London | UK",
+   "Senior Product Marketing Manager | London | UK",
+   "Data Technical Trainer   | London | Remote (UK) | UK"
+  ],
+  "url": "https://jobs.ashbyhq.com/multiverse/4a48ae46-fb64-4ebf-878c-66c4db54ab26"
+ },
+ {
+  "name": "Neon",
+  "domain": "tech",
+  "slug": "neon",
+  "ats": "ashby",
+  "jobs": 1,
+  "sample": [
+   "Forward Deployed Engineer | Asia | South Korea | South Korea"
+  ],
+  "url": "https://jobs.ashbyhq.com/neon/244b2337-7b43-4be7-9ef1-f7659ba7b0af"
+ },
+ {
+  "name": "Neon",
+  "domain": "tech",
+  "slug": "neon",
+  "ats": "lever",
+  "jobs": 8,
+  "sample": [
+   "Analista de CRM Sênior | Vaga Afirmativa para Mulheres Pretas e Pardas | Remoto | Remoto | BR",
+   "Banco de Talentos - Comunidade Negra | Remoto | Remoto | BR",
+   "Banco de Talentos - LGBTQIA+ | Remoto | Remoto | BR",
+   "Banco de Talentos - Liderança Feminina | Remoto | Remoto | BR"
+  ],
+  "url": "https://jobs.lever.co/neon/5cae0695-01bc-4b65-81a9-11fcba5c53ba"
+ },
+ {
+  "name": "Neon",
+  "domain": "tech",
+  "slug": "neon",
+  "ats": "personio",
+  "jobs": 20,
+  "sample": [
+   "Future Tax Advisor | Berlin",
+   "Lawyer Commercial | Berlin",
+   "Lawyer Corporate Transactions | Berlin",
+   "Lawyer Finance | M&amp;A | Berlin"
+  ],
+  "url": "https://neon.jobs.personio.de/job/2777762"
+ },
+ {
+  "name": "Norma / Light",
+  "domain": "fintech",
+  "slug": "light",
+  "ats": "ashby",
+  "jobs": 11,
+  "sample": [
+   "Marketing Lead | Austin | United States",
+   "Software Engineer | Austin | United States",
+   "Technical Partner Manager | Austin | United States",
+   "Business Operations | Austin | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/light/ac37e648-404f-4840-8225-6e97ae30c298"
+ },
+ {
+  "name": "Notabene",
+  "domain": "fintech",
+  "slug": "notabene",
+  "ats": "ashby",
+  "jobs": 7,
+  "sample": [
+   "Enterprise Account Executive, Americas | New York | United States",
+   "Senior Customer Success Manager, Americas (Remote) | New York | Chicago | United States",
+   "Customer Success Manager, EMEA  | London | United Kingdom",
+   "Controller | Remote- US | New York | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/notabene/1d111452-1b10-43ed-8bc2-c807d0983976"
+ },
+ {
+  "name": "Openly",
+  "domain": "fintech",
+  "slug": "openly",
+  "ats": "ashby",
+  "jobs": 7,
+  "sample": [
+   "Senior Backend Engineer (Remote, US) | Remote - United States | US",
+   "Regional Insurance Product Manager (Remote, US) | Remote - United States | US",
+   "Staff Analyst - Insurance Product & Countrywide Advanced Analytics (Remote, US) | Remote - United States | US",
+   "Manager, Distribution Readiness & Field Excellence (Remote, US) | Remote - United States | US"
+  ],
+  "url": "https://jobs.ashbyhq.com/openly/dbc64565-0523-40cb-9ea3-80526d983f33"
+ },
+ {
+  "name": "OpsLevel",
+  "domain": "tech",
+  "slug": "opslevel",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "Marketing Lead | Toronto, Canada | Canada",
+   "Product Engineer | Canada | Canada"
+  ],
+  "url": "https://jobs.ashbyhq.com/opslevel/c7c63690-f631-443a-9510-fedfd01a4080"
+ },
+ {
+  "name": "Orum",
+  "domain": "fintech",
+  "slug": "orum",
+  "ats": "ashby",
+  "jobs": 5,
+  "sample": [
+   "Enterprise Account Executive | United States | United States",
+   "Senior Software Engineer - Product Platform Team | San Francisco Bay Area | Austin, TX | United States",
+   "Senior Software Engineer - Coaching + Analytics Team | San Francisco Bay Area | Austin, TX | United States",
+   "Senior Software Engineer - Dialer Team | San Francisco Bay Area | Austin, TX | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/orum/94c712fe-28bd-42b7-a56b-9c0b26f4f68a"
+ },
+ {
+  "name": "Paradigm",
+  "domain": "fintech",
+  "slug": "paradigm",
+  "ats": "ashby",
+  "jobs": 7,
+  "sample": [
+   "Growth - Paradigm Portfolio | Remote",
+   "Engineering - Paradigm Portfolio | Remote",
+   "Infrastructure Engineer, Applied AI | San Francisco, CA | United States",
+   "Product Engineer, Applied AI | San Francisco, CA | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/paradigm/80eee80a-aecb-4888-b219-fba7b99dcb1b"
+ },
+ {
+  "name": "Parqet",
+  "domain": "fintech",
+  "slug": "parqet",
+  "ats": "personio",
+  "jobs": 2,
+  "sample": [
+   "Backend Engineer | Remote",
+   "Mobile Engineer (React Native) | Remote"
+  ],
+  "url": "https://parqet.jobs.personio.de/job/2319914"
+ },
+ {
+  "name": "Payabli",
+  "domain": "fintech",
+  "slug": "payabli",
+  "ats": "ashby",
+  "jobs": 10,
+  "sample": [
+   "Senior Software Engineer, Full Stack | Remote | United States",
+   "FP&A Manager – Payments & Billing | Remote | Seattle | Los Angeles | United States",
+   "CX Operations Manager | Remote | Phoenix | United States",
+   "Senior Software Engineer, Backend | Remote | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/payabli/dc71d02a-6ebd-4260-b23b-fea561df1c09"
+ },
+ {
+  "name": "Paymentology",
+  "domain": "fintech",
+  "slug": "paymentology",
+  "ats": "ashby",
+  "jobs": 5,
+  "sample": [
+   "People Business Partner  | South Africa | South Africa",
+   "Technical Account Manager | Poland | Romania | Ireland | Moldova | Lithuania | Slovakia | Slovenia | Bosnia & Herzegovina | Serbia | Estonia | Poland",
+   "Product Manager -  International Money movement | Estonia | Romania | United Kingdom | Moldova | Lithuania | Slovakia | Bosnia & Herzegovina | Serbia | Montenegro | Estonia",
+   "Financial Accountant  | South-Africa | United Kingdom | Poland | Portugal | Spain | South Africa"
+  ],
+  "url": "https://jobs.ashbyhq.com/paymentology/1d96f241-f4dc-43c3-beb6-fa4dc14621e0"
+ },
+ {
+  "name": "Persona",
+  "domain": "fintech",
+  "slug": "persona",
+  "ats": "ashby",
+  "jobs": 13,
+  "sample": [
+   "Associate Commercial Counsel  | San Francisco | New York | United States",
+   "Research Scientist | San Francisco | United States",
+   "Solutions Engineer | San Francisco | United States",
+   "Account Executive | San Francisco | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/persona/8c7918f2-cc3e-4bd6-8dd6-0f57d2ffb670"
+ },
+ {
+  "name": "Personio",
+  "domain": "tech",
+  "slug": "personio",
+  "ats": "recruitee",
+  "jobs": 1,
+  "sample": [
+   "API Job - Berlin - Musterstr 1, 10111 | Berlin, Berlin, Deutschland | Berlin, Deutschland"
+  ],
+  "url": "https://personio.recruitee.com/o/api-job-berlin-musterstr-1-10111"
+ },
+ {
+  "name": "Pinecone",
+  "domain": "tech",
+  "slug": "pinecone",
+  "ats": "ashby",
+  "jobs": 8,
+  "sample": [
+   "Senior/Staff Software Engineer, Database Team | New York City | USA",
+   "Developer Advocate  | San Francisco | US",
+   "Senior/Staff Software Engineer, Search & Retrieval Infrastructure | US Remote | USA",
+   "Technical Product Marketing Manager (Staff) | New York City | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/pinecone/4ef4269b-94c4-4c7c-93ee-15a882caa767"
+ },
+ {
+  "name": "Pipedrive",
+  "domain": "tech",
+  "slug": "pipedrive",
+  "ats": "lever",
+  "jobs": 8,
+  "sample": [
+   "Principal AI/ML Scientist & Engineer | Portugal, Lisbon | Portugal, Lisbon | PT",
+   "Principal AI/ML Scientist & Engineer | Germany, Berlin | Germany, Berlin | DE",
+   "Principal AI/ML Scientist & Engineer | UK, London | UK, London | GB",
+   "Principal AI/ML Scientist & Engineer | Ireland, Dublin | Ireland, Dublin | IE"
+  ],
+  "url": "https://jobs.lever.co/pipedrive/27906eb6-51df-4dbc-a860-72e911bdd2c8"
+ },
+ {
+  "name": "PlanetScale",
+  "domain": "tech",
+  "slug": "planetscale",
+  "ats": "greenhouse",
+  "jobs": 11,
+  "sample": [
+   "AI Developer Experience Engineer | Remote US  | Remote - US",
+   "Brand Designer | Remote - USA | Remote - US",
+   "Customer Support Engineer | EMEA or NA | Remote - EMEA | Remote - NA",
+   "Customer Support Engineer | US | Remote - US"
+  ],
+  "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009"
+ },
+ {
+  "name": "Plasma",
+  "domain": "fintech",
+  "slug": "plasma",
+  "ats": "ashby",
+  "jobs": 3,
+  "sample": [
+   "Growth Lead - Performance Marketing | London Office | United Kingdom",
+   "Customer Operations Specialist | Canada | Mexico | Central America",
+   "Data Engineering Lead | London Office | Anywhere | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/plasma/2cccd3a9-814a-41f8-a05b-43a78217f9b4"
+ },
+ {
+  "name": "PolyAI",
+  "domain": "tech",
+  "slug": "polyai",
+  "ats": "greenhouse",
+  "jobs": 1,
+  "sample": [
+   "Senior Marketing Manager, EMEA | United Kingdom | United Kingdom"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/5010878101"
+ },
+ {
+  "name": "Poolside",
+  "domain": "tech",
+  "slug": "poolside",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "Member of Engineering (Infrastructure) | Remote (EMEA) | United Kingdom",
+   "Member of Engineering (Inference Infrastructure) | Remote (EMEA) | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/poolside/ade02c95-890f-4f1d-9ca6-05076b6fe687"
+ },
+ {
+  "name": "PostHog",
+  "domain": "tech",
+  "slug": "posthog",
+  "ats": "ashby",
+  "jobs": 12,
+  "sample": [
+   " Technical Support Engineer | Remote | US | EU",
+   "Technical Customer Success Manager - EMEA | Remote (EMEA) | European Union",
+   "ClickHouse Operations Engineer  | Remote | USA",
+   "Product Engineer | Remote | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/posthog/db808740-242e-4a40-ad43-d41f26c049d7"
+ },
+ {
+  "name": "Prisma",
+  "domain": "tech",
+  "slug": "prisma",
+  "ats": "recruitee",
+  "jobs": 56,
+  "sample": [
+   "Begeleider / Persoonlijk begeleider MVB/EVB | Oosterhout, Noord-Brabant, Nederland | Oosterhout, Nederland",
+   "Studentenbaan in de zorg | Raamsdonksveer, Noord-Brabant, Nederland | Raamsdonksveer, Nederland",
+   "Begeleider/persoonlijk begeleider MVB | Biezenmortel, Noord-Brabant, Nederland | Biezenmortel, Nederland",
+   "Begeleider niveau 3 - Brabanthof | Kaatsheuvel, Noord-Brabant, Nederland | Kaatsheuvel, Nederland"
+  ],
+  "url": "https://werkenbij.prismanet.nl/o/begeleider-persoonlijk-begeleider-mvb-evb-oosterhout"
+ },
+ {
+  "name": "Quantum Systems",
+  "domain": "tech",
+  "slug": "quantumsystemsgmbh",
+  "ats": "recruitee",
+  "jobs": 194,
+  "sample": [
+   "Інженер-програміст верстатів з ЧПК | Kyiv, Kyiv, Ukraine | Kyiv, Ukraine",
+   "Налагоджувальник верстатів з ЧПК | Kyiv, Kyiv, Ukraine | Kyiv, Ukraine",
+   "Оператор верстату з ЧПК | Kyiv, Kyiv, Ukraine | Kyiv, Ukraine",
+   "Lead Linux Software Engineer | Kyiv, Kyiv, Ukraine | Kyiv, Ukraine"
+  ],
+  "url": "https://career.quantum-systems.com/o/12b3en4rwp"
+ },
+ {
+  "name": "Railway",
+  "domain": "tech",
+  "slug": "railway",
+  "ats": "ashby",
+  "jobs": 7,
+  "sample": [
+   "Senior Full-Stack Engineer - Product | Global | USA",
+   "Infrastructure Engineer | Global | USA",
+   "Infra Engineer - Datacenters | Remote (United States) | United States",
+   "Senior Platform Engineer: Storage | Global | USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/railway/6ddcfe47-6cce-469b-ba6d-4f0e83440c9d"
+ },
+ {
+  "name": "Remote",
+  "domain": "tech",
+  "slug": "remote",
+  "ats": "greenhouse",
+  "jobs": 2,
+  "sample": [
+   "SEI Instructor Lead | New York, NY | New York City",
+   "SEI Instructor Lead | New York, NY | New York City"
+  ],
+  "url": "https://job-boards.greenhouse.io/remote/jobs/4622190"
+ },
+ {
+  "name": "Render",
+  "domain": "tech",
+  "slug": "render",
+  "ats": "ashby",
+  "jobs": 35,
+  "sample": [
+   "Software Engineer, Product (all levels) | Remote: United States | Remote: Canada | United States",
+   "Software Engineer, Security (all levels) | Remote: United States | Remote: Canada | United States",
+   "Software Engineer, Infrastructure (all levels) | Remote: United States | Remote: Canada | United States",
+   "Software Engineer, Billing (all levels) | Remote: United States | Remote: Canada | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/render/c7d896f2-20a9-4b44-9f7d-13929a0fe453"
+ },
+ {
+  "name": "Revolut Business / Lead Bank",
+  "domain": "fintech",
+  "slug": "leadbank",
+  "ats": "ashby",
+  "jobs": 18,
+  "sample": [
+   "Technical Account Manager | United States -Remote | US",
+   "Software Engineer III | New York, NY; San Francisco, CA; Sunnyvale, CA (Hybrid) | US",
+   "Software Engineer IV | New York, NY; San Francisco, CA; Sunnyvale, CA (Hybrid) | US",
+   "Senior Product Manager | New York, NY; San Francisco, CA; Sunnyvale, CA (Hybrid); United States -Remote | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/leadbank/b09665a9-5c60-41c4-8d24-cfd7a1ca1aff"
+ },
+ {
+  "name": "Salv",
+  "domain": "fintech",
+  "slug": "salv",
+  "ats": "personio",
+  "jobs": 2,
+  "sample": [
+   "Head of Product Management | Tallinn | Tartu",
+   "Sales Manager | Tallinn"
+  ],
+  "url": "https://salv.jobs.personio.de/job/2740242"
+ },
+ {
+  "name": "Saronic",
+  "domain": "tech",
+  "slug": "saronic",
+  "ats": "ashby",
+  "jobs": 246,
+  "sample": [
+   "Mission Operations Master, MUSV | Austin, TX | United States",
+   "Mission Operations Chief Engineer | Austin, TX | United States",
+   "Mission Operations Mate | Austin, TX | United States",
+   "Business Systems Analyst - Enterprise Applications | Austin, TX | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/saronic/d3ad80db-8508-4677-95d6-93c5d7a33815"
+ },
+ {
+  "name": "Sei Labs",
+  "domain": "fintech",
+  "slug": "sei",
+  "ats": "greenhouse",
+  "jobs": 1,
+  "sample": [
+   "Project Lead, K-12 Education | New York City / Long Island (Remote) | New York"
+  ],
+  "url": "https://www.seiinc.org/careers.html?gh_jid=5455240008"
+ },
+ {
+  "name": "Sentry",
+  "domain": "tech",
+  "slug": "sentry",
+  "ats": "ashby",
+  "jobs": 42,
+  "sample": [
+   "Staff Software Engineer, AI Platform | San Francisco, California | United States",
+   "Senior Software Engineer, AI Platform | San Francisco, California | United States",
+   "Senior Developer Experience Engineer | San Francisco, California | United States",
+   "Forward Deployed Engineer  | San Francisco, California | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/sentry/81f09568-da7d-4ed1-8283-614f846c9b00"
+ },
+ {
+  "name": "Seyna",
+  "domain": "fintech",
+  "slug": "seyna",
+  "ats": "ashby",
+  "jobs": 13,
+  "sample": [
+   "Comptable Junior | Paris | France",
+   "Candidature spontanée  | Paris | France",
+   "Manager - Data Integration | Paris | France",
+   "Director - Risk Management | Paris | France"
+  ],
+  "url": "https://jobs.ashbyhq.com/seyna/2a2067f0-1c42-4250-a86d-84e3460fa6fa"
+ },
+ {
+  "name": "Shield AI",
+  "domain": "tech",
+  "slug": "shieldai",
+  "ats": "ashby",
+  "jobs": 683,
+  "sample": [
+   "Staff Engineer, Manufacturing | Dallas, Texas",
+   "Senior Engineer Propulsion - Engine Performance (R5907) | Dallas, Texas",
+   "Engineer II, Propulsion - Engine Performance (R5907) | Dallas, Texas",
+   "Trade Compliance Manager (R5351) | London"
+  ],
+  "url": "https://jobs.ashbyhq.com/shieldai/45966648-496b-4ea5-aa88-49961099d8bc"
+ },
+ {
+  "name": "Shield AI",
+  "domain": "tech",
+  "slug": "shieldai",
+  "ats": "lever",
+  "jobs": 660,
+  "sample": [
+   "Administrative Assistant (6189) | Abu Dhabi | Abu Dhabi | AE",
+   "Aerodynamics & Performance Engineer (R5732) | Dallas, Texas | Dallas, Texas | US",
+   "Aerostructures Design Engineer II (R5156) | Seattle, Washington | Seattle, Washington | US",
+   "Air Vehicle Lead, Chief Engineer | Seattle, Washington | Seattle, Washington | Dallas, Texas | San Diego, California | US"
+  ],
+  "url": "https://jobs.lever.co/shieldai/ba945088-38ec-4e58-8f66-01c0497a3bd3"
+ },
+ {
+  "name": "Shift Technology",
+  "domain": "fintech",
+  "slug": "shifttechnology",
+  "ats": "greenhouse",
+  "jobs": 18,
+  "sample": [
+   "AI Architect | France - Paris | France",
+   "Certified Medical Coding Specialist | US - Boston; US - Remote | USA",
+   " Data Science Internship  | Singapore - Singapore | Singapore",
+   "Data Science internship - Spanish speaker (6months) | Spain - Madrid | France"
+  ],
+  "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/7681765003"
+ },
+ {
+  "name": "Sila",
+  "domain": "fintech",
+  "slug": "sila",
+  "ats": "lever",
+  "jobs": 219,
+  "sample": [
+   "Accounting Admin | Northbrook, Illinois | Northbrook, Illinois | US",
+   "Apprentice Plumber | Rocky Mount, VA | Rocky Mount, VA | US",
+   "Boiler Installer | Stoneham, MA | Stoneham, MA | US",
+   "CDL-A Driver (Site work) | King of Prussia, PA | King of Prussia, PA | US"
+  ],
+  "url": "https://jobs.lever.co/sila/a6c79975-544f-4f33-8bbd-8042bd3736f8"
+ },
+ {
+  "name": "Sixfold",
+  "domain": "fintech",
+  "slug": "sixfold",
+  "ats": "greenhouse",
+  "jobs": 3,
+  "sample": [
+   "Software Engineer, Product | New York City, New York | NY Office",
+   "Staff Data Engineer | Remote | NY Office",
+   "VP, Product | New York, New York, United States | NY Office"
+  ],
+  "url": "https://job-boards.greenhouse.io/sixfold/jobs/4539636008"
+ },
+ {
+  "name": "Skyflow",
+  "domain": "fintech",
+  "slug": "skyflow",
+  "ats": "ashby",
+  "jobs": 11,
+  "sample": [
+   "Product Marketing Manager (all levels) | United States | United States",
+   "Enterprise Solutions Architect | United States | United States",
+   "Senior Software Engineer | India | India",
+   "AI Product Lead | United States | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/skyflow/7ede13e6-845e-4184-8360-532af5315686"
+ },
+ {
+  "name": "Sorare",
+  "domain": "fintech",
+  "slug": "sorare",
+  "ats": "ashby",
+  "jobs": 3,
+  "sample": [
+   "Marketing Intern | Paris | France",
+   "Senior Software Engineer, Frontend | Paris | France",
+   "Senior Software Engineer - iOS - Paris | Paris | France"
+  ],
+  "url": "https://jobs.ashbyhq.com/sorare/66d081cd-cf6e-491c-8a73-8891f7c7ed0d"
+ },
+ {
+  "name": "Sourcegraph",
+  "domain": "tech",
+  "slug": "sourcegraph91",
+  "ats": "greenhouse",
+  "jobs": 7,
+  "sample": [
+   "Compliance Manager [IC3] | Remote | Remote ",
+   "Enterprise Account Executive, US [IC5] | Remote | Remote ",
+   "Join our Talent Community to learn about future job opportunities! | Remote",
+   "ML & Agentic Systems Engineer [IC4] | Remote | Remote "
+  ],
+  "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6209697004"
+ },
+ {
+  "name": "Speechify",
+  "domain": "tech",
+  "slug": "speechify",
+  "ats": "greenhouse",
+  "jobs": 738,
+  "sample": [
+   "Software Engineer, AI Data | Remote | Distributed",
+   "Software Engineer, AI Data | Remote | Distributed",
+   "Software Engineer, AI Data - Aarhus, Denmark | Remote | Distributed",
+   "Software Engineer, AI Data - Ahmedabad, India | Remote | Distributed"
+  ],
+  "url": "https://job-boards.greenhouse.io/speechify/jobs/6229014004"
+ },
+ {
+  "name": "Spreedly",
+  "domain": "fintech",
+  "slug": "spreedly",
+  "ats": "lever",
+  "jobs": 5,
+  "sample": [
+   "General Application | Durham, North Carolina | Durham, North Carolina | Montreal, Quebec | Remote, East Coast | US",
+   "Lead Revenue Operations Analyst | Remote, United States | Remote, United States | US",
+   "Senior Database Engineer | Remote, United States | Remote, United States | US",
+   "Support Engineer | Remote, United States | Remote, United States | US"
+  ],
+  "url": "https://jobs.lever.co/spreedly/a3f88fa0-ec9d-40ff-bdbf-cc0982ea062f"
+ },
+ {
+  "name": "Squarepoint",
+  "domain": "fintech",
+  "slug": "squarepointcapital",
+  "ats": "greenhouse",
+  "jobs": 90,
+  "sample": [
+   "APAC Delta One Trader | Hong Kong, Singapore | Hong Kong | Singapore",
+   "Assistant Controller - Broker Dealer | London, New York, Montreal, Warsaw | London | Montreal | New York | Warsaw",
+   "Assistant Controller — CLO Products | London, New York | London | New York",
+   "Assistant Controller - Management Company | London, Montreal, Jersey, Warsaw | Jersey | London | Montreal | Warsaw"
+  ],
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=8002291&gh_jid=8002291"
+ },
+ {
+  "name": "Stark Defence",
+  "domain": "tech",
+  "slug": "stark",
+  "ats": "personio",
+  "jobs": 10,
+  "sample": [
+   "Berufskraftfahrer / Standortlogistik (m/w/d) | Munich | Berlin",
+   "Category Buyer (all genders) | Munich",
+   "Electronics Repair Specialist | Kyiv",
+   "Field Robotics Engineer – Data Operations (all genders) | Munich"
+  ],
+  "url": "https://stark.jobs.personio.de/job/2324258"
+ },
+ {
+  "name": "Storyblok",
+  "domain": "tech",
+  "slug": "storyblok",
+  "ats": "greenhouse",
+  "jobs": 13,
+  "sample": [
+   "Account Executive - North Eastern USA  | Remote | Remote | United States of America",
+   "Developer Relations Engineer - UK  | Remote | Remote",
+   "Developer Relations Engineer - USA  | Remote | Remote | United States of America",
+   "Documentation Engineer II | Remote | Remote"
+  ],
+  "url": "https://www.storyblok.com/job?gh_jid=4995084101"
+ },
+ {
+  "name": "Succinct",
+  "domain": "fintech",
+  "slug": "succinct",
+  "ats": "ashby",
+  "jobs": 1,
+  "sample": [
+   "General Application | San Francisco (Preferred)"
+  ],
+  "url": "https://jobs.ashbyhq.com/succinct/6f3cc325-7d8f-4103-942f-3725c69981b5"
+ },
+ {
+  "name": "Susquehanna",
+  "domain": "fintech",
+  "slug": "sig",
+  "ats": "personio",
+  "jobs": 4,
+  "sample": [
+   "Internship IT Support | NL - Amsterdam",
+   "Part-Time IT Help Desk Support - 24 hours per week | NL - Amsterdam",
+   "Sales Executive New Business (New York) | US - New York",
+   "Software Engineering Consultant Amsterdam | NL - Amsterdam"
+  ],
+  "url": "https://sig.jobs.personio.de/job/2326504"
+ },
+ {
+  "name": "Swile",
+  "domain": "fintech",
+  "slug": "swile",
+  "ats": "lever",
+  "jobs": 31,
+  "sample": [
+   "Advogado Senior - Foco em contratos | São Paulo, Brazil | São Paulo, Brazil | BR",
+   "AML Compliance Senior Officer | Paris, France | Paris, France | FR",
+   "Analista de Customer Care JR - [Afirmativa para PCD] | São Paulo, Brazil | São Paulo, Brazil | BR",
+   "Analista Pleno de Riscos e Controles Internos | São Paulo, Brazil | São Paulo, Brazil | BR"
+  ],
+  "url": "https://jobs.lever.co/swile/9601b397-67e5-4c88-a8c0-b07dc8bb5c4d"
+ },
+ {
+  "name": "Synthesia",
+  "domain": "tech",
+  "slug": "synthesia",
+  "ats": "ashby",
+  "jobs": 36,
+  "sample": [
+   "SecOps Security Engineer (Staff-level, L6)  | US Remote | United States",
+   "Enterprise Account Executive | New York City | Austin | United States",
+   "Enterprise Account Executive DACH | Germany | Munich | Zurich | Berlin",
+   "Strategic Account Executive | New York City | Austin | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/synthesia/c3c79cb1-3ead-46ac-abf2-04502e4655bd"
+ },
+ {
+  "name": "Taktile",
+  "domain": "fintech",
+  "slug": "taktile",
+  "ats": "ashby",
+  "jobs": 33,
+  "sample": [
+   "Senior Business Development Representative  | New York Office  | United States",
+   "Senior Solutions Engineer | New York Office  | United States",
+   "Lead Solutions Engineer | New York Office  | United States",
+   "Senior Account Executive | New York Office  | United States"
+  ],
+  "url": "https://jobs.ashbyhq.com/taktile/0862c6a1-cf8f-41c3-a88c-eafaec03bc15"
+ },
+ {
+  "name": "Tamara",
+  "domain": "fintech",
+  "slug": "tamara",
+  "ats": "greenhouse",
+  "jobs": 44,
+  "sample": [
+   "Accountant | Dubai, United Arab Emirates | United Arab Emirates",
+   "AML Transaction Monitoring Ops - Builders Program - (Emirati National) | Dubai, United Arab Emirates | United Arab Emirates",
+   "Associate Accountant - Builders Program - (Emirati National) | Dubai, United Arab Emirates | United Arab Emirates",
+   "Associate Data Scientist - Builders Program - (Emirati National) | Dubai, United Arab Emirates | United Arab Emirates"
+  ],
+  "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4969403101"
+ },
+ {
+  "name": "Tandem",
+  "domain": "fintech",
+  "slug": "tandem",
+  "ats": "personio",
+  "jobs": 3,
+  "sample": [
+   "DeutschConnect Ambassador (Freelance, regional) | remote",
+   "Product Manager (parental leave cover) | Berlin",
+   "Senior iOS Engineer | Berlin"
+  ],
+  "url": "https://tandem.jobs.personio.de/job/2792207"
+ },
+ {
+  "name": "Tempo",
+  "domain": "fintech",
+  "slug": "tempo",
+  "ats": "greenhouse",
+  "jobs": 6,
+  "sample": [
+   "Engineering Technician- Mechanical  | San Diego, California, United States | San Diego HQ",
+   "Project Engineer  | San Diego, CA | San Diego HQ",
+   "Purchasing/Material Planner - Contractor  | San Diego, California, United States | San Diego HQ",
+   "Senior Account Executive (Germany) | Germany  | Remote"
+  ],
+  "url": "https://tempoenergy.com/careers/open-roles/?gh_jid=4280606009"
+ },
+ {
+  "name": "Tempo",
+  "domain": "fintech",
+  "slug": "tempo",
+  "ats": "ashby",
+  "jobs": 9,
+  "sample": [
+   "Product Designer - Agent+ | Philippines - Remote | Argentina (Remote) | India (Remote) | Brazil (Remote) | Philippines",
+   "Frontend Engineer (React Native) | Brazil (Remote) | Argentina (Remote) | India (Remote) | Philippines - Remote | Brazil",
+   "Product Delivery Manager | Main Office - Toronto | Canada",
+   "QA Specialist – Agent+ (Remote) | Philippines - Remote | Philippines"
+  ],
+  "url": "https://jobs.ashbyhq.com/tempo/d37e806a-9e55-46fe-a681-09957a6d8e4c"
+ },
+ {
+  "name": "Tenderly",
+  "domain": "fintech",
+  "slug": "tenderly",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "General Application | Belgrade/Europe/USA",
+   "General Engineering Application | Belgrade/Europe/USA"
+  ],
+  "url": "https://jobs.ashbyhq.com/tenderly/c5417329-bd95-4492-a4ea-cb20afdcd218"
+ },
+ {
+  "name": "Tinybird",
+  "domain": "tech",
+  "slug": "tinybird",
+  "ats": "lever",
+  "jobs": 2,
+  "sample": [
+   "Open Application | Spain | Spain | Madrid | Barcelona | New York City, NY | ES",
+   "Technical Growth Lead | Spain | Spain | Europe | ES"
+  ],
+  "url": "https://jobs.lever.co/tinybird/22cbcc27-89c4-4f87-87bc-6937712e7b10"
+ },
+ {
+  "name": "Together AI",
+  "domain": "tech",
+  "slug": "togetherai",
+  "ats": "greenhouse",
+  "jobs": 87,
+  "sample": [
+   "AI Infrastructure System Engineer Bangalore  | Bangalore, India | Remote",
+   "AI Infrastructure Systems Engineer | San Francisco | San Francisco",
+   "AI Infrastructure Systems Engineer (Amsterdam & London) | Amsterdam  | Amsterdam",
+   "Associate, Infrastructure Strategy & Operations | San Francisco | San Francisco"
+  ],
+  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5180155007"
+ },
+ {
+  "name": "Toptal",
+  "domain": "tech",
+  "slug": "toptal",
+  "ats": "lever",
+  "jobs": 28,
+  "sample": [
+   "Account Executive | Canada, Central America, South America | Canada, Central America, South America | CA",
+   "Account Executive - US-Based | United States | United States | US",
+   "CEO, AI Services - US-Based | United States | United States | US",
+   "Chief Technology Officer | Canada, Europe, Central America, South America | Canada, Europe, Central America, South America | CA"
+  ],
+  "url": "https://jobs.lever.co/toptal/a9653cf8-e956-4cfc-8c27-3f27cb7307da"
+ },
+ {
+  "name": "Tower Research",
+  "domain": "fintech",
+  "slug": "towerresearchcapital",
+  "ats": "greenhouse",
+  "jobs": 100,
+  "sample": [
+   "Agentic System Developer | New York | New York",
+   "Analyst, Business Management | Singapore | Singapore",
+   "Analyste en sécurité de l’information / Information Security Analyst | Montreal | Montreal",
+   "Business Management | Singapore | Singapore"
+  ],
+  "url": "https://www.tower-research.com/open-positions/?gh_jid=7583213"
+ },
+ {
+  "name": "Tractable",
+  "domain": "fintech",
+  "slug": "tractable",
+  "ats": "ashby",
+  "jobs": 5,
+  "sample": [
+   "Manufacturing Technician | Salt Lake City | United States",
+   "Embedded Systems Engineer | Salt Lake City | United States",
+   "Senior Embedded Systems Engineer | Salt Lake City | United States",
+   "Customer Success Manager | London | United Kingdom"
+  ],
+  "url": "https://jobs.ashbyhq.com/tractable/7b943abf-23cf-4b9c-a0c9-80d688577236"
+ },
+ {
+  "name": "Turing",
+  "domain": "tech",
+  "slug": "turing",
+  "ats": "greenhouse",
+  "jobs": 37,
+  "sample": [
+   "AI Engagement Lead | New York, New York, United States | New York | United States",
+   "Backend Engineer, Enterprise AI | New York, New York, United States | New York",
+   "Compliance Analyst | Brazil | India - Remote",
+   "Deployment Architect  | New York, New York, United States | New York"
+  ],
+  "url": "https://job-boards.greenhouse.io/turing/jobs/6128357004"
+ },
+ {
+  "name": "Vercel peers: Netlify",
+  "domain": "tech",
+  "slug": "netlify",
+  "ats": "greenhouse",
+  "jobs": 4,
+  "sample": [
+   "Senior Demand Generation Marketing Manager   | Remote | Remote",
+   "Senior Marketing Operations Manager | Remote | Remote",
+   "Senior Staff Data Scientist | Remote | Remote",
+   "Your Chance to Join Our Talent Community! | Remote | Remote"
+  ],
+  "url": "https://job-boards.greenhouse.io/netlify/jobs/8861222002"
+ },
+ {
+  "name": "VGS",
+  "domain": "fintech",
+  "slug": "verygoodsecurity",
+  "ats": "lever",
+  "jobs": 18,
+  "sample": [
+   "Application Security Engineer | United States | United States | Canada | US",
+   "Director, Strategic Partnerships | United States | United States | Canada | US",
+   "Enterprise Account Executive | United States | United States | Canada | US",
+   "Product Manager, Agentic Commerce | United States | United States | Canada | US"
+  ],
+  "url": "https://jobs.lever.co/verygoodsecurity/c9dd48c1-c6f9-47b2-b622-c9259b4a1ef6"
+ },
+ {
+  "name": "Wayflyer",
+  "domain": "fintech",
+  "slug": "wayflyer",
+  "ats": "ashby",
+  "jobs": 15,
+  "sample": [
+   "Business Development Representative | Dublin | Ireland",
+   "Business Development Representative, US | Charlotte, North Carolina | US",
+   "Sales Development Representative | Charlotte, North Carolina | US",
+   "Backend Software Engineer | Remote Europe | Remote in Europe"
+  ],
+  "url": "https://jobs.ashbyhq.com/wayflyer/ee8e3e34-ad5a-410b-a9de-ce29fe39064d"
+ },
+ {
+  "name": "Weaviate",
+  "domain": "tech",
+  "slug": "weaviate",
+  "ats": "ashby",
+  "jobs": 2,
+  "sample": [
+   "Enterprise Account Executive (US - West)  | United States | United States",
+   "Finance Associate (Part-time/ Dutch Speaker) | Netherlands | Netherlands"
+  ],
+  "url": "https://jobs.ashbyhq.com/weaviate/676139ff-9b72-4ee4-9e40-2bb52c6e96bd"
+ },
+ {
+  "name": "WisdomTree",
+  "domain": "fintech",
+  "slug": "wisdomtree",
+  "ats": "lever",
+  "jobs": 3,
+  "sample": [
+   "AI Solutions Analyst | Hybrid - New York, NY | Hybrid - New York, NY | US",
+   "Product Manager, Digital Assets (Digital Investment Products) | Hybrid - New York, NY | Hybrid - New York, NY | US",
+   "Research Intern - Summer 2027 | Hybrid - New York, NY | Hybrid - New York, NY | US"
+  ],
+  "url": "https://jobs.lever.co/wisdomtree/621718c3-779f-4e9c-9681-be75dafc427e"
+ },
+ {
+  "name": "Zest AI",
+  "domain": "fintech",
+  "slug": "zestai",
+  "ats": "greenhouse",
+  "jobs": 1,
+  "sample": [
+   "Internal Referrals | Remote | Remote"
+  ],
+  "url": "https://job-boards.greenhouse.io/zestai/jobs/5789378004"
+ },
+ {
+  "name": "Ziina",
+  "domain": "fintech",
+  "slug": "ziina",
+  "ats": "ashby",
+  "jobs": 13,
+  "sample": [
+   "Backend Engineer, Payments Platform | Dubai",
+   "Head of Marketing | Dubai",
+   "Senior Full-Stack Engineer (Web) | Dubai",
+   "Brand Marketing Manager | Dubai"
+  ],
+  "url": "https://jobs.ashbyhq.com/ziina/b52d240f-2ccb-4aea-800b-623e9ca8ae09"
  }
 ]
