@@ -9,7 +9,7 @@
  "greenhouse:monzo": {
   "name": "Monzo",
   "ok": true,
-  "jobs": 67,
+  "jobs": 68,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -58,7 +58,7 @@
  "greenhouse:coinbase": {
   "name": "Coinbase",
   "ok": true,
-  "jobs": 227,
+  "jobs": 228,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -149,7 +149,7 @@
  "greenhouse:stripe": {
   "name": "Stripe",
   "ok": true,
-  "jobs": 717,
+  "jobs": 718,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -170,7 +170,7 @@
  "ashby:Perplexity": {
   "name": "Perplexity",
   "ok": true,
-  "jobs": 134,
+  "jobs": 133,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -254,14 +254,14 @@
  "greenhouse:alpaca": {
   "name": "Alpaca",
   "ok": true,
-  "jobs": 68,
+  "jobs": 67,
   "checked": "2026-10-28",
   "failStreak": 0
  },
  "greenhouse:stone": {
   "name": "Stone - Linkedin",
   "ok": true,
-  "jobs": 362,
+  "jobs": 363,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -457,7 +457,7 @@
  "greenhouse:capco": {
   "name": "Capco",
   "ok": true,
-  "jobs": 697,
+  "jobs": 696,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -647,7 +647,7 @@
  "greenhouse:capitalontap": {
   "name": "Capital on Tap",
   "ok": true,
-  "jobs": 35,
+  "jobs": 34,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -794,7 +794,7 @@
  "greenhouse:purestorage": {
   "name": "Everpure",
   "ok": true,
-  "jobs": 364,
+  "jobs": 363,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -808,7 +808,7 @@
  "greenhouse:twilio": {
   "name": "Twilio",
   "ok": true,
-  "jobs": 131,
+  "jobs": 132,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -1431,7 +1431,7 @@
  "ashby:Etched": {
   "name": "Etched",
   "ok": true,
-  "jobs": 117,
+  "jobs": 118,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -1578,7 +1578,7 @@
  "ashby:uipath": {
   "name": "Uipath",
   "ok": true,
-  "jobs": 101,
+  "jobs": 102,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -1662,7 +1662,7 @@
  "ashby:SKELAR": {
   "name": "SKELAR",
   "ok": true,
-  "jobs": 118,
+  "jobs": 120,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -1690,7 +1690,7 @@
  "ashby:nerdwallet": {
   "name": "Nerdwallet",
   "ok": true,
-  "jobs": 22,
+  "jobs": 23,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -1894,7 +1894,7 @@
  "ashby:legora": {
   "name": "Legora",
   "ok": true,
-  "jobs": 305,
+  "jobs": 304,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -2574,7 +2574,7 @@
  "workable:emerging-travel-group": {
   "name": "Emerging Travel Group",
   "ok": true,
-  "jobs": 94,
+  "jobs": 99,
   "checked": "2026-10-28",
   "failStreak": 0
  },
@@ -3299,7 +3299,7 @@
   "error": "not found https://api.ashbyhq.com/posting-api/job-board/vivid?includeCompensation=true",
   "notFound": true,
   "checked": "2026-10-28",
-  "failStreak": 2
+  "failStreak": 3
  },
  "ashby:flowdesk": {
   "name": "flowdesk",
@@ -4089,7 +4089,7 @@
   "error": "fetch failed",
   "notFound": false,
   "checked": "2026-10-28",
-  "failStreak": 4
+  "failStreak": 5
  },
  "greenhouse-eu:bitpanda": {
   "name": "Bitpanda",
@@ -4097,7 +4097,7 @@
   "error": "fetch failed",
   "notFound": false,
   "checked": "2026-10-28",
-  "failStreak": 4
+  "failStreak": 5
  },
  "greenhouse-eu:bvnk": {
   "name": "BVNK",
@@ -4105,7 +4105,7 @@
   "error": "fetch failed",
   "notFound": false,
   "checked": "2026-10-28",
-  "failStreak": 4
+  "failStreak": 5
  },
  "lever:agicap": {
   "name": "Agicap",
@@ -4447,6 +4447,916 @@
   "name": "Gauntlet",
   "ok": true,
   "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever-eu:aavelabs": {
+  "name": "Aave Labs",
+  "ok": true,
+  "jobs": 16,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:abound": {
+  "name": "Abound",
+  "ok": true,
+  "jobs": 14,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:adaptive": {
+  "name": "Adaptive Financial Consulting",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:alephalpha": {
+  "name": "Aleph Alpha",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:cohere": {
+  "name": "Cohere",
+  "ok": true,
+  "jobs": 118,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:aptosfoundation": {
+  "name": "Aptos Foundation",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:auterion": {
+  "name": "Auterion",
+  "ok": true,
+  "jobs": 21,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:babbel": {
+  "name": "Babbel",
+  "ok": true,
+  "jobs": 10,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:griffin": {
+  "name": "Griffin",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:baseten": {
+  "name": "Baseten",
+  "ok": true,
+  "jobs": 105,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:stackblitz": {
+  "name": "StackBlitz (Bolt)",
+  "ok": true,
+  "jobs": 6,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:brainly": {
+  "name": "Brainly",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:brale": {
+  "name": "Brale",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:swarmer": {
+  "name": "Swarmer",
+  "ok": true,
+  "jobs": 14,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:braintrust": {
+  "name": "Braintrust",
+  "ok": true,
+  "jobs": 30,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:buildkite": {
+  "name": "Buildkite",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:coderabbit": {
+  "name": "CodeRabbit",
+  "ok": true,
+  "jobs": 46,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:coinmerce": {
+  "name": "Coinmerce",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:cashlink": {
+  "name": "Cashlink",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:conduit": {
+  "name": "Conduit",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:contentful": {
+  "name": "Contentful",
+  "ok": true,
+  "jobs": 29,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:cortex": {
+  "name": "Cortex",
+  "ok": true,
+  "jobs": 6,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:coursera": {
+  "name": "Coursera",
+  "ok": true,
+  "jobs": 29,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:cursor": {
+  "name": "Cursor",
+  "ok": true,
+  "jobs": 123,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:delian": {
+  "name": "Delian Alliance",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:deepl": {
+  "name": "DeepL",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:depot": {
+  "name": "Depot",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "recruitee:deltacapita": {
+  "name": "Delta Capita",
+  "ok": true,
+  "jobs": 58,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:dojo": {
+  "name": "Dojo",
+  "ok": true,
+  "jobs": 25,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "recruitee:equalsmoney": {
+  "name": "Equals Money",
+  "ok": true,
+  "jobs": 6,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:espresso": {
+  "name": "Espresso Systems",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:evervault": {
+  "name": "Evervault",
+  "ok": true,
+  "jobs": 6,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:federato": {
+  "name": "Federato",
+  "ok": true,
+  "jobs": 10,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:360t": {
+  "name": "360T",
+  "ok": true,
+  "jobs": 24,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:flock": {
+  "name": "Flock",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:forter": {
+  "name": "Forter",
+  "ok": true,
+  "jobs": 21,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:forto": {
+  "name": "Forto",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:freenow": {
+  "name": "FREENOW",
+  "ok": true,
+  "jobs": 10,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:fuellabs": {
+  "name": "Fuel Labs",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:finoa": {
+  "name": "Finoa",
+  "ok": true,
+  "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:finix": {
+  "name": "Finix",
+  "ok": true,
+  "jobs": 27,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:gostudent": {
+  "name": "GoStudent",
+  "ok": true,
+  "jobs": 25,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:gradientai": {
+  "name": "Gradient AI",
+  "ok": true,
+  "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:graphite": {
+  "name": "Graphite",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:grayscaleinvestments": {
+  "name": "Grayscale",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:helius": {
+  "name": "Helius",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:harnessinc": {
+  "name": "Harness",
+  "ok": true,
+  "jobs": 69,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:imc": {
+  "name": "IMC Trading",
+  "ok": true,
+  "jobs": 168,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:getquin": {
+  "name": "Getquin",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:contentsquare": {
+  "name": "Contentsquare",
+  "ok": true,
+  "jobs": 18,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:incode": {
+  "name": "Incode",
+  "ok": true,
+  "jobs": 13,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "recruitee:holded": {
+  "name": "Holded",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:isaraerospace": {
+  "name": "Isar Aerospace",
+  "ok": true,
+  "jobs": 136,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:injective": {
+  "name": "Injective",
+  "ok": true,
+  "jobs": 11,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:janestreet": {
+  "name": "Jane Street",
+  "ok": true,
+  "jobs": 221,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:jumptrading": {
+  "name": "Jump Trading",
+  "ok": true,
+  "jobs": 96,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "workable:kahoot": {
+  "name": "Kahoot",
+  "ok": true,
+  "jobs": 6,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:langchain": {
+  "name": "LangChain",
+  "ok": true,
+  "jobs": 101,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:ledgy": {
+  "name": "Ledgy",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:liberis": {
+  "name": "Liberis",
+  "ok": true,
+  "jobs": 19,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:jito": {
+  "name": "Jito Labs",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:linear": {
+  "name": "Linear",
+  "ok": true,
+  "jobs": 32,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:launchdarkly": {
+  "name": "LaunchDarkly",
+  "ok": true,
+  "jobs": 52,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:magiceden": {
+  "name": "Magic Eden",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:mangroup": {
+  "name": "Man Group",
+  "ok": true,
+  "jobs": 65,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:lovable": {
+  "name": "Lovable",
+  "ok": true,
+  "jobs": 82,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:miro": {
+  "name": "Miro",
+  "ok": true,
+  "jobs": 12,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:modal": {
+  "name": "Modal",
+  "ok": true,
+  "jobs": 43,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:moderntreasury": {
+  "name": "Modern Treasury",
+  "ok": true,
+  "jobs": 9,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:moonfare": {
+  "name": "Moonfare",
+  "ok": true,
+  "jobs": 22,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:multiverse": {
+  "name": "Multiverse",
+  "ok": true,
+  "jobs": 28,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:notabene": {
+  "name": "Notabene",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:openly": {
+  "name": "Openly",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:opslevel": {
+  "name": "OpsLevel",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:orum": {
+  "name": "Orum",
+  "ok": true,
+  "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:juni": {
+  "name": "Juni",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:paradigm": {
+  "name": "Paradigm",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:payabli": {
+  "name": "Payabli",
+  "ok": true,
+  "jobs": 10,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:paymentology": {
+  "name": "Paymentology",
+  "ok": true,
+  "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:persona": {
+  "name": "Persona",
+  "ok": true,
+  "jobs": 13,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:pinecone": {
+  "name": "Pinecone",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:pipedrive": {
+  "name": "Pipedrive",
+  "ok": true,
+  "jobs": 8,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:planetscale": {
+  "name": "PlanetScale",
+  "ok": true,
+  "jobs": 11,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:plasma": {
+  "name": "Plasma",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:polyai": {
+  "name": "PolyAI",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:poolside": {
+  "name": "Poolside",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:posthog": {
+  "name": "PostHog",
+  "ok": true,
+  "jobs": 12,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:parqet": {
+  "name": "Parqet",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:railway": {
+  "name": "Railway",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:render": {
+  "name": "Render",
+  "ok": true,
+  "jobs": 35,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:leadbank": {
+  "name": "Lead Bank",
+  "ok": true,
+  "jobs": 18,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "recruitee:quantumsystemsgmbh": {
+  "name": "Quantum Systems",
+  "ok": true,
+  "jobs": 194,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:saronic": {
+  "name": "Saronic",
+  "ok": true,
+  "jobs": 246,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:sentry": {
+  "name": "Sentry",
+  "ok": true,
+  "jobs": 42,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:seyna": {
+  "name": "Seyna",
+  "ok": true,
+  "jobs": 13,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:salv": {
+  "name": "Salv",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:shifttechnology": {
+  "name": "Shift Technology",
+  "ok": true,
+  "jobs": 18,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:sixfold": {
+  "name": "Sixfold",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:skyflow": {
+  "name": "Skyflow",
+  "ok": true,
+  "jobs": 11,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:sorare": {
+  "name": "Sorare",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:shieldai": {
+  "name": "Shield AI",
+  "ok": true,
+  "jobs": 683,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:sourcegraph91": {
+  "name": "Sourcegraph",
+  "ok": true,
+  "jobs": 7,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:spreedly": {
+  "name": "Spreedly",
+  "ok": true,
+  "jobs": 5,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:speechify": {
+  "name": "Speechify",
+  "ok": true,
+  "jobs": 738,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:squarepointcapital": {
+  "name": "Squarepoint",
+  "ok": true,
+  "jobs": 90,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:storyblok": {
+  "name": "Storyblok",
+  "ok": true,
+  "jobs": 13,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:succinct": {
+  "name": "Succinct",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:stark": {
+  "name": "Stark Defence",
+  "ok": true,
+  "jobs": 10,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:sig": {
+  "name": "Susquehanna",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:synthesia": {
+  "name": "Synthesia",
+  "ok": true,
+  "jobs": 36,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:taktile": {
+  "name": "Taktile",
+  "ok": true,
+  "jobs": 33,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:tamara": {
+  "name": "Tamara",
+  "ok": true,
+  "jobs": 44,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:swile": {
+  "name": "Swile",
+  "ok": true,
+  "jobs": 31,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:tenderly": {
+  "name": "Tenderly",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:tinybird": {
+  "name": "Tinybird",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:togetherai": {
+  "name": "Together AI",
+  "ok": true,
+  "jobs": 87,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:moneybox": {
+  "name": "Moneybox",
+  "ok": true,
+  "jobs": 16,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:towerresearchcapital": {
+  "name": "Tower Research Capital",
+  "ok": true,
+  "jobs": 100,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:turing": {
+  "name": "Turing",
+  "ok": true,
+  "jobs": 37,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:netlify": {
+  "name": "Netlify",
+  "ok": true,
+  "jobs": 4,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "personio:tandem": {
+  "name": "Tandem",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:wayflyer": {
+  "name": "Wayflyer",
+  "ok": true,
+  "jobs": 15,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:weaviate": {
+  "name": "Weaviate",
+  "ok": true,
+  "jobs": 2,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:verygoodsecurity": {
+  "name": "VGS",
+  "ok": true,
+  "jobs": 18,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "greenhouse:zestai": {
+  "name": "Zest AI",
+  "ok": true,
+  "jobs": 1,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "ashby:ziina": {
+  "name": "Ziina",
+  "ok": true,
+  "jobs": 13,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:wisdomtree": {
+  "name": "WisdomTree",
+  "ok": true,
+  "jobs": 3,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:toptal": {
+  "name": "Toptal",
+  "ok": true,
+  "jobs": 28,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:merklescience": {
+  "name": "Merkle Science",
+  "ok": true,
+  "jobs": 21,
+  "checked": "2026-10-28",
+  "failStreak": 0
+ },
+ "lever:animocabrands": {
+  "name": "Animoca Brands",
+  "ok": true,
+  "jobs": 10,
   "checked": "2026-10-28",
   "failStreak": 0
  }

@@ -3807,6 +3807,158 @@
   "ashby:zego:0b43b54f-7061-49d9-bf33-4fbddc7fe9a6": {
    "firstSeen": "2026-10-28",
    "lastSeen": "2026-10-28"
+  },
+  "lever:aavelabs:992c5de1-1cee-4002-bcc5-8f2131630d0b": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "lever:aavelabs:496c7c45-38f0-4679-aada-0faf3b5c36c2": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "lever:aavelabs:a3f47e26-ab0a-403d-8e59-ca2d7e5b4fe7": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:d42f5fd4-1ffc-45b9-957c-f09862db6af6": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:e9ef9420-88e5-403b-82e8-1c36fa010d4d": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:70a8dc77-ac84-4790-aff6-13b4dcd4554a": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:2df2da3c-fb69-4d4d-b3c9-077b3df2ba3d": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:82ec1512-5bc3-49dd-b995-b6abc2a958d7": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:8878b0d0-7d88-4ee9-bc17-b0dd237e39a0": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:60de50e9-aba7-4a3a-8cdb-955a456749aa": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:cohere:8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:cortex:5131543008": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:cortex:5380208008": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:cortex:5386434008": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:depot:c303bf37-ee14-4593-9ac9-c2fb4c65253a": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:linear:d8890a6d-ce76-4c3d-aacc-34c1ed150d91": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:launchdarkly:8007219003": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:notabene:2985ccb1-d866-4b27-8e94-e7bf6ae71754": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:planetscale:4052805009": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:plasma:4b6ba5e5-9d66-418f-86a3-84fa23342f76": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "personio:parqet:2319914": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:railway:6ddcfe47-6cce-469b-ba6d-4f0e83440c9d": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:railway:25d8444a-47dc-4084-ae56-29a0f0b19b74": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:railway:4856389c-44d8-4635-ba51-5fc1b8a49ca8": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:railway:d93c8794-6058-4295-83a0-092b05664f34": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:railway:5f51771e-339f-49f9-8da2-e3c7179c7bad": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:shieldai:4d12eced-80cd-4faa-8190-fc7d5d878917": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:shieldai:a8057744-30dd-4ab2-88f3-8a43dd254059": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:shieldai:ecb2be67-1842-4e45-8dee-dfbfd9bf00da": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:shieldai:2c1b81e5-fb5e-4b08-a77b-e18d3b6ceb98": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:synthesia:2a637b27-92db-4752-8c0d-343e267ea299": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:synthesia:bffd5b98-bbe2-4bb0-9e8e-fb0380599fd4": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:synthesia:4c6dedb3-2dbf-46b7-9336-a2b19b55dfd7": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "lever:tinybird:a911ccc8-f028-4c4c-ad0f-2a392038a84c": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:togetherai:5070981007": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "greenhouse:turing:6225409004": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "ashby:wayflyer:8b4052a5-9e11-4acd-babc-963e5f5111ba": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
+  },
+  "lever:toptal:08cc2f67-7c10-442b-85cb-323d6855a0fa": {
+   "firstSeen": "2026-10-28",
+   "lastSeen": "2026-10-28"
   }
  }
 }
