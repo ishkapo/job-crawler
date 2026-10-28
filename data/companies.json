@@ -4155,5 +4155,1045 @@
   "domain": "fintech",
   "curated": true,
   "added": "2026-10-28"
+ },
+ {
+  "name": "Aave Labs",
+  "ats": "lever-eu",
+  "slug": "aavelabs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Abound",
+  "ats": "ashby",
+  "slug": "abound",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Adaptive Financial Consulting",
+  "ats": "ashby",
+  "slug": "adaptive",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Aleph Alpha",
+  "ats": "ashby",
+  "slug": "alephalpha",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Animoca Brands",
+  "ats": "lever",
+  "slug": "animocabrands",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Cohere",
+  "ats": "ashby",
+  "slug": "cohere",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Aptos Foundation",
+  "ats": "ashby",
+  "slug": "aptosfoundation",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Auterion",
+  "ats": "greenhouse",
+  "slug": "auterion",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Babbel",
+  "ats": "ashby",
+  "slug": "babbel",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Griffin",
+  "ats": "ashby",
+  "slug": "griffin",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Baseten",
+  "ats": "ashby",
+  "slug": "baseten",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "StackBlitz (Bolt)",
+  "ats": "greenhouse",
+  "slug": "stackblitz",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Brainly",
+  "ats": "ashby",
+  "slug": "brainly",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Braintrust",
+  "ats": "ashby",
+  "slug": "braintrust",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Brale",
+  "ats": "ashby",
+  "slug": "brale",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Swarmer",
+  "ats": "ashby",
+  "slug": "swarmer",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Buildkite",
+  "ats": "greenhouse",
+  "slug": "buildkite",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Cashlink",
+  "ats": "personio",
+  "slug": "cashlink",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "CodeRabbit",
+  "ats": "ashby",
+  "slug": "coderabbit",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Coinmerce",
+  "ats": "personio",
+  "slug": "coinmerce",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Conduit",
+  "ats": "ashby",
+  "slug": "conduit",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Contentful",
+  "ats": "greenhouse",
+  "slug": "contentful",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Cortex",
+  "ats": "greenhouse",
+  "slug": "cortex",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Coursera",
+  "ats": "greenhouse",
+  "slug": "coursera",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Cursor",
+  "ats": "ashby",
+  "slug": "cursor",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "DeepL",
+  "ats": "ashby",
+  "slug": "deepl",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Delian Alliance",
+  "ats": "ashby",
+  "slug": "delian",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Delta Capita",
+  "ats": "recruitee",
+  "slug": "deltacapita",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Depot",
+  "ats": "ashby",
+  "slug": "depot",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "360T",
+  "ats": "personio",
+  "slug": "360t",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Dojo",
+  "ats": "greenhouse",
+  "slug": "dojo",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Equals Money",
+  "ats": "recruitee",
+  "slug": "equalsmoney",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Espresso Systems",
+  "ats": "ashby",
+  "slug": "espresso",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Evervault",
+  "ats": "ashby",
+  "slug": "evervault",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Federato",
+  "ats": "greenhouse",
+  "slug": "federato",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Finix",
+  "ats": "lever",
+  "slug": "finix",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Finoa",
+  "ats": "personio",
+  "slug": "finoa",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Flock",
+  "ats": "ashby",
+  "slug": "flock",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Forter",
+  "ats": "greenhouse",
+  "slug": "forter",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Forto",
+  "ats": "ashby",
+  "slug": "forto",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "FREENOW",
+  "ats": "greenhouse",
+  "slug": "freenow",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Fuel Labs",
+  "ats": "lever",
+  "slug": "fuellabs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Getquin",
+  "ats": "personio",
+  "slug": "getquin",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "GoStudent",
+  "ats": "greenhouse",
+  "slug": "gostudent",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Gradient AI",
+  "ats": "greenhouse",
+  "slug": "gradientai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Graphite",
+  "ats": "ashby",
+  "slug": "graphite",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Grayscale",
+  "ats": "greenhouse",
+  "slug": "grayscaleinvestments",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Harness",
+  "ats": "greenhouse",
+  "slug": "harnessinc",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Helius",
+  "ats": "ashby",
+  "slug": "helius",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Holded",
+  "ats": "recruitee",
+  "slug": "holded",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Contentsquare",
+  "ats": "lever",
+  "slug": "contentsquare",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "IMC Trading",
+  "ats": "greenhouse",
+  "slug": "imc",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Incode",
+  "ats": "greenhouse",
+  "slug": "incode",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Injective",
+  "ats": "ashby",
+  "slug": "injective",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Isar Aerospace",
+  "ats": "greenhouse",
+  "slug": "isaraerospace",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Jane Street",
+  "ats": "greenhouse",
+  "slug": "janestreet",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Jito Labs",
+  "ats": "lever",
+  "slug": "jito",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Jump Trading",
+  "ats": "greenhouse",
+  "slug": "jumptrading",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Juni",
+  "ats": "personio",
+  "slug": "juni",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Kahoot",
+  "ats": "workable",
+  "slug": "kahoot",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "LangChain",
+  "ats": "ashby",
+  "slug": "langchain",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "LaunchDarkly",
+  "ats": "greenhouse",
+  "slug": "launchdarkly",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Ledgy",
+  "ats": "greenhouse",
+  "slug": "ledgy",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Liberis",
+  "ats": "greenhouse",
+  "slug": "liberis",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Linear",
+  "ats": "ashby",
+  "slug": "linear",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Lovable",
+  "ats": "ashby",
+  "slug": "lovable",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Magic Eden",
+  "ats": "ashby",
+  "slug": "magiceden",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Man Group",
+  "ats": "greenhouse",
+  "slug": "mangroup",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Merkle Science",
+  "ats": "lever",
+  "slug": "merklescience",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Miro",
+  "ats": "ashby",
+  "slug": "miro",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Modal",
+  "ats": "ashby",
+  "slug": "modal",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Modern Treasury",
+  "ats": "ashby",
+  "slug": "moderntreasury",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Moneybox",
+  "ats": "ashby",
+  "slug": "moneybox",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Moonfare",
+  "ats": "greenhouse",
+  "slug": "moonfare",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Multiverse",
+  "ats": "ashby",
+  "slug": "multiverse",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Notabene",
+  "ats": "ashby",
+  "slug": "notabene",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Openly",
+  "ats": "ashby",
+  "slug": "openly",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "OpsLevel",
+  "ats": "ashby",
+  "slug": "opslevel",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Orum",
+  "ats": "ashby",
+  "slug": "orum",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Paradigm",
+  "ats": "ashby",
+  "slug": "paradigm",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Parqet",
+  "ats": "personio",
+  "slug": "parqet",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Payabli",
+  "ats": "ashby",
+  "slug": "payabli",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Paymentology",
+  "ats": "ashby",
+  "slug": "paymentology",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Persona",
+  "ats": "ashby",
+  "slug": "persona",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Pinecone",
+  "ats": "ashby",
+  "slug": "pinecone",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Pipedrive",
+  "ats": "lever",
+  "slug": "pipedrive",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "PlanetScale",
+  "ats": "greenhouse",
+  "slug": "planetscale",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Plasma",
+  "ats": "ashby",
+  "slug": "plasma",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "PolyAI",
+  "ats": "greenhouse",
+  "slug": "polyai",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Poolside",
+  "ats": "ashby",
+  "slug": "poolside",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "PostHog",
+  "ats": "ashby",
+  "slug": "posthog",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Quantum Systems",
+  "ats": "recruitee",
+  "slug": "quantumsystemsgmbh",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Railway",
+  "ats": "ashby",
+  "slug": "railway",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Render",
+  "ats": "ashby",
+  "slug": "render",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Lead Bank",
+  "ats": "ashby",
+  "slug": "leadbank",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Salv",
+  "ats": "personio",
+  "slug": "salv",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Saronic",
+  "ats": "ashby",
+  "slug": "saronic",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Sentry",
+  "ats": "ashby",
+  "slug": "sentry",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Seyna",
+  "ats": "ashby",
+  "slug": "seyna",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Shield AI",
+  "ats": "ashby",
+  "slug": "shieldai",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Shift Technology",
+  "ats": "greenhouse",
+  "slug": "shifttechnology",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Sixfold",
+  "ats": "greenhouse",
+  "slug": "sixfold",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Skyflow",
+  "ats": "ashby",
+  "slug": "skyflow",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Sorare",
+  "ats": "ashby",
+  "slug": "sorare",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Sourcegraph",
+  "ats": "greenhouse",
+  "slug": "sourcegraph91",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Speechify",
+  "ats": "greenhouse",
+  "slug": "speechify",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Spreedly",
+  "ats": "lever",
+  "slug": "spreedly",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Squarepoint",
+  "ats": "greenhouse",
+  "slug": "squarepointcapital",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Stark Defence",
+  "ats": "personio",
+  "slug": "stark",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Storyblok",
+  "ats": "greenhouse",
+  "slug": "storyblok",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Succinct",
+  "ats": "ashby",
+  "slug": "succinct",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Susquehanna",
+  "ats": "personio",
+  "slug": "sig",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Swile",
+  "ats": "lever",
+  "slug": "swile",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Synthesia",
+  "ats": "ashby",
+  "slug": "synthesia",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Taktile",
+  "ats": "ashby",
+  "slug": "taktile",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Tamara",
+  "ats": "greenhouse",
+  "slug": "tamara",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Tandem",
+  "ats": "personio",
+  "slug": "tandem",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Tenderly",
+  "ats": "ashby",
+  "slug": "tenderly",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Tinybird",
+  "ats": "lever",
+  "slug": "tinybird",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Together AI",
+  "ats": "greenhouse",
+  "slug": "togetherai",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Toptal",
+  "ats": "lever",
+  "slug": "toptal",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Tower Research Capital",
+  "ats": "greenhouse",
+  "slug": "towerresearchcapital",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Turing",
+  "ats": "greenhouse",
+  "slug": "turing",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Netlify",
+  "ats": "greenhouse",
+  "slug": "netlify",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "VGS",
+  "ats": "lever",
+  "slug": "verygoodsecurity",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Wayflyer",
+  "ats": "ashby",
+  "slug": "wayflyer",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Weaviate",
+  "ats": "ashby",
+  "slug": "weaviate",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "WisdomTree",
+  "ats": "lever",
+  "slug": "wisdomtree",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Zest AI",
+  "ats": "greenhouse",
+  "slug": "zestai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
+ },
+ {
+  "name": "Ziina",
+  "ats": "ashby",
+  "slug": "ziina",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-10-28"
  }
 ]
