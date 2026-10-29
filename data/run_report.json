@@ -3,12 +3,12 @@
  "ok": 639,
  "failed": 3,
  "notFound": 1,
- "jobs": 39590,
- "titleKept": 6787,
- "locationKept": 838,
+ "jobs": 39628,
+ "titleKept": 6763,
+ "locationKept": 839,
  "open": 422,
- "new": 73,
- "date": "2026-10-28",
+ "new": 4,
+ "date": "2026-10-29",
  "deadSlugs": [
   "ashby:vivid"
  ]
