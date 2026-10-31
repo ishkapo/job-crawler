@@ -1,14 +1,14 @@
 {
  "companies": 643,
- "ok": 639,
+ "ok": 638,
  "failed": 3,
- "notFound": 1,
- "jobs": 39687,
- "titleKept": 6760,
- "locationKept": 835,
- "open": 417,
- "new": 3,
- "date": "2026-10-30",
+ "notFound": 2,
+ "jobs": 39589,
+ "titleKept": 6723,
+ "locationKept": 825,
+ "open": 410,
+ "new": 2,
+ "date": "2026-10-31",
  "deadSlugs": [
   "ashby:vivid"
  ]
