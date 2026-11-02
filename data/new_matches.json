@@ -1,1 +1,46 @@
-[]
+[
+ {
+  "id": "ashby:Clera:5e4b0c95-9b3a-4a22-adaa-56ea1981480f",
+  "company": "Clera",
+  "companyDomain": "fintech",
+  "ats": "ashby",
+  "slug": "Clera",
+  "title": "Member of Technical Staff",
+  "url": "https://jobs.ashbyhq.com/Clera/5e4b0c95-9b3a-4a22-adaa-56ea1981480f",
+  "locationText": "remote",
+  "workplace": null,
+  "isRemote": null,
+  "department": "Engineering",
+  "posted": "2026-11-01T17:26:43.899Z",
+  "salary": null,
+  "firstSeen": "2026-11-02",
+  "isNew": true,
+  "locationVerdict": "remote-unspecified",
+  "locationReason": "remote, no country restriction found",
+  "locationEvidence": "remote",
+  "description": "ABOUT THE ROLE\n\nJoin a healthtech software team building dependable tools for complex document workflows. You will own engineering work across backend services, AI integrations, APIs, and user-facing features that support practical, high-quality work.\n\n\nWHAT YOU'LL DO\n\n - Build reliable APIs, backend services, and document processing workflows.\n\n - Deliver product features from technical design through release and iteration, collaborating with engineers and domain experts.\n\n - Integrate AI capabilities into production workflows, balancing output quality, speed, and reliability.\n\n - Improve interfaces for complex document tasks through full-stack collaboration.\n\n - Translate user needs into focused engineering plans and communicate technical tradeoffs.\n\n - Improve performance, investigate production issues, and strengthen testing, monitoring, and code quality.\n\n\nWHAT WE'RE LOOKING FOR\n\n - Three to ten years of experience, including shipping and maintaining production web applications or services.\n\n - Strong programming skills in a modern language such as Python or TypeScript, with sound software design fundamentals.\n\n - Experience building APIs and backend services, and working with databases, cloud infrastructure, or distributed systems.\n\n - Experience with document processing workflows and integrating AI or LLM capabilities into production systems.\n\n - Practical skills in testing, code review, debugging, performance improvement, and production reliability.\n\n - Frontend experience and familiarity with products involving complex data or security needs are valuable.\n\n - Clear written communication, ownership, and an interest in applying technology to legal and other specialized workflows.\n\n\nCOMPENSATION & BENEFITS\n\nAnnual base salary: $180,000 to $250,000 USD, depending on skills, experience, and role scope. The role offers substantial ownership and influence over product decisions. Visa sponsorship is not available.\n\n\nLOCATION\n\nFully remote within the United States.",
+  "otherListings": 0
+ },
+ {
+  "id": "greenhouse:dremio:7822086003",
+  "company": "Dremio",
+  "companyDomain": "tech",
+  "ats": "greenhouse",
+  "slug": "dremio",
+  "title": "Senior Software Engineer",
+  "url": "https://www.dremio.com/careers/job-postings/?gh_jid=7822086003",
+  "locationText": "Portugal - Remote | Portugal - Remote",
+  "workplace": null,
+  "isRemote": null,
+  "department": "Engineering",
+  "posted": "2026-08-04T09:15:18.000Z",
+  "salary": null,
+  "firstSeen": "2026-11-02",
+  "isNew": true,
+  "locationVerdict": "allowed",
+  "locationReason": "location lists Portugal/Europe/EMEA/worldwide",
+  "locationEvidence": "Portugal - Remote | Portugal - Remote",
+  "description": "Be Part of Building the Future\nDremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises, including Maersk, Amazon, Regeneron, NetApp, and S&P Global. Customers rely on Dremio for cloud, hybrid, and on-prem lakehouses to power their data mesh, data warehouse migration, data virtualization, and unified data access use cases. Based on open source technologies, including Apache Iceberg and Apache Arrow, Dremio provides an open lakehouse architecture enabling the fastest time to insight and platform flexibility at a fraction of the cost. Learn more at www.dremio.com.\nAbout the role\nThe Dremio Catalog team builds Dremioʼs Open Catalog, an enterprise data catalog based on Apache Polaris. The catalog provides a governed entry point for Iceberg tables and federated data sources across object stores,databases, data warehouses, and other lakehouse catalogs.As a Senior Software Engineer, you will own features from design through production. You will work on catalog services, metadata APIs, security, multi-tenant isolation, and integrations with Dremio and external query engines.This role suits an engineer who enjoys distributed systems, open standards, and software that must remain correct under concurrency and at scale.You will own changes from requirements through release and production support. After writing the specification and choosing an approach, you may use AI coding agents to help with implementation. You will review their work and validate its behavior, with particular attention to concurrency, authorization, compatibility, and failure handling. Changes that belong in Apache Polaris may also be contributed upstream.\nWhat youʼll be doing\n• Own multiple features within the Catalog team, from requirements and technical design through implementation, testing, rollout, and production support.\n• Extend Apache Polaris while preserving compatibility with the Iceberg REST Catalog specification.\n• Build catalog APIs and services for namespaces, tables, views, identities, permissions, and metadata operations.\n• Solve distributed systems problems involving consistency, concurrency, failure recovery, multi-tenancy, and service performance.\n• Diagnose production issues using logs, metrics, traces, and service data, then address the underlying cause.\n• Write design documents for the features you own and review designs from other engineers.\n• Work with query engine, security, platform, and product teams to define interfaces and manage dependencies.\n• Improve test coverage, operational tooling, and engineering practices in the areas you touch.\n• Review code with attention to correctness, security, maintainability, and performance.\n• Share technical knowledge with the team and help onboard or mentor newer engineers.\n• Contribute fixes and features upstream when they belong in Apache Polaris or another open-source project.\n• Use AI-assisted development tools for code comprehension, debugging, and test generation, while verifying their output through engineering review and testing.\nWhat weʼre looking for\n• Five or more years of professional software development experience, or equivalent practical experience.\n• Strong Java skills and experience with a substantial production codebase, supported by knowledge of data structures, algorithms, concurrency, API design, and distributed systems.\n• A record of owning backend or distributed-system features from design through rollout and production support, including estimating work and managing dependencies.\n• Ability to turn incomplete product requirements into implementation-ready specifications covering interfaces, invariants, failure cases, security, and acceptance criteria.\n• Experience directing AI coding agents, reviewing their plans and output, and correcting unsafe or unsuitable approaches. You remain accountable for every change you own, regardless of how the code was produced.\n• Strong code-review judgment, particularly around concurrency, authorization, compatibility, performance, and maintainability.\n• Experience validating changes through automated tests, static analysis, and production telemetry, then using that evidence to diagnose failures and address their root causes.\n• Clear written and verbal communication in specifications, design documents, technical discussions, and code reviews.\n• A bachelorʼs degree in Computer Science or a related field, or equivalent practical experience.\nBonus points if you have\n• Experience with Apache Polaris, Apache Iceberg, or the Iceberg REST Catalog specification.\n• Knowledge of metadata catalogs, authorization systems, credential vending, or policy enforcement.\n• Experience building multi-tenant cloud services.\n• Familiarity with databases, transaction isolation, and consistency models.\n• Experience with Kubernetes and public cloud infrastructure.\n• Familiarity with Apache Spark, Apache Flink, Trino, or other engines that integrate with Iceberg catalogs.\n• Contributions to Apache or other open-source projects\nWhat we value\nAt Dremio, we hold ourselves to high standards when it comes to People, Thinking, and Action. Our Gnarlies (that's what we call our employees) communicate with clarity, drive accountability, and are respectful towards each other. We confront brutal facts and focus on results while operating with a sense of urgency and building a \"flywheel\". People who like to jump in and drive momentum will thrive in our #GnarlyLife.\nDremio is an equal opportunity employer supporting workforce diversity. We do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, protected veteran status, disability status, or any other unlawful factor.\nDremio is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request accommodation due to a disability, please inform your recruiter.\nDremio has policies in place to ",
+  "otherListings": 0
+ }
+]
