@@ -1,14 +1,14 @@
 {
  "companies": 643,
- "ok": 637,
+ "ok": 635,
  "failed": 3,
- "notFound": 3,
- "jobs": 39146,
- "titleKept": 6443,
- "locationKept": 833,
- "open": 417,
- "new": 14,
- "date": "2026-11-07",
+ "notFound": 5,
+ "jobs": 39107,
+ "titleKept": 6438,
+ "locationKept": 834,
+ "open": 418,
+ "new": 1,
+ "date": "2026-11-08",
  "deadSlugs": [
   "ashby:Coinhako",
   "ashby:vivid"
