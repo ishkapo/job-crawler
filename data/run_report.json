@@ -3,15 +3,16 @@
  "ok": 636,
  "failed": 3,
  "notFound": 4,
- "jobs": 38732,
+ "jobs": 38735,
  "titleKept": 6353,
  "locationKept": 796,
  "open": 400,
- "new": 2,
- "date": "2026-11-14",
+ "new": 0,
+ "date": "2026-11-15",
  "deadSlugs": [
   "ashby:Coinhako",
   "ashby:vivid",
+  "ashby:maple",
   "ashby:shieldai"
  ]
 }
