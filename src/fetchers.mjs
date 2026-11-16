@@ -238,6 +238,137 @@ export async function fillSmartRecruitersDetail(job) {
   return job;
 }
 
+// ---------- Teamtailor (public RSS feed) ----------
+const rssTag = (block, tag) => {
+  const m = block.match(new RegExp(`<(?:tt:)?${tag}(?:\\s[^>]*)?>([\\s\\S]*?)</(?:tt:)?${tag}>`, 'i'));
+  return m ? m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim() : '';
+};
+export function parseTeamtailor(xml, slug) {
+  const items = xml.match(/<item>[\s\S]*?<\/item>/gi) || [];
+  return items.map((it) => {
+    const link = rssTag(it, 'link');
+    const remote = rssTag(it, 'remoteStatus').toLowerCase();
+    const locs = (it.match(/<(?:tt:)?location>[\s\S]*?<\/(?:tt:)?location>/gi) || []).map((l) =>
+      [rssTag(l, 'name'), rssTag(l, 'city'), rssTag(l, 'country')].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i).join(', '));
+    return {
+      id: `teamtailor:${slug}:${rssTag(it, 'guid') || link}`,
+      title: decode(rssTag(it, 'title')),
+      url: link,
+      locationText: [...locs, remote === 'fully' ? 'Fully remote' : remote === 'hybrid' ? 'Hybrid' : ''].filter(Boolean).join(' | '),
+      workplace: remote === 'fully' ? 'remote' : remote === 'hybrid' ? 'hybrid' : null,
+      isRemote: remote ? remote === 'fully' : null,
+      department: decode(rssTag(it, 'department')) || null,
+      posted: iso(rssTag(it, 'pubDate')),
+      salary: null,
+      description: htmlToText(rssTag(it, 'description')),
+    };
+  });
+}
+async function teamtailor(c) {
+  const xml = await http(`https://${encodeURIComponent(c.slug)}.teamtailor.com/jobs.rss`, { as: 'text' });
+  if (!/<rss|<channel/i.test(xml)) throw new FetchError(`not a Teamtailor feed ${c.slug}`, 404);
+  return parseTeamtailor(xml, c.slug);
+}
+
+// ---------- BambooHR ----------
+export function parseBamboo(data, slug) {
+  return (data.result || []).map((j) => {
+    const a = j.atsLocation || {};
+    const l = j.location || {};
+    const lt = String(j.locationType ?? '');
+    return {
+      id: `bamboohr:${slug}:${j.id}`,
+      title: j.jobOpeningName,
+      url: `https://${slug}.bamboohr.com/careers/${j.id}`,
+      locationText: [[a.city || l.city, a.state || l.state, a.country].filter(Boolean).join(', '), j.isRemote || lt === '1' ? 'Remote' : lt === '2' ? 'Hybrid' : ''].filter(Boolean).join(' | '),
+      workplace: j.isRemote || lt === '1' ? 'remote' : lt === '2' ? 'hybrid' : null,
+      isRemote: j.isRemote != null ? Boolean(j.isRemote) : lt ? lt === '1' : null,
+      department: j.departmentLabel || null,
+      posted: null,
+      salary: null,
+      description: '',
+      _detail: `https://${slug}.bamboohr.com/careers/${j.id}/detail`,
+    };
+  });
+}
+async function bamboohr(c) {
+  const data = await http(`https://${encodeURIComponent(c.slug)}.bamboohr.com/careers/list`);
+  if (!Array.isArray(data?.result)) throw new FetchError(`not a BambooHR board ${c.slug}`, 404);
+  return parseBamboo(data, c.slug);
+}
+
+// ---------- Breezy HR ----------
+export function parseBreezy(data, slug) {
+  return (Array.isArray(data) ? data : []).map((j) => {
+    const l = j.location || {};
+    return {
+      id: `breezy:${slug}:${j.id}`,
+      title: j.name,
+      url: j.url || `https://${slug}.breezy.hr/p/${j.friendly_id || j.id}`,
+      locationText: [l.name || [l.city, l.country?.name].filter(Boolean).join(', '), ...(j.locations || []).map((x) => x.name), l.is_remote ? 'Remote' : ''].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i).join(' | '),
+      workplace: l.is_remote ? 'remote' : null,
+      isRemote: typeof l.is_remote === 'boolean' ? l.is_remote : null,
+      department: j.department || null,
+      posted: iso(j.published_date),
+      salary: j.salary || null,
+      description: '',
+      _detail: j.url || `https://${slug}.breezy.hr/p/${j.friendly_id || j.id}`,
+    };
+  });
+}
+async function breezy(c) {
+  const data = await http(`https://${encodeURIComponent(c.slug)}.breezy.hr/json`);
+  if (!Array.isArray(data)) throw new FetchError(`not a Breezy board ${c.slug}`, 404);
+  return parseBreezy(data, c.slug);
+}
+
+// ---------- Pinpoint ----------
+export function parsePinpoint(data, slug) {
+  return (data.data || []).map((j) => {
+    const l = j.location || {};
+    const wp = j.workplace_type ? String(j.workplace_type).toLowerCase() : null;
+    return {
+      id: `pinpoint:${slug}:${j.id}`,
+      title: j.title,
+      url: j.url || `https://${slug}.pinpointhq.com/postings/${j.id}`,
+      locationText: [l.name || [l.city, l.province].filter(Boolean).join(', '), wp === 'remote' ? 'Remote' : wp === 'hybrid' ? 'Hybrid' : ''].filter(Boolean).join(' | '),
+      workplace: wp,
+      isRemote: wp ? wp === 'remote' : null,
+      department: j.job?.department?.name || j.department?.name || null,
+      posted: null,
+      salary: j.compensation || null,
+      description: htmlToText([j.description, j.key_responsibilities, j.skills_knowledge_expertise, j.benefits].filter(Boolean).join('\n')),
+    };
+  });
+}
+async function pinpoint(c) {
+  const data = await http(`https://${encodeURIComponent(c.slug)}.pinpointhq.com/postings.json`);
+  if (!Array.isArray(data?.data)) throw new FetchError(`not a Pinpoint board ${c.slug}`, 404);
+  return parsePinpoint(data, c.slug);
+}
+
+// Detail lookups, run only for jobs whose title already matched.
+export async function fillDetail(job) {
+  if (!job._detail) return job;
+  if (String(job.id).startsWith('smartrecruiters:')) return fillSmartRecruitersDetail(job);
+  try {
+    if (String(job.id).startsWith('bamboohr:')) {
+      const d = await http(job._detail);
+      const o = d.result?.jobOpening || {};
+      job.description = htmlToText(o.description || '');
+      job.posted = iso(o.datePosted) || job.posted;
+      if (o.compensation) job.salary = String(o.compensation);
+    } else {
+      const html = await http(job._detail, { as: 'text' });
+      const body = html.match(/<div[^>]*class="[^"]*description[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<\/div>/i)?.[1]
+        || html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<head[\s\S]*?<\/head>/gi, ' ');
+      job.description = htmlToText(body).slice(0, 12000);
+    }
+  } catch { /* keep without description */ }
+  delete job._detail;
+  return job;
+}
+
 export const FETCHERS = {
   greenhouse,
   'greenhouse-eu': greenhouse,
@@ -248,6 +379,10 @@ export const FETCHERS = {
   recruitee,
   personio,
   smartrecruiters,
+  teamtailor,
+  bamboohr,
+  breezy,
+  pinpoint,
 };
 
 export async function fetchCompany(c) {

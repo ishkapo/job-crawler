@@ -5,14 +5,14 @@
 import fs from 'node:fs/promises';
 import { fetchCompany } from './fetchers.mjs';
 
-const ATS = ['greenhouse', 'greenhouse-eu', 'ashby', 'lever', 'lever-eu', 'workable', 'recruitee', 'personio'];
+const ATS = ['greenhouse', 'greenhouse-eu', 'ashby', 'lever', 'lever-eu', 'workable', 'recruitee', 'personio', 'smartrecruiters', 'teamtailor', 'bamboohr', 'breezy', 'pinpoint'];
 const cands = JSON.parse(await fs.readFile('data/candidates.json', 'utf8'));
 const tasks = [];
-for (const [name, domain, slugs] of cands) for (const slug of slugs) for (const ats of ATS) tasks.push({ name, domain, slug, ats });
+for (const [name, domain, slugs, only] of cands) for (const slug of slugs) for (const ats of only || ATS) tasks.push({ name, domain, slug, ats });
 
 const hits = [];
 let next = 0;
-await Promise.all(Array.from({ length: 10 }, async () => {
+await Promise.all(Array.from({ length: 40 }, async () => {
   while (next < tasks.length) {
     const t = tasks[next++];
     try {

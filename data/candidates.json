@@ -1,9 +1,5088 @@
 [
  [
+  "Zoniqx",
+  "fintech",
+  [
+   "zoniqx"
+  ]
+ ],
+ [
+  "Backed Finance",
+  "fintech",
+  [
+   "backedfinance",
+   "backed",
+   "backedfi",
+   "backed-finance"
+  ]
+ ],
+ [
+  "Midas RWA",
+  "fintech",
+  [
+   "midas-rwa",
+   "midasrwa",
+   "midas-app"
+  ]
+ ],
+ [
+  "Hashnote",
+  "fintech",
+  [
+   "hashnote"
+  ]
+ ],
+ [
+  "OpenEden",
+  "fintech",
+  [
+   "openeden"
+  ]
+ ],
+ [
+  "Libeara",
+  "fintech",
+  [
+   "libeara"
+  ]
+ ],
+ [
+  "Libre Capital",
+  "fintech",
+  [
+   "librecapital",
+   "libre-capital"
+  ]
+ ],
+ [
+  "Obligate",
+  "fintech",
+  [
+   "obligate"
+  ]
+ ],
+ [
+  "Plume Network",
+  "fintech",
+  [
+   "plumenetwork",
+   "plume",
+   "plume-network"
+  ]
+ ],
+ [
+  "MANTRA",
+  "fintech",
+  [
+   "mantra",
+   "mantrachain",
+   "mantra-chain"
+  ]
+ ],
+ [
+  "Redbelly Network",
+  "fintech",
+  [
+   "redbellynetwork",
+   "redbelly",
+   "redbelly-network"
+  ]
+ ],
+ [
+  "Ownera",
+  "fintech",
+  [
+   "ownera"
+  ]
+ ],
+ [
+  "DigiShares",
+  "fintech",
+  [
+   "digishares"
+  ]
+ ],
+ [
+  "Swarm Markets",
+  "fintech",
+  [
+   "swarmmarkets",
+   "swarm",
+   "swarm-markets"
+  ]
+ ],
+ [
+  "STOKR",
+  "fintech",
+  [
+   "stokr"
+  ]
+ ],
+ [
+  "Blocksquare",
+  "fintech",
+  [
+   "blocksquare"
+  ]
+ ],
+ [
+  "Propy",
+  "fintech",
+  [
+   "propy"
+  ]
+ ],
+ [
+  "Vertalo",
+  "fintech",
+  [
+   "vertalo"
+  ]
+ ],
+ [
+  "INX",
+  "fintech",
+  [
+   "inx-digital",
+   "inxdigital",
+   "theinx"
+  ]
+ ],
+ [
+  "21X",
+  "fintech",
+  [
+   "21x"
+  ]
+ ],
+ [
+  "SIX Digital Exchange",
+  "fintech",
+  [
+   "sixdigitalexchange",
+   "sdx",
+   "six-digital-exchange"
+  ]
+ ],
+ [
+  "Globacap",
+  "fintech",
+  [
+   "globacap"
+  ]
+ ],
+ [
+  "Zumo",
+  "fintech",
+  [
+   "zumo"
+  ]
+ ],
+ [
+  "Ctrl Alt",
+  "fintech",
+  [
+   "ctrlalt",
+   "ctrl-alt"
+  ]
+ ],
+ [
+  "Assetera",
+  "fintech",
+  [
+   "assetera"
+  ]
+ ],
+ [
+  "Nomyx",
+  "fintech",
+  [
+   "nomyx"
+  ]
+ ],
+ [
+  "Untangled Finance",
+  "fintech",
+  [
+   "untangledfinance",
+   "untangled",
+   "untangled-finance"
+  ]
+ ],
+ [
+  "Credbull",
+  "fintech",
+  [
+   "credbull"
+  ]
+ ],
+ [
+  "Clearpool",
+  "fintech",
+  [
+   "clearpool"
+  ]
+ ],
+ [
+  "Archblock",
+  "fintech",
+  [
+   "archblock",
+   "truefi"
+  ]
+ ],
+ [
+  "Huma Finance",
+  "fintech",
+  [
+   "humafinance",
+   "huma",
+   "huma-finance"
+  ]
+ ],
+ [
+  "Steakhouse Financial",
+  "fintech",
+  [
+   "steakhousefinancial",
+   "steakhouse",
+   "steakhouse-financial"
+  ]
+ ],
+ [
+  "Spiko",
+  "fintech",
+  [
+   "spiko"
+  ]
+ ],
+ [
+  "Dinari",
+  "fintech",
+  [
+   "dinari"
+  ]
+ ],
+ [
+  "KAIO",
+  "fintech",
+  [
+   "kaio",
+   "kaio-xyz"
+  ]
+ ],
+ [
+  "Usual Labs",
+  "fintech",
+  [
+   "usuallabs",
+   "usual",
+   "usual-money",
+   "usual-labs"
+  ]
+ ],
+ [
+  "Anemoy",
+  "fintech",
+  [
+   "anemoy"
+  ]
+ ],
+ [
+  "OpenTrade",
+  "fintech",
+  [
+   "opentrade"
+  ]
+ ],
+ [
+  "Fasanara Capital",
+  "fintech",
+  [
+   "fasanaracapital",
+   "fasanara",
+   "fasanara-capital"
+  ]
+ ],
+ [
+  "Fence",
+  "fintech",
+  [
+   "fencefinance",
+   "fence-finance"
+  ]
+ ],
+ [
+  "Intain",
+  "fintech",
+  [
+   "intain"
+  ]
+ ],
+ [
+  "Tokenovate",
+  "fintech",
+  [
+   "tokenovate"
+  ]
+ ],
+ [
+  "SETL",
+  "fintech",
+  [
+   "setl"
+  ]
+ ],
+ [
+  "Kaleido",
+  "fintech",
+  [
+   "kaleido"
+  ]
+ ],
+ [
+  "Chronicle Labs",
+  "fintech",
+  [
+   "chroniclelabs",
+   "chronicle",
+   "chronicle-labs"
+  ]
+ ],
+ [
+  "RedStone",
+  "fintech",
+  [
+   "redstone",
+   "redstonefinance",
+   "redstone-finance"
+  ]
+ ],
+ [
+  "API3",
+  "fintech",
+  [
+   "api3"
+  ]
+ ],
+ [
+  "XDC Network",
+  "fintech",
+  [
+   "xdcnetwork",
+   "xdc",
+   "xinfin",
+   "xdc-network"
+  ]
+ ],
+ [
+  "Algorand Technologies",
+  "fintech",
+  [
+   "algorandtechnologies",
+   "algorand",
+   "algorand-technologies"
+  ]
+ ],
+ [
+  "AMINA Bank",
+  "fintech",
+  [
+   "aminabank",
+   "amina",
+   "aminagroup",
+   "seba",
+   "amina-bank"
+  ]
+ ],
+ [
+  "Crypto Finance",
+  "fintech",
+  [
+   "cryptofinance",
+   "crypto-finance"
+  ]
+ ],
+ [
+  "BitMEX",
+  "fintech",
+  [
+   "bitmex"
+  ]
+ ],
+ [
+  "Deribit",
+  "fintech",
+  [
+   "deribit"
+  ]
+ ],
+ [
+  "Bybit",
+  "fintech",
+  [
+   "bybit"
+  ]
+ ],
+ [
+  "Bitget",
+  "fintech",
+  [
+   "bitget"
+  ]
+ ],
+ [
+  "KuCoin",
+  "fintech",
+  [
+   "kucoin"
+  ]
+ ],
+ [
+  "Ripio",
+  "fintech",
+  [
+   "ripio"
+  ]
+ ],
+ [
+  "Lemon Cash",
+  "fintech",
+  [
+   "lemoncash",
+   "lemon",
+   "lemon-cash"
+  ]
+ ],
+ [
+  "Mercado Bitcoin",
+  "fintech",
+  [
+   "mercadobitcoin",
+   "mb",
+   "mercado-bitcoin"
+  ]
+ ],
+ [
+  "SwissBorg",
+  "fintech",
+  [
+   "swissborg"
+  ]
+ ],
+ [
+  "Bit2Me",
+  "fintech",
+  [
+   "bit2me"
+  ]
+ ],
+ [
+  "Kriptomat",
+  "fintech",
+  [
+   "kriptomat"
+  ]
+ ],
+ [
+  "Young Platform",
+  "fintech",
+  [
+   "youngplatform",
+   "young",
+   "young-platform"
+  ]
+ ],
+ [
+  "Relai",
+  "fintech",
+  [
+   "relai"
+  ]
+ ],
+ [
+  "Pocket Bitcoin",
+  "fintech",
+  [
+   "pocketbitcoin",
+   "pocket-bitcoin"
+  ]
+ ],
+ [
+  "Coinmotion",
+  "fintech",
+  [
+   "coinmotion"
+  ]
+ ],
+ [
+  "Cobo",
+  "fintech",
+  [
+   "cobo"
+  ]
+ ],
+ [
+  "Utila",
+  "fintech",
+  [
+   "utila"
+  ]
+ ],
+ [
+  "Cordial Systems",
+  "fintech",
+  [
+   "cordialsystems",
+   "cordial",
+   "cordial-systems"
+  ]
+ ],
+ [
+  "Liminal Custody",
+  "fintech",
+  [
+   "liminalcustody",
+   "liminal",
+   "liminal-custody"
+  ]
+ ],
+ [
+  "Safeheron",
+  "fintech",
+  [
+   "safeheron"
+  ]
+ ],
+ [
+  "Sodot",
+  "fintech",
+  [
+   "sodot"
+  ]
+ ],
+ [
+  "Silence Laboratories",
+  "fintech",
+  [
+   "silencelaboratories",
+   "silence-laboratories"
+  ]
+ ],
+ [
+  "Lit Protocol",
+  "fintech",
+  [
+   "litprotocol",
+   "lit-protocol"
+  ]
+ ],
+ [
+  "Web3Auth",
+  "fintech",
+  [
+   "web3auth",
+   "torus"
+  ]
+ ],
+ [
+  "Magic Labs",
+  "fintech",
+  [
+   "magiclabs",
+   "magic-labs",
+   "magiclink"
+  ]
+ ],
+ [
+  "Portal",
+  "fintech",
+  [
+   "portalhq",
+   "portal-hq"
+  ]
+ ],
+ [
+  "Para (Capsule)",
+  "fintech",
+  [
+   "getpara",
+   "usecapsule",
+   "capsule"
+  ]
+ ],
+ [
+  "Crossmint",
+  "fintech",
+  [
+   "crossmint"
+  ]
+ ],
+ [
+  "thirdweb",
+  "fintech",
+  [
+   "thirdweb"
+  ]
+ ],
+ [
+  "Openfort",
+  "fintech",
+  [
+   "openfort"
+  ]
+ ],
+ [
+  "Bastion",
+  "fintech",
+  [
+   "bastion-platform",
+   "bastionplatform"
+  ]
+ ],
+ [
+  "BlindPay",
+  "fintech",
+  [
+   "blindpay"
+  ]
+ ],
+ [
+  "Caliza",
+  "fintech",
+  [
+   "caliza"
+  ]
+ ],
+ [
+  "Borderless.xyz",
+  "fintech",
+  [
+   "borderlessxyz",
+   "borderless",
+   "borderless-xyz"
+  ]
+ ],
+ [
+  "Rail (Layer2 Financial)",
+  "fintech",
+  [
+   "layer2financial",
+   "rail-io",
+   "railio"
+  ]
+ ],
+ [
+  "Noah",
+  "fintech",
+  [
+   "noah-hq",
+   "noahhq",
+   "noah-com"
+  ]
+ ],
+ [
+  "Due",
+  "fintech",
+  [
+   "due-network",
+   "duenetwork",
+   "opendue"
+  ]
+ ],
+ [
+  "Fipto",
+  "fintech",
+  [
+   "fipto"
+  ]
+ ],
+ [
+  "Mural Pay",
+  "fintech",
+  [
+   "muralpay",
+   "mural",
+   "mural-pay"
+  ]
+ ],
+ [
+  "Sphere Labs",
+  "fintech",
+  [
+   "spherelabs",
+   "spherepay",
+   "sphere-labs"
+  ]
+ ],
+ [
+  "Loop Crypto",
+  "fintech",
+  [
+   "loopcrypto",
+   "loop-crypto"
+  ]
+ ],
+ [
+  "Triple-A",
+  "fintech",
+  [
+   "triplea",
+   "triple-a"
+  ]
+ ],
+ [
+  "BitPay",
+  "fintech",
+  [
+   "bitpay"
+  ]
+ ],
+ [
+  "CoinPayments",
+  "fintech",
+  [
+   "coinpayments"
+  ]
+ ],
+ [
+  "Request Finance",
+  "fintech",
+  [
+   "requestfinance",
+   "request",
+   "request-finance"
+  ]
+ ],
+ [
+  "Bitwave",
+  "fintech",
+  [
+   "bitwave"
+  ]
+ ],
+ [
+  "Cryptio",
+  "fintech",
+  [
+   "cryptio"
+  ]
+ ],
+ [
+  "Tres Finance",
+  "fintech",
+  [
+   "tresfinance",
+   "tres",
+   "tres-finance"
+  ]
+ ],
+ [
+  "Coinshift",
+  "fintech",
+  [
+   "coinshift"
+  ]
+ ],
+ [
+  "Rise",
+  "fintech",
+  [
+   "riseworks",
+   "rise-works"
+  ]
+ ],
+ [
+  "TaxBit",
+  "fintech",
+  [
+   "taxbit"
+  ]
+ ],
+ [
+  "CoinTracker",
+  "fintech",
+  [
+   "cointracker"
+  ]
+ ],
+ [
+  "CoinLedger",
+  "fintech",
+  [
+   "coinledger"
+  ]
+ ],
+ [
+  "Blockpit",
+  "fintech",
+  [
+   "blockpit"
+  ]
+ ],
+ [
+  "Recap",
+  "fintech",
+  [
+   "recap-io",
+   "recapio"
+  ]
+ ],
+ [
+  "ZenLedger",
+  "fintech",
+  [
+   "zenledger"
+  ]
+ ],
+ [
+  "Lukka",
+  "fintech",
+  [
+   "lukka"
+  ]
+ ],
+ [
+  "Integral (crypto accounting)",
+  "fintech",
+  [
+   "integralxyz",
+   "integral-xyz"
+  ]
+ ],
+ [
+  "Membrane Finance",
+  "fintech",
+  [
+   "membranefinance",
+   "membrane",
+   "membrane-finance"
+  ]
+ ],
+ [
+  "AllUnity",
+  "fintech",
+  [
+   "allunity"
+  ]
+ ],
+ [
+  "First Digital",
+  "fintech",
+  [
+   "firstdigital",
+   "firstdigitallabs",
+   "first-digital"
+  ]
+ ],
+ [
+  "Sling Money",
+  "fintech",
+  [
+   "slingmoney",
+   "sling",
+   "sling-money"
+  ]
+ ],
+ [
+  "Infinite",
+  "fintech",
+  [
+   "infinite-dev",
+   "infinitedev",
+   "tryinfinite"
+  ]
+ ],
+ [
+  "KAST",
+  "fintech",
+  [
+   "kast",
+   "kast-xyz",
+   "kastfinance"
+  ]
+ ],
+ [
+  "Bleap",
+  "fintech",
+  [
+   "bleap"
+  ]
+ ],
+ [
+  "Holyheld",
+  "fintech",
+  [
+   "holyheld"
+  ]
+ ],
+ [
+  "Deblock",
+  "fintech",
+  [
+   "deblock"
+  ]
+ ],
+ [
+  "Xapo Bank",
+  "fintech",
+  [
+   "xapobank",
+   "xapo",
+   "xapo-bank"
+  ]
+ ],
+ [
+  "Fiat24",
+  "fintech",
+  [
+   "fiat24"
+  ]
+ ],
+ [
+  "Immersve",
+  "fintech",
+  [
+   "immersve"
+  ]
+ ],
+ [
+  "Bitrefill",
+  "fintech",
+  [
+   "bitrefill"
+  ]
+ ],
+ [
+  "Strike",
+  "fintech",
+  [
+   "strike",
+   "zaphq",
+   "zap"
+  ]
+ ],
+ [
+  "River",
+  "fintech",
+  [
+   "river",
+   "riverfinancial",
+   "river-financial"
+  ]
+ ],
+ [
+  "Unchained",
+  "fintech",
+  [
+   "unchained",
+   "unchainedcapital"
+  ]
+ ],
+ [
+  "Voltage",
+  "fintech",
+  [
+   "voltage",
+   "voltagecloud"
+  ]
+ ],
+ [
+  "Blockstream",
+  "fintech",
+  [
+   "blockstream"
+  ]
+ ],
+ [
+  "Breez",
+  "fintech",
+  [
+   "breez"
+  ]
+ ],
+ [
+  "OpenNode",
+  "fintech",
+  [
+   "opennode"
+  ]
+ ],
+ [
+  "Fold",
+  "fintech",
+  [
+   "foldapp",
+   "fold-app"
+  ]
+ ],
+ [
+  "Bitnob",
+  "fintech",
+  [
+   "bitnob"
+  ]
+ ],
+ [
+  "Busha",
+  "fintech",
+  [
+   "busha"
+  ]
+ ],
+ [
+  "Juicyway",
+  "fintech",
+  [
+   "juicyway"
+  ]
+ ],
+ [
+  "AZA Finance",
+  "fintech",
+  [
+   "azafinance",
+   "aza",
+   "aza-finance"
+  ]
+ ],
+ [
+  "Afriex",
+  "fintech",
+  [
+   "afriex"
+  ]
+ ],
+ [
+  "NALA",
+  "fintech",
+  [
+   "nala",
+   "nalamoney"
+  ]
+ ],
+ [
+  "Onafriq",
+  "fintech",
+  [
+   "onafriq",
+   "mfsafrica"
+  ]
+ ],
+ [
+  "Banxa",
+  "fintech",
+  [
+   "banxa"
+  ]
+ ],
+ [
+  "Onramper",
+  "fintech",
+  [
+   "onramper"
+  ]
+ ],
+ [
+  "Mt Pelerin",
+  "fintech",
+  [
+   "mtpelerin",
+   "mt-pelerin"
+  ]
+ ],
+ [
+  "Alchemy Pay",
+  "fintech",
+  [
+   "alchemypay",
+   "alchemy-pay"
+  ]
+ ],
+ [
+  "Unlimit",
+  "fintech",
+  [
+   "unlimit",
+   "unlimint"
+  ]
+ ],
+ [
+  "Kado",
+  "fintech",
+  [
+   "kado",
+   "kadomoney"
+  ]
+ ],
+ [
+  "Coinify",
+  "fintech",
+  [
+   "coinify"
+  ]
+ ],
+ [
+  "Zepz",
+  "fintech",
+  [
+   "zepz",
+   "worldremit"
+  ]
+ ],
+ [
+  "TransferGo",
+  "fintech",
+  [
+   "transfergo"
+  ]
+ ],
+ [
+  "Atlantic Money",
+  "fintech",
+  [
+   "atlanticmoney",
+   "atlantic-money"
+  ]
+ ],
+ [
+  "MAJORITY",
+  "fintech",
+  [
+   "majority",
+   "majorityapp"
+  ]
+ ],
+ [
+  "Pomelo",
+  "fintech",
+  [
+   "pomelo",
+   "pomelogroup"
+  ]
+ ],
+ [
+  "Chorus One",
+  "fintech",
+  [
+   "chorusone",
+   "chorus-one"
+  ]
+ ],
+ [
+  "StakeWise",
+  "fintech",
+  [
+   "stakewise"
+  ]
+ ],
+ [
+  "Symbiotic",
+  "fintech",
+  [
+   "symbiotic"
+  ]
+ ],
+ [
+  "Babylon Labs",
+  "fintech",
+  [
+   "babylonlabs",
+   "babylon",
+   "babylonchain",
+   "babylon-labs"
+  ]
+ ],
+ [
+  "Ankr",
+  "fintech",
+  [
+   "ankr"
+  ]
+ ],
+ [
+  "Chainstack",
+  "fintech",
+  [
+   "chainstack"
+  ]
+ ],
+ [
+  "Luganodes",
+  "fintech",
+  [
+   "luganodes"
+  ]
+ ],
+ [
+  "Everstake",
+  "fintech",
+  [
+   "everstake"
+  ]
+ ],
+ [
+  "Stakin",
+  "fintech",
+  [
+   "stakin"
+  ]
+ ],
+ [
+  "Twinstake",
+  "fintech",
+  [
+   "twinstake"
+  ]
+ ],
+ [
+  "Northstake",
+  "fintech",
+  [
+   "northstake"
+  ]
+ ],
+ [
+  "Taiko",
+  "fintech",
+  [
+   "taiko",
+   "taikoxyz"
+  ]
+ ],
+ [
+  "Mantle",
+  "fintech",
+  [
+   "mantle",
+   "mantlenetwork",
+   "mantle-xyz"
+  ]
+ ],
+ [
+  "Avail",
+  "fintech",
+  [
+   "availproject",
+   "avail-project"
+  ]
+ ],
+ [
+  "Initia",
+  "fintech",
+  [
+   "initia",
+   "initialabs"
+  ]
+ ],
+ [
+  "Story Protocol",
+  "fintech",
+  [
+   "storyprotocol",
+   "story",
+   "piplabs",
+   "story-protocol"
+  ]
+ ],
+ [
+  "Tools for Humanity",
+  "fintech",
+  [
+   "toolsforhumanity",
+   "tfh",
+   "worldcoin",
+   "tools-for-humanity"
+  ]
+ ],
+ [
+  "Merkle Manufactory (Farcaster)",
+  "fintech",
+  [
+   "merklemanufactory",
+   "farcaster",
+   "merkle-manufactory"
+  ]
+ ],
+ [
+  "Zora",
+  "fintech",
+  [
+   "zora"
+  ]
+ ],
+ [
+  "Dapper Labs",
+  "fintech",
+  [
+   "dapperlabs",
+   "dapper-labs"
+  ]
+ ],
+ [
+  "Sky Mavis",
+  "fintech",
+  [
+   "skymavis",
+   "sky-mavis"
+  ]
+ ],
+ [
+  "SatoshiLabs (Trezor)",
+  "fintech",
+  [
+   "satoshilabs",
+   "trezor"
+  ]
+ ],
+ [
+  "Rainbow",
+  "fintech",
+  [
+   "rainbow",
+   "rainbowdotme"
+  ]
+ ],
+ [
+  "Backpack",
+  "fintech",
+  [
+   "backpack",
+   "backpackexchange",
+   "coral"
+  ]
+ ],
+ [
+  "Exodus",
+  "fintech",
+  [
+   "exodus",
+   "exodus54",
+   "exodusmovement"
+  ]
+ ],
+ [
+  "DeBank",
+  "fintech",
+  [
+   "debank"
+  ]
+ ],
+ [
+  "OneKey",
+  "fintech",
+  [
+   "onekey"
+  ]
+ ],
+ [
+  "Keystone",
+  "fintech",
+  [
+   "keystonewallet",
+   "keyst"
+  ]
+ ],
+ [
+  "Arkham",
+  "fintech",
+  [
+   "arkham",
+   "arkhamintelligence",
+   "arkm"
+  ]
+ ],
+ [
+  "Goldsky",
+  "fintech",
+  [
+   "goldsky"
+  ]
+ ],
+ [
+  "Allium",
+  "fintech",
+  [
+   "allium"
+  ]
+ ],
+ [
+  "Flipside Crypto",
+  "fintech",
+  [
+   "flipsidecrypto",
+   "flipside",
+   "flipside-crypto"
+  ]
+ ],
+ [
+  "Token Terminal",
+  "fintech",
+  [
+   "tokenterminal",
+   "token-terminal"
+  ]
+ ],
+ [
+  "CoinGecko",
+  "fintech",
+  [
+   "coingecko"
+  ]
+ ],
+ [
+  "CoinMarketCap",
+  "fintech",
+  [
+   "coinmarketcap"
+  ]
+ ],
+ [
+  "Kaito",
+  "fintech",
+  [
+   "kaitoai",
+   "kaito-ai",
+   "kaito"
+  ]
+ ],
+ [
+  "Artemis",
+  "fintech",
+  [
+   "artemisxyz",
+   "artemis-xyz",
+   "artemis"
+  ]
+ ],
+ [
+  "Pinax",
+  "fintech",
+  [
+   "pinax"
+  ]
+ ],
+ [
+  "Subsquid",
+  "fintech",
+  [
+   "subsquid",
+   "sqd"
+  ]
+ ],
+ [
+  "Chainbase",
+  "fintech",
+  [
+   "chainbase"
+  ]
+ ],
+ [
+  "Moralis",
+  "fintech",
+  [
+   "moralis"
+  ]
+ ],
+ [
+  "Space and Time",
+  "fintech",
+  [
+   "spaceandtime",
+   "spaceandtimedb",
+   "space-and-time"
+  ]
+ ],
+ [
+  "Hyperlane (Abacus Works)",
+  "fintech",
+  [
+   "hyperlane",
+   "abacusworks"
+  ]
+ ],
+ [
+  "Squid",
+  "fintech",
+  [
+   "squidrouter",
+   "0xsquid"
+  ]
+ ],
+ [
+  "Everclear",
+  "fintech",
+  [
+   "everclear",
+   "connext"
+  ]
+ ],
+ [
+  "Polymer Labs",
+  "fintech",
+  [
+   "polymerlabs",
+   "polymer",
+   "polymer-labs"
+  ]
+ ],
+ [
+  "Skip Protocol",
+  "fintech",
+  [
+   "skipprotocol",
+   "skip-protocol"
+  ]
+ ],
+ [
+  "Osmosis Labs",
+  "fintech",
+  [
+   "osmosislabs",
+   "osmosis",
+   "osmosis-labs"
+  ]
+ ],
+ [
+  "Informal Systems",
+  "fintech",
+  [
+   "informalsystems",
+   "informal",
+   "informal-systems"
+  ]
+ ],
+ [
+  "Zama",
+  "fintech",
+  [
+   "zama"
+  ]
+ ],
+ [
+  "Fhenix",
+  "fintech",
+  [
+   "fhenix"
+  ]
+ ],
+ [
+  "Inco",
+  "fintech",
+  [
+   "inco",
+   "incolabs",
+   "inconetwork"
+  ]
+ ],
+ [
+  "Provable (Aleo)",
+  "fintech",
+  [
+   "provable",
+   "aleo"
+  ]
+ ],
+ [
+  "Nillion",
+  "fintech",
+  [
+   "nillion"
+  ]
+ ],
+ [
+  "Phala Network",
+  "fintech",
+  [
+   "phalanetwork",
+   "phala",
+   "phala-network"
+  ]
+ ],
+ [
+  "Oasis Protocol",
+  "fintech",
+  [
+   "oasisprotocol",
+   "oasislabs",
+   "oasis",
+   "oasis-protocol"
+  ]
+ ],
+ [
+  "Brevis",
+  "fintech",
+  [
+   "brevis"
+  ]
+ ],
+ [
+  "Axiom",
+  "fintech",
+  [
+   "axiom-xyz",
+   "axiomxyz"
+  ]
+ ],
+ [
+  "Nexus Labs",
+  "fintech",
+  [
+   "nexuslabs",
+   "nexus",
+   "nexus-xyz",
+   "nexus-labs"
+  ]
+ ],
+ [
+  "Boundless",
+  "fintech",
+  [
+   "boundless",
+   "boundless-xyz"
+  ]
+ ],
+ [
+  "Ritual",
+  "fintech",
+  [
+   "ritual",
+   "ritualnet"
+  ]
+ ],
+ [
+  "Gensyn",
+  "fintech",
+  [
+   "gensyn"
+  ]
+ ],
+ [
+  "Nova Labs (Helium)",
+  "fintech",
+  [
+   "novalabs",
+   "nova-labs",
+   "helium"
+  ]
+ ],
+ [
+  "DIMO",
+  "fintech",
+  [
+   "dimo"
+  ]
+ ],
+ [
+  "peaq",
+  "fintech",
+  [
+   "peaq"
+  ]
+ ],
+ [
+  "IoTeX",
+  "fintech",
+  [
+   "iotex"
+  ]
+ ],
+ [
+  "Protocol Labs",
+  "fintech",
+  [
+   "protocollabs",
+   "protocol-labs",
+   "protocol"
+  ]
+ ],
+ [
+  "Filecoin Foundation",
+  "fintech",
+  [
+   "filecoinfoundation",
+   "filecoin-foundation"
+  ]
+ ],
+ [
+  "Forward Research (Arweave)",
+  "fintech",
+  [
+   "forwardresearch",
+   "arweave",
+   "forward-research"
+  ]
+ ],
+ [
+  "Irys",
+  "fintech",
+  [
+   "irys"
+  ]
+ ],
+ [
+  "Livepeer",
+  "fintech",
+  [
+   "livepeer"
+  ]
+ ],
+ [
+  "Coin Metrics",
+  "fintech",
+  [
+   "coinmetrics",
+   "coin-metrics"
+  ]
+ ],
+ [
+  "Glassnode",
+  "fintech",
+  [
+   "glassnode"
+  ]
+ ],
+ [
+  "CryptoQuant",
+  "fintech",
+  [
+   "cryptoquant"
+  ]
+ ],
+ [
+  "Sentora (IntoTheBlock)",
+  "fintech",
+  [
+   "sentora",
+   "intotheblock"
+  ]
+ ],
+ [
+  "Scorechain",
+  "fintech",
+  [
+   "scorechain"
+  ]
+ ],
+ [
+  "Blockaid",
+  "fintech",
+  [
+   "blockaid"
+  ]
+ ],
+ [
+  "Hypernative",
+  "fintech",
+  [
+   "hypernative"
+  ]
+ ],
+ [
+  "Immunefi",
+  "fintech",
+  [
+   "immunefi"
+  ]
+ ],
+ [
+  "Hacken",
+  "fintech",
+  [
+   "hacken"
+  ]
+ ],
+ [
+  "Certora",
+  "fintech",
+  [
+   "certora"
+  ]
+ ],
+ [
+  "Runtime Verification",
+  "fintech",
+  [
+   "runtimeverification",
+   "runtime-verification"
+  ]
+ ],
+ [
+  "Hiro Systems",
+  "fintech",
+  [
+   "hirosystems",
+   "hiro",
+   "hiro-systems"
+  ]
+ ],
+ [
+  "Trust Machines",
+  "fintech",
+  [
+   "trustmachines",
+   "trust-machines"
+  ]
+ ],
+ [
+  "Botanix Labs",
+  "fintech",
+  [
+   "botanixlabs",
+   "botanix",
+   "botanix-labs"
+  ]
+ ],
+ [
+  "Starknet Foundation",
+  "fintech",
+  [
+   "starknetfoundation",
+   "starknet",
+   "starknet-foundation"
+  ]
+ ],
+ [
+  "OP Labs",
+  "fintech",
+  [
+   "oplabs",
+   "optimismpbc",
+   "op-labs"
+  ]
+ ],
+ [
+  "Arbitrum Foundation",
+  "fintech",
+  [
+   "arbitrumfoundation",
+   "arbitrum-foundation"
+  ]
+ ],
+ [
+  "Ethereum Foundation",
+  "fintech",
+  [
+   "ethereumfoundation",
+   "ethereum",
+   "ethereum-foundation"
+  ]
+ ],
+ [
+  "Solana Labs",
+  "fintech",
+  [
+   "solanalabs",
+   "solana",
+   "solana-labs"
+  ]
+ ],
+ [
+  "Squads",
+  "fintech",
+  [
+   "squads",
+   "squadsprotocol"
+  ]
+ ],
+ [
+  "Tensor",
+  "fintech",
+  [
+   "tensor-hq",
+   "tensorfoundation",
+   "tensorhq"
+  ]
+ ],
+ [
+  "Metaplex",
+  "fintech",
+  [
+   "metaplex"
+  ]
+ ],
+ [
+  "Switchboard",
+  "fintech",
+  [
+   "switchboard-xyz",
+   "switchboardxyz"
+  ]
+ ],
+ [
+  "Sanctum",
+  "fintech",
+  [
+   "sanctumso",
+   "sanctum-so"
+  ]
+ ],
+ [
+  "Marinade",
+  "fintech",
+  [
+   "marinade",
+   "marinadefinance"
+  ]
+ ],
+ [
+  "Birdeye",
+  "fintech",
+  [
+   "birdeye"
+  ]
+ ],
+ [
+  "Drift Labs",
+  "fintech",
+  [
+   "driftlabs",
+   "drift",
+   "drift-labs"
+  ]
+ ],
+ [
+  "Jupiter",
+  "fintech",
+  [
+   "jupiter-exchange",
+   "jup",
+   "jupiterexchange"
+  ]
+ ],
+ [
+  "Kamino",
+  "fintech",
+  [
+   "kamino",
+   "kaminofinance"
+  ]
+ ],
+ [
+  "Synthetix",
+  "fintech",
+  [
+   "synthetix"
+  ]
+ ],
+ [
+  "Spark",
+  "fintech",
+  [
+   "sparkfi",
+   "spark-fi",
+   "phoenixlabs"
+  ]
+ ],
+ [
+  "Dromos Labs (Aerodrome)",
+  "fintech",
+  [
+   "dromoslabs",
+   "aerodrome",
+   "velodrome",
+   "dromos-labs"
+  ]
+ ],
+ [
+  "PancakeSwap",
+  "fintech",
+  [
+   "pancakeswap"
+  ]
+ ],
+ [
+  "Velora (ParaSwap)",
+  "fintech",
+  [
+   "velora",
+   "paraswap"
+  ]
+ ],
+ [
+  "Odos",
+  "fintech",
+  [
+   "odos"
+  ]
+ ],
+ [
+  "Kyber Network",
+  "fintech",
+  [
+   "kybernetwork",
+   "kyber",
+   "kyber-network"
+  ]
+ ],
+ [
+  "Liquity",
+  "fintech",
+  [
+   "liquity"
+  ]
+ ],
+ [
+  "Angle Labs",
+  "fintech",
+  [
+   "anglelabs",
+   "angle",
+   "angle-labs"
+  ]
+ ],
+ [
+  "Reserve",
+  "fintech",
+  [
+   "reserveprotocol",
+   "reserve-protocol"
+  ]
+ ],
+ [
+  "Resolv Labs",
+  "fintech",
+  [
+   "resolvlabs",
+   "resolv",
+   "resolv-labs"
+  ]
+ ],
+ [
+  "Elixir",
+  "fintech",
+  [
+   "elixirprotocol",
+   "elixir-protocol"
+  ]
+ ],
+ [
+  "DeFi Saver",
+  "fintech",
+  [
+   "defisaver",
+   "defi-saver"
+  ]
+ ],
+ [
+  "Zapper",
+  "fintech",
+  [
+   "zapper"
+  ]
+ ],
+ [
+  "Tally",
+  "fintech",
+  [
+   "tallyxyz",
+   "tally-xyz",
+   "withtally"
+  ]
+ ],
+ [
+  "Snapshot Labs",
+  "fintech",
+  [
+   "snapshotlabs",
+   "snapshot",
+   "snapshot-labs"
+  ]
+ ],
+ [
+  "Aragon",
+  "fintech",
+  [
+   "aragon"
+  ]
+ ],
+ [
+  "karpatkey",
+  "fintech",
+  [
+   "karpatkey"
+  ]
+ ],
+ [
+  "Block Analitica",
+  "fintech",
+  [
+   "blockanalitica",
+   "block-analitica"
+  ]
+ ],
+ [
+  "Re7 Capital",
+  "fintech",
+  [
+   "re7capital",
+   "re7",
+   "re7-capital"
+  ]
+ ],
+ [
+  "Veda",
+  "fintech",
+  [
+   "vedalabs",
+   "veda-tech",
+   "veda"
+  ]
+ ],
+ [
+  "Renzo",
+  "fintech",
+  [
+   "renzoprotocol",
+   "renzo"
+  ]
+ ],
+ [
+  "Puffer Finance",
+  "fintech",
+  [
+   "pufferfinance",
+   "puffer",
+   "puffer-finance"
+  ]
+ ],
+ [
+  "Swell",
+  "fintech",
+  [
+   "swellnetwork",
+   "swell-network"
+  ]
+ ],
+ [
+  "Karak",
+  "fintech",
+  [
+   "karak"
+  ]
+ ],
+ [
+  "Lombard",
+  "fintech",
+  [
+   "lombardfinance",
+   "lombard-finance",
+   "lombard"
+  ]
+ ],
+ [
+  "Solv Protocol",
+  "fintech",
+  [
+   "solvprotocol",
+   "solv",
+   "solv-protocol"
+  ]
+ ],
+ [
+  "BOB (Build on Bitcoin)",
+  "fintech",
+  [
+   "gobob",
+   "bob-collective",
+   "distributedcrafts"
+  ]
+ ],
+ [
+  "Meteora",
+  "fintech",
+  [
+   "meteora"
+  ]
+ ],
+ [
+  "Amber Group",
+  "fintech",
+  [
+   "ambergroup",
+   "amber",
+   "amber-group"
+  ]
+ ],
+ [
+  "Auros",
+  "fintech",
+  [
+   "auros"
+  ]
+ ],
+ [
+  "Kronos Research",
+  "fintech",
+  [
+   "kronosresearch",
+   "kronos",
+   "kronos-research"
+  ]
+ ],
+ [
+  "Portofino Technologies",
+  "fintech",
+  [
+   "portofinotechnologies",
+   "portofino",
+   "portofino-technologies"
+  ]
+ ],
+ [
+  "Enigma Securities",
+  "fintech",
+  [
+   "enigmasecurities",
+   "enigma",
+   "enigma-securities"
+  ]
+ ],
+ [
+  "STS Digital",
+  "fintech",
+  [
+   "stsdigital",
+   "sts-digital"
+  ]
+ ],
+ [
+  "HashKey",
+  "fintech",
+  [
+   "hashkey",
+   "hashkeygroup"
+  ]
+ ],
+ [
+  "Laser Digital",
+  "fintech",
+  [
+   "laserdigital",
+   "laser-digital"
+  ]
+ ],
+ [
+  "Crossover Markets",
+  "fintech",
+  [
+   "crossovermarkets",
+   "crossover",
+   "crossover-markets"
+  ]
+ ],
+ [
+  "EDX Markets",
+  "fintech",
+  [
+   "edxmarkets",
+   "edx",
+   "edx-markets"
+  ]
+ ],
+ [
+  "One Trading",
+  "fintech",
+  [
+   "onetrading",
+   "one-trading"
+  ]
+ ],
+ [
+  "Wyden",
+  "fintech",
+  [
+   "wyden"
+  ]
+ ],
+ [
+  "Elwood Technologies",
+  "fintech",
+  [
+   "elwoodtechnologies",
+   "elwood",
+   "elwood-technologies"
+  ]
+ ],
+ [
+  "Tesseract",
+  "fintech",
+  [
+   "tesseractinvestment",
+   "tesseract-investment"
+  ]
+ ],
+ [
+  "DDA (Deutsche Digital Assets)",
+  "fintech",
+  [
+   "dda",
+   "deutschedigitalassets"
+  ]
+ ],
+ [
+  "Tradias",
+  "fintech",
+  [
+   "tradias"
+  ]
+ ],
+ [
+  "Bankhaus Scheich",
+  "fintech",
+  [
+   "bankhausscheich",
+   "scheich",
+   "bankhaus-scheich"
+  ]
+ ],
+ [
+  "Swissquote",
+  "fintech",
+  [
+   "swissquote"
+  ]
+ ],
+ [
+  "Leonteq",
+  "fintech",
+  [
+   "leonteq"
+  ]
+ ],
+ [
+  "AsiaNext",
+  "fintech",
+  [
+   "asianext"
+  ]
+ ],
+ [
+  "Aquanow",
+  "fintech",
+  [
+   "aquanow"
+  ]
+ ],
+ [
+  "Ledn",
+  "fintech",
+  [
+   "ledn"
+  ]
+ ],
+ [
+  "Membrane Labs",
+  "fintech",
+  [
+   "membranelabs",
+   "membrane-labs"
+  ]
+ ],
+ [
+  "Ostium",
+  "fintech",
+  [
+   "ostium"
+  ]
+ ],
+ [
+  "ClearToken",
+  "fintech",
+  [
+   "cleartoken"
+  ]
+ ],
+ [
+  "Enclave Markets",
+  "fintech",
+  [
+   "enclavemarkets",
+   "enclave",
+   "enclave-markets"
+  ]
+ ],
+ [
+  "Architect Financial",
+  "fintech",
+  [
+   "architectfinancial",
+   "architect",
+   "architect-xyz",
+   "architect-financial"
+  ]
+ ],
+ [
+  "CoinRoutes",
+  "fintech",
+  [
+   "coinroutes"
+  ]
+ ],
+ [
+  "sFOX",
+  "fintech",
+  [
+   "sfox"
+  ]
+ ],
+ [
+  "Beeks",
+  "fintech",
+  [
+   "beeks",
+   "beeksgroup"
+  ]
+ ],
+ [
+  "GCEX",
+  "fintech",
+  [
+   "gcex"
+  ]
+ ],
+ [
+  "oneZero",
+  "fintech",
+  [
+   "onezero"
+  ]
+ ],
+ [
+  "Velox",
+  "fintech",
+  [
+   "veloxfintech",
+   "velox-fintech"
+  ]
+ ],
+ [
+  "ipushpull",
+  "fintech",
+  [
+   "ipushpull"
+  ]
+ ],
+ [
+  "Nium",
+  "fintech",
+  [
+   "nium"
+  ]
+ ],
+ [
+  "Thunes",
+  "fintech",
+  [
+   "thunes"
+  ]
+ ],
+ [
+  "TerraPay",
+  "fintech",
+  [
+   "terrapay"
+  ]
+ ],
+ [
+  "dLocal",
+  "fintech",
+  [
+   "dlocal"
+  ]
+ ],
+ [
+  "PayU",
+  "fintech",
+  [
+   "payu"
+  ]
+ ],
+ [
+  "Lemon Squeezy",
+  "fintech",
+  [
+   "lemonsqueezy",
+   "lemon-squeezy"
+  ]
+ ],
+ [
+  "Chargebee",
+  "fintech",
+  [
+   "chargebee"
+  ]
+ ],
+ [
+  "OpenPayd",
+  "fintech",
+  [
+   "openpayd"
+  ]
+ ],
+ [
+  "Currencycloud",
+  "fintech",
+  [
+   "currencycloud"
+  ]
+ ],
+ [
+  "Xpollens",
+  "fintech",
+  [
+   "xpollens"
+  ]
+ ],
+ [
+  "Toqio",
+  "fintech",
+  [
+   "toqio"
+  ]
+ ],
+ [
+  "Paynetics",
+  "fintech",
+  [
+   "paynetics"
+  ]
+ ],
+ [
+  "Intergiro",
+  "fintech",
+  [
+   "intergiro"
+  ]
+ ],
+ [
+  "Monavate",
+  "fintech",
+  [
+   "monavate"
+  ]
+ ],
+ [
+  "Tuum",
+  "fintech",
+  [
+   "tuum"
+  ]
+ ],
+ [
+  "Ohpen",
+  "fintech",
+  [
+   "ohpen"
+  ]
+ ],
+ [
+  "Five Degrees",
+  "fintech",
+  [
+   "fivedegrees",
+   "five-degrees"
+  ]
+ ],
+ [
+  "Skaleet",
+  "fintech",
+  [
+   "skaleet"
+  ]
+ ],
+ [
+  "additiv",
+  "fintech",
+  [
+   "additiv"
+  ]
+ ],
+ [
+  "Meniga",
+  "fintech",
+  [
+   "meniga"
+  ]
+ ],
+ [
+  "Bud Financial",
+  "fintech",
+  [
+   "budfinancial",
+   "bud",
+   "thisisbud",
+   "bud-financial"
+  ]
+ ],
+ [
+  "Moneyhub",
+  "fintech",
+  [
+   "moneyhub"
+  ]
+ ],
+ [
+  "Brite Payments",
+  "fintech",
+  [
+   "britepayments",
+   "brite",
+   "brite-payments"
+  ]
+ ],
+ [
+  "Ivy",
+  "fintech",
+  [
+   "getivy",
+   "ivy-pay"
+  ]
+ ],
+ [
+  "Banked",
+  "fintech",
+  [
+   "banked"
+  ]
+ ],
+ [
+  "Vyne",
+  "fintech",
+  [
+   "payvyne",
+   "vyne"
+  ]
+ ],
+ [
+  "Atoa",
+  "fintech",
+  [
+   "atoa"
+  ]
+ ],
+ [
+  "Noda",
+  "fintech",
+  [
+   "nodapay",
+   "noda-live"
+  ]
+ ],
+ [
+  "Zimpler",
+  "fintech",
+  [
+   "zimpler"
+  ]
+ ],
+ [
+  "re:cap",
+  "fintech",
+  [
+   "recap",
+   "recap-finance",
+   "recapfinance",
+   "re-cap"
+  ]
+ ],
+ [
+  "Karmen",
+  "fintech",
+  [
+   "karmen"
+  ]
+ ],
+ [
+  "Banxware",
+  "fintech",
+  [
+   "banxware"
+  ]
+ ],
+ [
+  "Fairscore",
+  "fintech",
+  [
+   "fairscore"
+  ]
+ ],
+ [
+  "Creditspring",
+  "fintech",
+  [
+   "creditspring"
+  ]
+ ],
+ [
+  "Updraft",
+  "fintech",
+  [
+   "updraft"
+  ]
+ ],
+ [
+  "Tembo",
+  "fintech",
+  [
+   "tembomoney",
+   "tembo-money"
+  ]
+ ],
+ [
+  "Habito",
+  "fintech",
+  [
+   "habito"
+  ]
+ ],
+ [
+  "Gen H",
+  "fintech",
+  [
+   "genh",
+   "generationhome",
+   "gen-h"
+  ]
+ ],
+ [
+  "LendInvest",
+  "fintech",
+  [
+   "lendinvest"
+  ]
+ ],
+ [
+  "Perenna",
+  "fintech",
+  [
+   "perenna"
+  ]
+ ],
+ [
+  "Mettle",
+  "fintech",
+  [
+   "mettle"
+  ]
+ ],
+ [
+  "Shine",
+  "fintech",
+  [
+   "shine-co",
+   "shinecompany"
+  ]
+ ],
+ [
+  "Memo Bank",
+  "fintech",
+  [
+   "memobank",
+   "memo-bank"
+  ]
+ ],
+ [
+  "Kontist",
+  "fintech",
+  [
+   "kontist"
+  ]
+ ],
+ [
+  "Holvi",
+  "fintech",
+  [
+   "holvi"
+  ]
+ ],
+ [
+  "Knab",
+  "fintech",
+  [
+   "knab"
+  ]
+ ],
+ [
+  "Chetwood Bank",
+  "fintech",
+  [
+   "chetwoodbank",
+   "chetwood",
+   "chetwoodfinancial",
+   "chetwood-bank"
+  ]
+ ],
+ [
+  "GB Bank",
+  "fintech",
+  [
+   "gbbank",
+   "gb-bank"
+  ]
+ ],
+ [
+  "Cledara",
+  "fintech",
+  [
+   "cledara"
+  ]
+ ],
+ [
+  "Volopa",
+  "fintech",
+  [
+   "volopa"
+  ]
+ ],
+ [
+  "Tipalti",
+  "fintech",
+  [
+   "tipalti"
+  ]
+ ],
+ [
+  "Libeo",
+  "fintech",
+  [
+   "libeo"
+  ]
+ ],
+ [
+  "Upflow",
+  "fintech",
+  [
+   "upflow"
+  ]
+ ],
+ [
+  "Chaser",
+  "fintech",
+  [
+   "chaserhq",
+   "chaser-hq"
+  ]
+ ],
+ [
+  "Payflows",
+  "fintech",
+  [
+   "payflows"
+  ]
+ ],
+ [
+  "Mondu",
+  "fintech",
+  [
+   "mondu"
+  ]
+ ],
+ [
+  "Two",
+  "fintech",
+  [
+   "two-inc",
+   "twoinc",
+   "tillit"
+  ]
+ ],
+ [
+  "Treyd",
+  "fintech",
+  [
+   "treyd"
+  ]
+ ],
+ [
+  "Sprinque",
+  "fintech",
+  [
+   "sprinque"
+  ]
+ ],
+ [
+  "Wagestream",
+  "fintech",
+  [
+   "wagestream"
+  ]
+ ],
+ [
+  "Salary Finance",
+  "fintech",
+  [
+   "salaryfinance",
+   "salary-finance"
+  ]
+ ],
+ [
+  "Payflow",
+  "fintech",
+  [
+   "payflow-es",
+   "payflowes",
+   "payflow"
+  ]
+ ],
+ [
+  "InvestEngine",
+  "fintech",
+  [
+   "investengine"
+  ]
+ ],
+ [
+  "Penfold",
+  "fintech",
+  [
+   "penfold"
+  ]
+ ],
+ [
+  "Seccl",
+  "fintech",
+  [
+   "seccl"
+  ]
+ ],
+ [
+  "WealthKernel",
+  "fintech",
+  [
+   "wealthkernel"
+  ]
+ ],
+ [
+  "FNZ",
+  "fintech",
+  [
+   "fnz"
+  ]
+ ],
+ [
+  "Fundment",
+  "fintech",
+  [
+   "fundment"
+  ]
+ ],
+ [
+  "Bravura Solutions",
+  "fintech",
+  [
+   "bravurasolutions",
+   "bravura",
+   "bravura-solutions"
+  ]
+ ],
+ [
+  "aixigo",
+  "fintech",
+  [
+   "aixigo"
+  ]
+ ],
+ [
+  "InvestSuite",
+  "fintech",
+  [
+   "investsuite"
+  ]
+ ],
+ [
+  "Velexa",
+  "fintech",
+  [
+   "velexa"
+  ]
+ ],
+ [
+  "DriveWealth",
+  "fintech",
+  [
+   "drivewealth"
+  ]
+ ],
+ [
+  "Bambu",
+  "fintech",
+  [
+   "bambu"
+  ]
+ ],
+ [
+  "Etops",
+  "fintech",
+  [
+   "etops"
+  ]
+ ],
+ [
+  "Altoo",
+  "fintech",
+  [
+   "altoo"
+  ]
+ ],
+ [
+  "Performativ",
+  "fintech",
+  [
+   "performativ"
+  ]
+ ],
+ [
+  "Ramify",
+  "fintech",
+  [
+   "ramify"
+  ]
+ ],
+ [
+  "Goodvest",
+  "fintech",
+  [
+   "goodvest"
+  ]
+ ],
+ [
+  "NAGA",
+  "fintech",
+  [
+   "naga",
+   "nagagroup"
+  ]
+ ],
+ [
+  "XTB",
+  "fintech",
+  [
+   "xtb"
+  ]
+ ],
+ [
+  "Tastytrade",
+  "fintech",
+  [
+   "tastytrade"
+  ]
+ ],
+ [
+  "Crowdcube",
+  "fintech",
+  [
+   "crowdcube"
+  ]
+ ],
+ [
+  "PrimaryBid",
+  "fintech",
+  [
+   "primarybid"
+  ]
+ ],
+ [
+  "Floww",
+  "fintech",
+  [
+   "floww"
+  ]
+ ],
+ [
+  "Forge Global",
+  "fintech",
+  [
+   "forgeglobal",
+   "forge",
+   "forge-global"
+  ]
+ ],
+ [
+  "Caplight",
+  "fintech",
+  [
+   "caplight"
+  ]
+ ],
+ [
+  "SeedLegals",
+  "fintech",
+  [
+   "seedlegals"
+  ]
+ ],
+ [
+  "Vestd",
+  "fintech",
+  [
+   "vestd"
+  ]
+ ],
+ [
+  "Global Shares",
+  "fintech",
+  [
+   "globalshares",
+   "global-shares"
+  ]
+ ],
+ [
+  "Cake Equity",
+  "fintech",
+  [
+   "cakeequity",
+   "cake",
+   "cake-equity"
+  ]
+ ],
+ [
+  "Juniper Square",
+  "fintech",
+  [
+   "junipersquare",
+   "juniper-square"
+  ]
+ ],
+ [
+  "Anduin",
+  "fintech",
+  [
+   "anduin",
+   "anduintransact"
+  ]
+ ],
+ [
+  "Passthrough",
+  "fintech",
+  [
+   "passthrough"
+  ]
+ ],
+ [
+  "Canoe Intelligence",
+  "fintech",
+  [
+   "canoeintelligence",
+   "canoe",
+   "canoe-intelligence"
+  ]
+ ],
+ [
+  "73 Strings",
+  "fintech",
+  [
+   "73strings",
+   "73-strings"
+  ]
+ ],
+ [
+  "Dasseti",
+  "fintech",
+  [
+   "dasseti"
+  ]
+ ],
+ [
+  "Limina",
+  "fintech",
+  [
+   "limina"
+  ]
+ ],
+ [
+  "fundcraft",
+  "fintech",
+  [
+   "fundcraft"
+  ]
+ ],
+ [
+  "Goji",
+  "fintech",
+  [
+   "gojiinvestments",
+   "goji"
+  ]
+ ],
+ [
+  "Vestlane",
+  "fintech",
+  [
+   "vestlane"
+  ]
+ ],
+ [
+  "Fenergo",
+  "fintech",
+  [
+   "fenergo"
+  ]
+ ],
+ [
+  "Resistant AI",
+  "fintech",
+  [
+   "resistantai",
+   "resistant-ai"
+  ]
+ ],
+ [
+  "Sphinx",
+  "fintech",
+  [
+   "sphinxlabs",
+   "sphinx-labs",
+   "sphinxhq"
+  ]
+ ],
+ [
+  "Greenlite AI",
+  "fintech",
+  [
+   "greenliteai",
+   "greenlite",
+   "greenlite-ai"
+  ]
+ ],
+ [
+  "Norm AI",
+  "fintech",
+  [
+   "normai",
+   "norm-ai"
+  ]
+ ],
+ [
+  "Dotfile",
+  "fintech",
+  [
+   "dotfile"
+  ]
+ ],
+ [
+  "Detected",
+  "fintech",
+  [
+   "detected-app",
+   "detectedapp"
+  ]
+ ],
+ [
+  "Kyckr",
+  "fintech",
+  [
+   "kyckr"
+  ]
+ ],
+ [
+  "Encompass",
+  "fintech",
+  [
+   "encompass",
+   "encompasscorporation",
+   "encompass-corporation"
+  ]
+ ],
+ [
+  "ComplyCube",
+  "fintech",
+  [
+   "complycube"
+  ]
+ ],
+ [
+  "Zenoo",
+  "fintech",
+  [
+   "zenoo"
+  ]
+ ],
+ [
+  "Jumio",
+  "fintech",
+  [
+   "jumio"
+  ]
+ ],
+ [
+  "Keyless",
+  "fintech",
+  [
+   "keyless"
+  ]
+ ],
+ [
+  "Prove",
+  "fintech",
+  [
+   "prove-identity",
+   "proveidentity"
+  ]
+ ],
+ [
+  "Fraudio",
+  "fintech",
+  [
+   "fraudio"
+  ]
+ ],
+ [
+  "Sift",
+  "fintech",
+  [
+   "sift",
+   "siftscience"
+  ]
+ ],
+ [
+  "BioCatch",
+  "fintech",
+  [
+   "biocatch"
+  ]
+ ],
+ [
+  "Callsign",
+  "fintech",
+  [
+   "callsign"
+  ]
+ ],
+ [
+  "Cleafy",
+  "fintech",
+  [
+   "cleafy"
+  ]
+ ],
+ [
+  "Silent Eight",
+  "fintech",
+  [
+   "silenteight",
+   "silent-eight"
+  ]
+ ],
+ [
+  "Cable",
+  "fintech",
+  [
+   "cabletech",
+   "cable-tech"
+  ]
+ ],
+ [
+  "Zango",
+  "fintech",
+  [
+   "zangoai",
+   "zango-ai"
+  ]
+ ],
+ [
+  "Regnology",
+  "fintech",
+  [
+   "regnology"
+  ]
+ ],
+ [
+  "Suade Labs",
+  "fintech",
+  [
+   "suadelabs",
+   "suade",
+   "suade-labs"
+  ]
+ ],
+ [
+  "CUBE",
+  "fintech",
+  [
+   "cubeglobal",
+   "cube-global"
+  ]
+ ],
+ [
+  "Corlytics",
+  "fintech",
+  [
+   "corlytics"
+  ]
+ ],
+ [
+  "Behavox",
+  "fintech",
+  [
+   "behavox"
+  ]
+ ],
+ [
+  "SteelEye",
+  "fintech",
+  [
+   "steeleye"
+  ]
+ ],
+ [
+  "eflow",
+  "fintech",
+  [
+   "eflow",
+   "eflowglobal"
+  ]
+ ],
+ [
+  "Eventus",
+  "fintech",
+  [
+   "eventus",
+   "eventussystems"
+  ]
+ ],
+ [
+  "Solidus Labs",
+  "fintech",
+  [
+   "soliduslabs",
+   "solidus",
+   "solidus-labs"
+  ]
+ ],
+ [
+  "21 Analytics",
+  "fintech",
+  [
+   "21analytics",
+   "21-analytics"
+  ]
+ ],
+ [
+  "Clark",
+  "fintech",
+  [
+   "clark-de",
+   "clarkgermany",
+   "clark"
+  ]
+ ],
+ [
+  "Feather",
+  "fintech",
+  [
+   "feather-insurance",
+   "featherinsurance",
+   "feather"
+  ]
+ ],
+ [
+  "ottonova",
+  "fintech",
+  [
+   "ottonova"
+  ]
+ ],
+ [
+  "ELEMENT Insurance",
+  "fintech",
+  [
+   "elementinsurance",
+   "element",
+   "element-insurance"
+  ]
+ ],
+ [
+  "Wakam",
+  "fintech",
+  [
+   "wakam"
+  ]
+ ],
+ [
+  "Leocare",
+  "fintech",
+  [
+   "leocare"
+  ]
+ ],
+ [
+  "Ornikar",
+  "fintech",
+  [
+   "ornikar"
+  ]
+ ],
+ [
+  "Lovys",
+  "fintech",
+  [
+   "lovys"
+  ]
+ ],
+ [
+  "Akur8",
+  "fintech",
+  [
+   "akur8"
+  ]
+ ],
+ [
+  "Zelros",
+  "fintech",
+  [
+   "zelros"
+  ]
+ ],
+ [
+  "hyperexponential",
+  "fintech",
+  [
+   "hyperexponential",
+   "hx"
+  ]
+ ],
+ [
+  "Concirrus",
+  "fintech",
+  [
+   "concirrus"
+  ]
+ ],
+ [
+  "Ki Insurance",
+  "fintech",
+  [
+   "kiinsurance",
+   "ki",
+   "ki-insurance"
+  ]
+ ],
+ [
+  "Novidea",
+  "fintech",
+  [
+   "novidea"
+  ]
+ ],
+ [
+  "INSTANDA",
+  "fintech",
+  [
+   "instanda"
+  ]
+ ],
+ [
+  "Send Technology",
+  "fintech",
+  [
+   "sendtechnology",
+   "send",
+   "send-technology"
+  ]
+ ],
+ [
+  "Insurwave",
+  "fintech",
+  [
+   "insurwave"
+  ]
+ ],
+ [
+  "Cuvva",
+  "fintech",
+  [
+   "cuvva"
+  ]
+ ],
+ [
+  "By Miles",
+  "fintech",
+  [
+   "bymiles",
+   "by-miles"
+  ]
+ ],
+ [
+  "Urban Jungle",
+  "fintech",
+  [
+   "urbanjungle",
+   "urban-jungle"
+  ]
+ ],
+ [
+  "Hometree",
+  "fintech",
+  [
+   "hometree"
+  ]
+ ],
+ [
+  "YuLife",
+  "fintech",
+  [
+   "yulife"
+  ]
+ ],
+ [
+  "Collective Benefits",
+  "fintech",
+  [
+   "collectivebenefits",
+   "collective-benefits"
+  ]
+ ],
+ [
+  "Companjon",
+  "fintech",
+  [
+   "companjon"
+  ]
+ ],
+ [
+  "bolttech",
+  "fintech",
+  [
+   "bolttech"
+  ]
+ ],
+ [
+  "Prima",
+  "fintech",
+  [
+   "prima",
+   "primaassicurazioni",
+   "helloprima"
+  ]
+ ],
+ [
+  "Lassie",
+  "fintech",
+  [
+   "lassie"
+  ]
+ ],
+ [
+  "Hedvig",
+  "fintech",
+  [
+   "hedvig"
+  ]
+ ],
+ [
+  "Insurely",
+  "fintech",
+  [
+   "insurely"
+  ]
+ ],
+ [
+  "Dalma",
+  "fintech",
+  [
+   "dalma"
+  ]
+ ],
+ [
+  "Kasko",
+  "fintech",
+  [
+   "kasko"
+  ]
+ ],
+ [
+  "Stoïk",
+  "fintech",
+  [
+   "stok",
+   "stoik",
+   "sto-k"
+  ]
+ ],
+ [
+  "Ominimo",
+  "fintech",
+  [
+   "ominimo"
+  ]
+ ],
+ [
+  "Five Sigma",
+  "fintech",
+  [
+   "fivesigma",
+   "fivesigmalabs",
+   "five-sigma"
+  ]
+ ],
+ [
+  "Earnix",
+  "fintech",
+  [
+   "earnix"
+  ]
+ ],
+ [
+  "Socotra",
+  "fintech",
+  [
+   "socotra"
+  ]
+ ],
+ [
+  "Habit Analytics",
+  "fintech",
+  [
+   "habitanalytics",
+   "habit",
+   "habit-analytics"
+  ]
+ ],
+ [
+  "Fintool",
+  "fintech",
+  [
+   "fintool"
+  ]
+ ],
+ [
+  "Brightwave",
+  "fintech",
+  [
+   "brightwave"
+  ]
+ ],
+ [
+  "Daloopa",
+  "fintech",
+  [
+   "daloopa"
+  ]
+ ],
+ [
+  "Auquan",
+  "fintech",
+  [
+   "auquan"
+  ]
+ ],
+ [
+  "Finster AI",
+  "fintech",
+  [
+   "finsterai",
+   "finster",
+   "finster-ai"
+  ]
+ ],
+ [
+  "Model ML",
+  "fintech",
+  [
+   "modelml",
+   "model-ml"
+  ]
+ ],
+ [
+  "Trullion",
+  "fintech",
+  [
+   "trullion"
+  ]
+ ],
+ [
+  "Tabs",
+  "fintech",
+  [
+   "tabs-inc",
+   "tabsplatform",
+   "tabs"
+  ]
+ ],
+ [
+  "Stuut",
+  "fintech",
+  [
+   "stuut"
+  ]
+ ],
+ [
+  "Nominal",
+  "fintech",
+  [
+   "nominal-so",
+   "nominalso"
+  ]
+ ],
+ [
+  "FloQast",
+  "fintech",
+  [
+   "floqast"
+  ]
+ ],
+ [
+  "Ledge",
+  "fintech",
+  [
+   "ledgeco",
+   "ledge-co",
+   "ledge"
+  ]
+ ],
+ [
+  "Briefcase",
+  "fintech",
+  [
+   "briefcase-so",
+   "usebriefcase"
+  ]
+ ],
+ [
+  "Truewind",
+  "fintech",
+  [
+   "truewind"
+  ]
+ ],
+ [
+  "Vic.ai",
+  "fintech",
+  [
+   "vicai",
+   "vic-ai"
+  ]
+ ],
+ [
+  "Samaya AI",
+  "fintech",
+  [
+   "samayaai",
+   "samaya",
+   "samaya-ai"
+  ]
+ ],
+ [
+  "Ntropy",
+  "fintech",
+  [
+   "ntropy"
+  ]
+ ],
+ [
+  "Maybern",
+  "fintech",
+  [
+   "maybern"
+  ]
+ ],
+ [
+  "Hadrius",
+  "fintech",
+  [
+   "hadrius"
+  ]
+ ],
+ [
+  "Parcha",
+  "fintech",
+  [
+   "parcha"
+  ]
+ ],
+ [
+  "Duna",
+  "fintech",
+  [
+   "duna"
+  ]
+ ],
+ [
+  "Arva AI",
+  "fintech",
+  [
+   "arvaai",
+   "arva",
+   "arva-ai"
+  ]
+ ],
+ [
+  "Casap",
+  "fintech",
+  [
+   "casap"
+  ]
+ ],
+ [
+  "Spektr",
+  "fintech",
+  [
+   "spektr"
+  ]
+ ],
+ [
+  "Bretton AI",
+  "fintech",
+  [
+   "brettonai",
+   "bretton",
+   "bretton-ai"
+  ]
+ ],
+ [
+  "Farsight AI",
+  "fintech",
+  [
+   "farsightai",
+   "farsight",
+   "farsight-ai"
+  ]
+ ],
+ [
+  "Boosted.ai",
+  "fintech",
+  [
+   "boostedai",
+   "boosted",
+   "boosted-ai"
+  ]
+ ],
+ [
+  "RavenPack",
+  "fintech",
+  [
+   "ravenpack",
+   "bigdata"
+  ]
+ ],
+ [
+  "Aveni",
+  "fintech",
+  [
+   "aveni"
+  ]
+ ],
+ [
+  "Arta Finance",
+  "fintech",
+  [
+   "artafinance",
+   "arta",
+   "arta-finance"
+  ]
+ ],
+ [
+  "Zocks",
+  "fintech",
+  [
+   "zocks"
+  ]
+ ],
+ [
+  "Vega",
+  "fintech",
+  [
+   "vega-wealth",
+   "vegawealth",
+   "vega"
+  ]
+ ],
+ [
+  "Kennek",
+  "fintech",
+  [
+   "kennek"
+  ]
+ ],
+ [
+  "Oper Credits",
+  "fintech",
+  [
+   "opercredits",
+   "oper",
+   "oper-credits"
+  ]
+ ],
+ [
+  "finmid",
+  "fintech",
+  [
+   "finmid"
+  ]
+ ],
+ [
+  "topi",
+  "fintech",
+  [
+   "topi"
+  ]
+ ],
+ [
+  "Froda",
+  "fintech",
+  [
+   "froda"
+  ]
+ ],
+ [
+  "Aria",
+  "fintech",
+  [
+   "helloaria",
+   "aria-finance"
+  ]
+ ],
+ [
+  "Indy",
+  "fintech",
+  [
+   "indy-fr",
+   "indy"
+  ]
+ ],
+ [
+  "Sorted",
+  "fintech",
+  [
+   "getsorted",
+   "sorted"
+  ]
+ ],
+ [
+  "TaxScouts",
+  "fintech",
+  [
+   "taxscouts"
+  ]
+ ],
+ [
+  "Taxdoo",
+  "fintech",
+  [
+   "taxdoo"
+  ]
+ ],
+ [
+  "Fonoa",
+  "fintech",
+  [
+   "fonoa"
+  ]
+ ],
+ [
+  "Anrok",
+  "fintech",
+  [
+   "anrok"
+  ]
+ ],
+ [
+  "Numeral",
+  "fintech",
+  [
+   "numeralhq",
+   "numeral-hq",
+   "numeral"
+  ]
+ ],
+ [
+  "Kintsugi",
+  "fintech",
+  [
+   "trykintsugi",
+   "kintsugi"
+  ]
+ ],
+ [
+  "Taxually",
+  "fintech",
+  [
+   "taxually"
+  ]
+ ],
+ [
+  "Staxxer",
+  "fintech",
+  [
+   "staxxer"
+  ]
+ ],
+ [
+  "Storecove",
+  "fintech",
+  [
+   "storecove"
+  ]
+ ],
+ [
+  "Pagero",
+  "fintech",
+  [
+   "pagero"
+  ]
+ ],
+ [
+  "Banqup (Unifiedpost)",
+  "fintech",
+  [
+   "banqup",
+   "unifiedpost"
+  ]
+ ],
+ [
+  "Atlar",
+  "fintech",
+  [
+   "atlar"
+  ]
+ ],
+ [
+  "Nilus",
+  "fintech",
+  [
+   "nilus"
+  ]
+ ],
+ [
+  "Panax",
+  "fintech",
+  [
+   "panax",
+   "thepanax"
+  ]
+ ],
+ [
+  "Automata",
+  "fintech",
+  [
+   "automatafinance",
+   "automata-finance"
+  ]
+ ],
+ [
+  "TreasurySpring",
+  "fintech",
+  [
+   "treasuryspring"
+  ]
+ ],
+ [
+  "Cobase",
+  "fintech",
+  [
+   "cobase"
+  ]
+ ],
+ [
+  "Nomentia",
+  "fintech",
+  [
+   "nomentia"
+  ]
+ ],
+ [
+  "iBanFirst",
+  "fintech",
+  [
+   "ibanfirst"
+  ]
+ ],
+ [
+  "Convera",
+  "fintech",
+  [
+   "convera"
+  ]
+ ],
+ [
+  "Bound",
+  "fintech",
+  [
+   "bound-fx",
+   "boundfx",
+   "bound"
+  ]
+ ],
+ [
+  "HedgeFlows",
+  "fintech",
+  [
+   "hedgeflows"
+  ]
+ ],
+ [
+  "MillTech",
+  "fintech",
+  [
+   "milltech"
+  ]
+ ],
+ [
+  "Grain",
+  "fintech",
+  [
+   "grainfinance",
+   "grain-finance"
+  ]
+ ],
+ [
+  "Okoora",
+  "fintech",
+  [
+   "okoora"
+  ]
+ ],
+ [
+  "Verto",
+  "fintech",
+  [
+   "vertofx",
+   "verto"
+  ]
+ ],
+ [
+  "Pigment",
+  "fintech",
+  [
+   "pigment"
+  ]
+ ],
+ [
+  "Abacum",
+  "fintech",
+  [
+   "abacum"
+  ]
+ ],
+ [
+  "Solidgate",
+  "fintech",
+  [
+   "solidgate"
+  ]
+ ],
+ [
+  "Corefy",
+  "fintech",
+  [
+   "corefy"
+  ]
+ ],
+ [
+  "Fondy",
+  "fintech",
+  [
+   "fondy"
+  ]
+ ],
+ [
+  "Fintech Farm",
+  "fintech",
+  [
+   "fintechfarm",
+   "fintech-farm"
+  ]
+ ],
+ [
+  "Fintech Band (monobank)",
+  "fintech",
+  [
+   "fintechband",
+   "monobank",
+   "fintech-band"
+  ]
+ ],
+ [
+  "Weld Money",
+  "fintech",
+  [
+   "weldmoney",
+   "weld",
+   "weld-money"
+  ]
+ ],
+ [
+  "Kuna",
+  "fintech",
+  [
+   "kuna"
+  ]
+ ],
+ [
+  "MacPaw",
+  "tech",
+  [
+   "macpaw"
+  ]
+ ],
+ [
+  "Ajax Systems",
+  "tech",
+  [
+   "ajaxsystems",
+   "ajax",
+   "ajax-systems"
+  ]
+ ],
+ [
+  "Jooble",
+  "tech",
+  [
+   "jooble"
+  ]
+ ],
+ [
+  "Readdle",
+  "tech",
+  [
+   "readdle"
+  ]
+ ],
+ [
+  "airSlate",
+  "tech",
+  [
+   "airslate"
+  ]
+ ],
+ [
+  "Uklon",
+  "tech",
+  [
+   "uklon"
+  ]
+ ],
+ [
+  "Mate academy",
+  "tech",
+  [
+   "mateacademy",
+   "mate",
+   "mate-academy"
+  ]
+ ],
+ [
+  "Headway",
+  "tech",
+  [
+   "headway-app",
+   "headwayapp",
+   "headway"
+  ]
+ ],
+ [
+  "OBRIO",
+  "tech",
+  [
+   "obrio"
+  ]
+ ],
+ [
+  "Universe Group",
+  "tech",
+  [
+   "universegroup",
+   "universe",
+   "universe-group"
+  ]
+ ],
+ [
+  "Genesis",
+  "tech",
+  [
+   "genesis-tech",
+   "genesistech",
+   "gen-tech"
+  ]
+ ],
+ [
+  "Osavul",
+  "tech",
+  [
+   "osavul"
+  ]
+ ],
+ [
+  "SIBS",
+  "fintech",
+  [
+   "sibs"
+  ]
+ ],
+ [
+  "Switch Payments",
+  "fintech",
+  [
+   "switchpayments",
+   "switch",
+   "switch-payments"
+  ]
+ ],
+ [
+  "Easypay",
+  "fintech",
+  [
+   "easypay"
+  ]
+ ],
+ [
+  "StudentFinance",
+  "fintech",
+  [
+   "studentfinance"
+  ]
+ ],
+ [
+  "Critical Software",
+  "tech",
+  [
+   "criticalsoftware",
+   "critical-software"
+  ]
+ ],
+ [
+  "Critical TechWorks",
+  "tech",
+  [
+   "criticaltechworks",
+   "critical-techworks"
+  ]
+ ],
+ [
+  "Mercedes-Benz.io",
+  "tech",
+  [
+   "mercedesbenzio",
+   "mercedes-benz-io",
+   "mercedes-benzio"
+  ]
+ ],
+ [
+  "Volkswagen Digital Solutions",
+  "tech",
+  [
+   "volkswagendigitalsolutions",
+   "vwds",
+   "volkswagen-digital-solutions"
+  ]
+ ],
+ [
+  "Infraspeak",
+  "tech",
+  [
+   "infraspeak"
+  ]
+ ],
+ [
+  "Sensei",
+  "tech",
+  [
+   "sensei-tech",
+   "senseitech"
+  ]
+ ],
+ [
+  "Kitch",
+  "tech",
+  [
+   "kitch"
+  ]
+ ],
+ [
+  "Indie Campers",
+  "tech",
+  [
+   "indiecampers",
+   "indie-campers"
+  ]
+ ],
+ [
+  "Amplemarket",
+  "tech",
+  [
+   "amplemarket"
+  ]
+ ],
+ [
+  "Rows",
+  "tech",
+  [
+   "rows"
+  ]
+ ],
+ [
+  "Defined.ai",
+  "tech",
+  [
+   "definedai",
+   "defined-ai",
+   "definedcrowd"
+  ]
+ ],
+ [
+  "YData",
+  "tech",
+  [
+   "ydata"
+  ]
+ ],
+ [
+  "Kpler",
+  "tech",
+  [
+   "kpler"
+  ]
+ ],
+ [
+  "Zharta",
+  "fintech",
+  [
+   "zharta"
+  ]
+ ],
+ [
+  "TAIKAI (LayerX)",
+  "fintech",
+  [
+   "taikai",
+   "layerx"
+  ]
+ ],
+ [
+  "Subvisual",
+  "fintech",
+  [
+   "subvisual"
+  ]
+ ],
+ [
+  "Alpine Eagle",
+  "tech",
+  [
+   "alpineeagle",
+   "alpine-eagle"
+  ]
+ ],
+ [
+  "Tytan Technologies",
+  "tech",
+  [
+   "tytantechnologies",
+   "tytan",
+   "tytan-technologies"
+  ]
+ ],
+ [
+  "Nordic Air Defence",
+  "tech",
+  [
+   "nordicairdefence",
+   "nad",
+   "nordic-air-defence"
+  ]
+ ],
+ [
+  "Destinus",
+  "tech",
+  [
+   "destinus"
+  ]
+ ],
+ [
+  "Harmattan AI",
+  "tech",
+  [
+   "harmattanai",
+   "harmattan",
+   "harmattan-ai"
+  ]
+ ],
+ [
+  "Kraken Technology Group",
+  "tech",
+  [
+   "krakentechnologygroup",
+   "kraken-technology",
+   "kraken-technology-group"
+  ]
+ ],
+ [
+  "Hadean",
+  "tech",
+  [
+   "hadean"
+  ]
+ ],
+ [
+  "Rowden Technologies",
+  "tech",
+  [
+   "rowdentechnologies",
+   "rowden",
+   "rowden-technologies"
+  ]
+ ],
+ [
+  "Adarga",
+  "tech",
+  [
+   "adarga"
+  ]
+ ],
+ [
+  "Faculty",
+  "tech",
+  [
+   "faculty",
+   "facultyai"
+  ]
+ ],
+ [
+  "Labrys Technologies",
+  "tech",
+  [
+   "labrystechnologies",
+   "labrys",
+   "labrys-technologies"
+  ]
+ ],
+ [
+  "Milrem Robotics",
+  "tech",
+  [
+   "milremrobotics",
+   "milrem",
+   "milrem-robotics"
+  ]
+ ],
+ [
+  "Frankenburg Technologies",
+  "tech",
+  [
+   "frankenburgtechnologies",
+   "frankenburg",
+   "frankenburg-technologies"
+  ]
+ ],
+ [
+  "SensusQ",
+  "tech",
+  [
+   "sensusq"
+  ]
+ ],
+ [
+  "ICEYE",
+  "tech",
+  [
+   "iceye"
+  ]
+ ],
+ [
+  "The Exploration Company",
+  "tech",
+  [
+   "theexplorationcompany",
+   "exploration",
+   "the-exploration-company"
+  ]
+ ],
+ [
+  "Reflex Aerospace",
+  "tech",
+  [
+   "reflexaerospace",
+   "reflex-aerospace"
+  ]
+ ],
+ [
+  "Energy Web",
+  "tech",
+  [
+   "energyweb",
+   "energy-web"
+  ]
+ ],
+ [
+  "Powerledger",
+  "tech",
+  [
+   "powerledger"
+  ]
+ ],
+ [
+  "FlexiDAO",
+  "tech",
+  [
+   "flexidao"
+  ]
+ ],
+ [
+  "Granular Energy",
+  "tech",
+  [
+   "granularenergy",
+   "granular",
+   "granular-energy"
+  ]
+ ],
+ [
+  "Axle Energy",
+  "tech",
+  [
+   "axleenergy",
+   "axle",
+   "axle-energy"
+  ]
+ ],
+ [
+  "Fuse Energy",
+  "tech",
+  [
+   "fuseenergy",
+   "fuse",
+   "fuse-energy"
+  ]
+ ],
+ [
+  "Cloover",
+  "fintech",
+  [
+   "cloover"
+  ]
+ ],
+ [
+  "Xpansiv",
+  "fintech",
+  [
+   "xpansiv"
+  ]
+ ],
+ [
+  "Carbonplace",
+  "fintech",
+  [
+   "carbonplace"
+  ]
+ ],
+ [
+  "Sylvera",
+  "tech",
+  [
+   "sylvera"
+  ]
+ ],
+ [
+  "BeZero Carbon",
+  "tech",
+  [
+   "bezerocarbon",
+   "bezero",
+   "bezero-carbon"
+  ]
+ ],
+ [
+  "CarbonChain",
+  "tech",
+  [
+   "carbonchain"
+  ]
+ ],
+ [
+  "Senken",
+  "fintech",
+  [
+   "senken"
+  ]
+ ],
+ [
+  "Modo Energy",
+  "tech",
+  [
+   "modoenergy",
+   "modo",
+   "modo-energy"
+  ]
+ ],
+ [
+  "gridX",
+  "tech",
+  [
+   "gridx"
+  ]
+ ],
+ [
+  "tado",
+  "tech",
+  [
+   "tado"
+  ]
+ ],
+ [
+  "Duolingo",
+  "tech",
+  [
+   "duolingo"
+  ]
+ ],
+ [
+  "Lingoda",
+  "tech",
+  [
+   "lingoda"
+  ]
+ ],
+ [
+  "Labster",
+  "tech",
+  [
+   "labster"
+  ]
+ ],
+ [
+  "Mentimeter",
+  "tech",
+  [
+   "mentimeter"
+  ]
+ ],
+ [
+  "Docebo",
+  "tech",
+  [
+   "docebo"
+  ]
+ ],
+ [
+  "360Learning",
+  "tech",
+  [
+   "360learning"
+  ]
+ ],
+ [
+  "Sana Labs",
+  "tech",
+  [
+   "sanalabs",
+   "sana",
+   "sana-labs"
+  ]
+ ],
+ [
+  "Speak",
+  "tech",
+  [
+   "speak",
+   "usespeak"
+  ]
+ ],
+ [
+  "Brilliant",
+  "tech",
+  [
+   "brilliant",
+   "brilliantorg"
+  ]
+ ],
+ [
+  "Go1",
+  "tech",
+  [
+   "go1"
+  ]
+ ],
+ [
+  "Lepaya",
+  "tech",
+  [
+   "lepaya"
+  ]
+ ],
+ [
+  "StudySmarter (Vaia)",
+  "tech",
+  [
+   "studysmarter",
+   "vaia"
+  ]
+ ],
+ [
+  "Knowunity",
+  "tech",
+  [
+   "knowunity"
+  ]
+ ],
+ [
+  "simpleclub",
+  "tech",
+  [
+   "simpleclub"
+  ]
+ ],
+ [
+  "OpenClassrooms",
+  "tech",
+  [
+   "openclassrooms"
+  ]
+ ],
+ [
+  "Domestika",
+  "tech",
+  [
+   "domestika"
+  ]
+ ],
+ [
+  "Masterschool",
+  "tech",
+  [
+   "masterschool"
+  ]
+ ],
+ [
+  "Moodle",
+  "tech",
+  [
+   "moodle"
+  ]
+ ],
+ [
+  "Parloa",
+  "tech",
+  [
+   "parloa"
+  ]
+ ],
+ [
+  "Cognigy",
+  "tech",
+  [
+   "cognigy"
+  ]
+ ],
+ [
+  "Photoroom",
+  "tech",
+  [
+   "photoroom"
+  ]
+ ],
+ [
+  "Dust",
+  "tech",
+  [
+   "dust",
+   "dust-tt"
+  ]
+ ],
+ [
+  "H Company",
+  "tech",
+  [
+   "hcompany",
+   "h-company"
+  ]
+ ],
+ [
+  "Langdock",
+  "tech",
+  [
+   "langdock"
+  ]
+ ],
+ [
+  "Black Forest Labs",
+  "tech",
+  [
+   "blackforestlabs",
+   "bfl",
+   "black-forest-labs"
+  ]
+ ],
+ [
+  "Wayve",
+  "tech",
+  [
+   "wayve"
+  ]
+ ],
+ [
+  "Luminance",
+  "tech",
+  [
+   "luminance"
+  ]
+ ],
+ [
+  "Signal AI",
+  "tech",
+  [
+   "signalai",
+   "signal-ai"
+  ]
+ ],
+ [
+  "Robin AI",
+  "tech",
+  [
+   "robinai",
+   "robin-ai"
+  ]
+ ],
+ [
+  "Wolt",
+  "tech",
+  [
+   "wolt"
+  ]
+ ],
+ [
+  "Cabify",
+  "tech",
+  [
+   "cabify"
+  ]
+ ],
+ [
+  "Voi",
+  "tech",
+  [
+   "voi",
+   "voitechnology",
+   "voiscooters"
+  ]
+ ],
+ [
+  "Einride",
+  "tech",
+  [
+   "einride"
+  ]
+ ],
+ [
+  "Flix",
+  "tech",
+  [
+   "flix",
+   "flixbus"
+  ]
+ ],
+ [
   "Bitstamp/Robinhood Crypto",
   "fintech",
   [
    "robinhoodcrypto"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -11,6 +5090,13 @@
   "fintech",
   [
    "anchoragedigital"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -18,6 +5104,13 @@
   "fintech",
   [
    "bullish"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -25,29 +5118,28 @@
   "fintech",
   [
    "bakkt"
-  ]
- ],
- [
-  "Paxos",
-  "fintech",
+  ],
   [
-   "paxosglobal"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Bitwise",
   "fintech",
   [
-   "bitwiseinvestments",
-   "bitwiseassetmanagement"
-  ]
- ],
- [
-  "Grayscale",
-  "fintech",
+   "bitwiseassetmanagement",
+   "bitwiseinvestments"
+  ],
   [
-   "grayscale",
-   "grayscaleinvestments"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -55,6 +5147,13 @@
   "fintech",
   [
    "galaxydigital"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -62,69 +5161,72 @@
   "fintech",
   [
    "cumberland"
-  ]
- ],
- [
-  "Jump Trading",
-  "fintech",
+  ],
   [
-   "jumptrading",
-   "jump"
-  ]
- ],
- [
-  "Jane Street",
-  "fintech",
-  [
-   "janestreet"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Tower Research",
   "fintech",
   [
-   "towerresearchcapital",
    "towerresearch"
-  ]
- ],
- [
-  "IMC Trading",
-  "fintech",
+  ],
   [
-   "imc",
-   "imctrading"
-  ]
- ],
- [
-  "Susquehanna",
-  "fintech",
-  [
-   "sig",
-   "susquehanna"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Citadel Securities",
   "fintech",
   [
-   "citadelsecurities",
-   "citadel"
+   "citadel",
+   "citadelsecurities"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "XTX Markets",
   "fintech",
   [
-   "xtxmarkets",
-   "xtx"
+   "xtx",
+   "xtxmarkets"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Maven Securities",
   "fintech",
   [
-   "mavensecurities",
-   "maven"
+   "maven",
+   "mavensecurities"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -132,22 +5234,28 @@
   "fintech",
   [
    "qube"
-  ]
- ],
- [
-  "Squarepoint",
-  "fintech",
+  ],
   [
-   "squarepoint",
-   "squarepointcapital"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "G-Research",
   "fintech",
   [
-   "gresearch",
-   "g-research"
+   "g-research",
+   "gresearch"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -155,13 +5263,13 @@
   "fintech",
   [
    "marshallwace"
-  ]
- ],
- [
-  "Man Group",
-  "fintech",
+  ],
   [
-   "mangroup"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -170,6 +5278,13 @@
   [
    "millennium",
    "mlp"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -177,6 +5292,13 @@
   "fintech",
   [
    "bloomberg"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -184,13 +5306,13 @@
   "fintech",
   [
    "lseg"
-  ]
- ],
- [
-  "Deutsche Börse / 360T",
-  "fintech",
+  ],
   [
-   "360t"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -198,6 +5320,13 @@
   "fintech",
   [
    "krakenkinetics"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -205,6 +5334,13 @@
   "fintech",
   [
    "tradeweb"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -212,6 +5348,13 @@
   "fintech",
   [
    "marketaxess"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -219,6 +5362,13 @@
   "fintech",
   [
    "liquidnet"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -226,6 +5376,13 @@
   "fintech",
   [
    "exberry"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -233,21 +5390,13 @@
   "fintech",
   [
    "quodfinancial"
-  ]
- ],
- [
-  "Adaptive Financial Consulting",
-  "fintech",
+  ],
   [
-   "adaptive",
-   "weareadaptive"
-  ]
- ],
- [
-  "Delta Capita",
-  "fintech",
-  [
-   "deltacapita"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -255,6 +5404,13 @@
   "fintech",
   [
    "murex"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -262,6 +5418,13 @@
   "fintech",
   [
    "adenza"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -269,6 +5432,13 @@
   "fintech",
   [
    "broadridge"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -276,14 +5446,28 @@
   "fintech",
   [
    "simcorp"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Clearwater Analytics",
   "fintech",
   [
-   "clearwateranalytics",
-   "clearwater"
+   "clearwater",
+   "clearwateranalytics"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -291,6 +5475,13 @@
   "fintech",
   [
    "enfusion"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -299,13 +5490,13 @@
   [
    "allvue",
    "allvuesystems"
-  ]
- ],
- [
-  "Ledgy",
-  "fintech",
+  ],
   [
-   "ledgy"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -314,6 +5505,13 @@
   [
    "republic",
    "republicco"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -321,6 +5519,13 @@
   "fintech",
   [
    "addx"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -328,6 +5533,13 @@
   "fintech",
   [
    "apexgroup"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -335,6 +5547,13 @@
   "fintech",
   [
    "brickken"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -342,13 +5561,13 @@
   "fintech",
   [
    "bitbond"
-  ]
- ],
- [
-  "Cashlink",
-  "fintech",
+  ],
   [
-   "cashlink"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -356,6 +5575,13 @@
   "fintech",
   [
    "tangany"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -363,6 +5589,13 @@
   "fintech",
   [
    "stokr"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -370,6 +5603,13 @@
   "fintech",
   [
    "templum"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -377,6 +5617,13 @@
   "fintech",
   [
    "prometheum"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -384,14 +5631,28 @@
   "fintech",
   [
    "tzero"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Digital Asset (Canton)",
   "fintech",
   [
-   "digitalasset",
-   "digital-asset"
+   "digital-asset",
+   "digitalasset"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -399,6 +5660,13 @@
   "fintech",
   [
    "r3"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -406,13 +5674,13 @@
   "fintech",
   [
    "clearmatics"
-  ]
- ],
- [
-  "Fnality",
-  "fintech",
+  ],
   [
-   "fnalityinternational"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -420,6 +5688,13 @@
   "fintech",
   [
    "partior"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -427,6 +5702,13 @@
   "fintech",
   [
    "kinexys"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -435,6 +5717,13 @@
   [
    "agora",
    "agorafinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -442,6 +5731,13 @@
   "fintech",
   [
    "globaldollar"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -449,6 +5745,13 @@
   "fintech",
   [
    "mountainprotocol"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -456,6 +5759,13 @@
   "fintech",
   [
    "monerium"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -463,6 +5773,13 @@
   "fintech",
   [
    "quantoz"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -470,6 +5787,13 @@
   "fintech",
   [
    "stablr"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -478,13 +5802,13 @@
   [
    "schuman",
    "schumanfinancial"
-  ]
- ],
- [
-  "Brale",
-  "fintech",
+  ],
   [
-   "brale"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -493,6 +5817,13 @@
   [
    "m0",
    "m0foundation"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -501,14 +5832,13 @@
   [
    "noble",
    "nobleassets"
-  ]
- ],
- [
-  "Plasma",
-  "fintech",
+  ],
   [
-   "plasma",
-   "plasmafdn"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -516,6 +5846,13 @@
   "fintech",
   [
    "tempo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -523,6 +5860,13 @@
   "fintech",
   [
    "circlefin"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -530,14 +5874,13 @@
   "fintech",
   [
    "privyio"
-  ]
- ],
- [
-  "Conduit",
-  "fintech",
+  ],
   [
-   "conduit",
-   "conduitxyz"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -545,6 +5888,13 @@
   "fintech",
   [
    "caldera"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -552,21 +5902,13 @@
   "fintech",
   [
    "altlayer"
-  ]
- ],
- [
-  "Espresso Systems",
-  "fintech",
+  ],
   [
-   "espresso",
-   "espressosystems"
-  ]
- ],
- [
-  "Succinct",
-  "fintech",
-  [
-   "succinct"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -574,6 +5916,13 @@
   "fintech",
   [
    "risczero"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -581,6 +5930,13 @@
   "fintech",
   [
    "polyhedra"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -588,14 +5944,13 @@
   "fintech",
   [
    "lagrange"
-  ]
- ],
- [
-  "Fuel Labs",
-  "fintech",
+  ],
   [
-   "fuel",
-   "fuellabs"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -603,6 +5958,13 @@
   "fintech",
   [
    "movementlabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -610,21 +5972,13 @@
   "fintech",
   [
    "berachain"
-  ]
- ],
- [
-  "Sei Labs",
-  "fintech",
+  ],
   [
-   "sei"
-  ]
- ],
- [
-  "Injective",
-  "fintech",
-  [
-   "injective",
-   "injectivelabs"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -633,6 +5987,13 @@
   [
    "dydx",
    "dydxopsservices"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -640,6 +6001,13 @@
   "fintech",
   [
    "hyperliquid"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -647,13 +6015,13 @@
   "fintech",
   [
    "gmx"
-  ]
- ],
- [
-  "Paradigm",
-  "fintech",
+  ],
   [
-   "paradigm"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -661,6 +6029,13 @@
   "fintech",
   [
    "a16z"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -668,6 +6043,13 @@
   "fintech",
   [
    "base"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -675,14 +6057,13 @@
   "fintech",
   [
    "uniswaplabs"
-  ]
- ],
- [
-  "Aave Labs",
-  "fintech",
+  ],
   [
-   "aavelabs",
-   "avara"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -691,6 +6072,13 @@
   [
    "compound",
    "compoundlabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -699,6 +6087,13 @@
   [
    "euler",
    "eulerlabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -706,6 +6101,13 @@
   "fintech",
   [
    "pendle"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -713,6 +6115,13 @@
   "fintech",
   [
    "frax"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -720,6 +6129,13 @@
   "fintech",
   [
    "curvefinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -727,6 +6143,13 @@
   "fintech",
   [
    "balancer"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -734,6 +6157,13 @@
   "fintech",
   [
    "yearn"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -741,14 +6171,28 @@
   "fintech",
   [
    "instadapp"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Li.Fi",
   "fintech",
   [
-   "lifi",
-   "li-fi"
+   "li-fi",
+   "lifi"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -756,6 +6200,13 @@
   "fintech",
   [
    "bungee"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -763,6 +6214,13 @@
   "fintech",
   [
    "debridge"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -770,6 +6228,13 @@
   "fintech",
   [
    "hop"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -777,20 +6242,13 @@
   "fintech",
   [
    "biconomy"
-  ]
- ],
- [
-  "Alchemy",
-  "fintech",
+  ],
   [
-   "alchemyinsights"
-  ]
- ],
- [
-  "Tenderly",
-  "fintech",
-  [
-   "tenderly"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -798,14 +6256,13 @@
   "fintech",
   [
    "blocknative"
-  ]
- ],
- [
-  "Helius",
-  "fintech",
+  ],
   [
-   "helius",
-   "heliuslabs"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -813,14 +6270,13 @@
   "fintech",
   [
    "triton"
-  ]
- ],
- [
-  "Jito Labs",
-  "fintech",
+  ],
   [
-   "jito",
-   "jitolabs"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -828,6 +6284,13 @@
   "fintech",
   [
    "anza"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -835,13 +6298,13 @@
   "fintech",
   [
    "solflare"
-  ]
- ],
- [
-  "Magic Eden",
-  "fintech",
+  ],
   [
-   "magiceden"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -849,6 +6312,13 @@
   "fintech",
   [
    "opensea"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -856,34 +6326,13 @@
   "fintech",
   [
    "rarible"
-  ]
- ],
- [
-  "Sorare",
-  "fintech",
+  ],
   [
-   "sorare"
-  ]
- ],
- [
-  "Animoca Brands",
-  "fintech",
-  [
-   "animocabrands"
-  ]
- ],
- [
-  "Ava Labs",
-  "fintech",
-  [
-   "avalabs2"
-  ]
- ],
- [
-  "Aptos",
-  "fintech",
-  [
-   "aptosfoundation"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -892,6 +6341,13 @@
   [
    "interchain",
    "interchainfoundation"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -899,30 +6355,58 @@
   "fintech",
   [
    "ignite"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Celo / cLabs",
   "fintech",
   [
-   "clabs",
-   "celo"
+   "celo",
+   "clabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Mina Foundation / o1Labs",
   "fintech",
   [
-   "o1labs",
-   "minafoundation"
+   "minafoundation",
+   "o1labs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Cardano / IOG",
   "fintech",
   [
-   "iohk",
-   "inputoutput"
+   "inputoutput",
+   "iohk"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -930,6 +6414,13 @@
   "fintech",
   [
    "emurgo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -938,6 +6429,13 @@
   [
    "algorand",
    "algorandfoundation"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -945,13 +6443,13 @@
   "fintech",
   [
    "nomadiclabs"
-  ]
- ],
- [
-  "Ripple",
-  "fintech",
+  ],
   [
-   "ripplelabs"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -959,6 +6457,13 @@
   "fintech",
   [
    "xrpllabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -966,14 +6471,28 @@
   "fintech",
   [
    "swirlds"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "IOTA Foundation",
   "fintech",
   [
-   "iotafoundation",
-   "iota"
+   "iota",
+   "iotafoundation"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -981,42 +6500,28 @@
   "fintech",
   [
    "casperlabs"
-  ]
- ],
- [
-  "Chainalysis",
-  "fintech",
+  ],
   [
-   "chainalysisinc"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Crystal Intelligence",
   "fintech",
   [
-   "crystalblockchain",
-   "crystal"
-  ]
- ],
- [
-  "Merkle Science",
-  "fintech",
+   "crystal",
+   "crystalblockchain"
+  ],
   [
-   "merklescience"
-  ]
- ],
- [
-  "Notabene",
-  "fintech",
-  [
-   "notabene"
-  ]
- ],
- [
-  "Sumsub",
-  "fintech",
-  [
-   "sumsubcareers"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1024,21 +6529,13 @@
   "fintech",
   [
    "ballerine"
-  ]
- ],
- [
-  "Persona",
-  "fintech",
+  ],
   [
-   "persona",
-   "withpersona"
-  ]
- ],
- [
-  "Incode",
-  "fintech",
-  [
-   "incode"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1046,6 +6543,13 @@
   "fintech",
   [
    "signicat"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1053,6 +6557,13 @@
   "fintech",
   [
    "mitek"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1060,6 +6571,13 @@
   "fintech",
   [
    "featurespace"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1067,13 +6585,13 @@
   "fintech",
   [
    "ravelin"
-  ]
- ],
- [
-  "Forter",
-  "fintech",
+  ],
   [
-   "forter"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1081,6 +6599,13 @@
   "fintech",
   [
    "signifyd"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1088,6 +6613,13 @@
   "fintech",
   [
    "thetaray"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1096,13 +6628,13 @@
   [
    "napier",
    "napierai"
-  ]
- ],
- [
-  "Salv",
-  "fintech",
+  ],
   [
-   "salv"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1110,6 +6642,13 @@
   "fintech",
   [
    "lucinity"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1117,6 +6656,13 @@
   "fintech",
   [
    "flagright"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1124,34 +6670,13 @@
   "fintech",
   [
    "hummingbird"
-  ]
- ],
- [
-  "Alloy",
-  "fintech",
+  ],
   [
-   "alloyidentity"
-  ]
- ],
- [
-  "Taktile",
-  "fintech",
-  [
-   "taktile"
-  ]
- ],
- [
-  "Zest AI",
-  "fintech",
-  [
-   "zestai"
-  ]
- ],
- [
-  "Upstart",
-  "fintech",
-  [
-   "upstartnetwork"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1159,6 +6684,13 @@
   "fintech",
   [
    "kriyafinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1166,6 +6698,13 @@
   "fintech",
   [
    "uncapped"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1173,20 +6712,13 @@
   "fintech",
   [
    "pipe"
-  ]
- ],
- [
-  "Wayflyer",
-  "fintech",
+  ],
   [
-   "wayflyer"
-  ]
- ],
- [
-  "Liberis",
-  "fintech",
-  [
-   "liberis"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1194,20 +6726,13 @@
   "fintech",
   [
    "youlend"
-  ]
- ],
- [
-  "Iwoca",
-  "fintech",
+  ],
   [
-   "iwocacareers"
-  ]
- ],
- [
-  "Lendable",
-  "fintech",
-  [
-   "lendableuk"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1215,14 +6740,13 @@
   "fintech",
   [
    "plend"
-  ]
- ],
- [
-  "Abound",
-  "fintech",
+  ],
   [
-   "abound",
-   "getabound"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1230,14 +6754,28 @@
   "fintech",
   [
    "fintecture"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Token.io",
   "fintech",
   [
-   "tokenio",
-   "token"
+   "token",
+   "tokenio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1246,6 +6784,13 @@
   [
    "volt",
    "voltio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1253,6 +6798,13 @@
   "fintech",
   [
    "ecospend"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1260,6 +6812,13 @@
   "fintech",
   [
    "finexer"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1267,6 +6826,13 @@
   "fintech",
   [
    "saltedge"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1274,6 +6840,13 @@
   "fintech",
   [
    "nordigen"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1281,6 +6854,13 @@
   "fintech",
   [
    "enablebanking"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1288,6 +6868,13 @@
   "fintech",
   [
    "unnax"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1295,6 +6882,13 @@
   "fintech",
   [
    "bankin"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1302,6 +6896,13 @@
   "fintech",
   [
    "powens"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1309,13 +6910,13 @@
   "fintech",
   [
    "bridgeapi"
-  ]
- ],
- [
-  "Swile",
-  "fintech",
+  ],
   [
-   "swile"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1323,6 +6924,13 @@
   "fintech",
   [
    "pluxee"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1330,6 +6938,13 @@
   "fintech",
   [
    "mooncard"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1337,6 +6952,13 @@
   "fintech",
   [
    "payfit"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1344,6 +6966,13 @@
   "tech",
   [
    "remote"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1351,6 +6980,13 @@
   "tech",
   [
    "rippling"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1358,6 +6994,13 @@
   "tech",
   [
    "personio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1365,6 +7008,13 @@
   "tech",
   [
    "hibob"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1373,13 +7023,13 @@
   [
    "factorial",
    "factorialhr"
-  ]
- ],
- [
-  "Holded",
-  "fintech",
+  ],
   [
-   "holded"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1387,13 +7037,13 @@
   "fintech",
   [
    "sage"
-  ]
- ],
- [
-  "Moss",
-  "fintech",
+  ],
   [
-   "getmoss"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1401,6 +7051,13 @@
   "fintech",
   [
    "soldo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1408,6 +7065,13 @@
   "fintech",
   [
    "yokoy"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1415,13 +7079,13 @@
   "fintech",
   [
    "meshpayments"
-  ]
- ],
- [
-  "Juni",
-  "fintech",
+  ],
   [
-   "juni"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1429,6 +7093,13 @@
   "fintech",
   [
    "cleartreasury"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1436,22 +7107,27 @@
   "fintech",
   [
    "kantox"
-  ]
- ],
- [
-  "Equals Money",
-  "fintech",
+  ],
   [
-   "equals",
-   "equalsmoney"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Banking-as-a-service: Griffin",
   "fintech",
   [
-   "griffin",
    "griffinbank"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1459,6 +7135,13 @@
   "fintech",
   [
    "kroo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1466,6 +7149,13 @@
   "fintech",
   [
    "jpmorganchase"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1473,6 +7163,13 @@
   "fintech",
   [
    "atombank"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1481,13 +7178,13 @@
   [
    "monument",
    "monumentbank"
-  ]
- ],
- [
-  "Tandem",
-  "fintech",
+  ],
   [
-   "tandem"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1496,13 +7193,13 @@
   [
    "chip",
    "getchip"
-  ]
- ],
- [
-  "Moneybox",
-  "fintech",
+  ],
   [
-   "moneybox"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1510,6 +7207,13 @@
   "fintech",
   [
    "nutmeg"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1517,6 +7221,13 @@
   "fintech",
   [
    "wealthify"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1524,6 +7235,13 @@
   "fintech",
   [
    "pensionbee"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1531,6 +7249,13 @@
   "fintech",
   [
    "hargreaveslansdown"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1538,6 +7263,13 @@
   "fintech",
   [
    "interactiveinvestor"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1545,6 +7277,13 @@
   "fintech",
   [
    "saxobank"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1552,13 +7291,13 @@
   "fintech",
   [
    "flatexdegiro"
-  ]
- ],
- [
-  "Bitstamp",
-  "fintech",
+  ],
   [
-   "bitstampltd"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1566,6 +7305,13 @@
   "fintech",
   [
    "plus500"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1573,6 +7319,13 @@
   "fintech",
   [
    "iggroup"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1580,6 +7333,13 @@
   "fintech",
   [
    "cmcmarkets"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1587,6 +7347,13 @@
   "fintech",
   [
    "pepperstone"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1594,6 +7361,13 @@
   "fintech",
   [
    "capitalcom"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1601,6 +7375,13 @@
   "fintech",
   [
    "exness"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1608,6 +7389,13 @@
   "fintech",
   [
    "deriv"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1615,6 +7403,13 @@
   "fintech",
   [
    "nordnet"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1622,41 +7417,13 @@
   "fintech",
   [
    "avanza"
-  ]
- ],
- [
-  "Trade Republic",
-  "fintech",
+  ],
   [
-   "traderepubliccareers"
-  ]
- ],
- [
-  "Parqet",
-  "fintech",
-  [
-   "parqet"
-  ]
- ],
- [
-  "Getquin",
-  "fintech",
-  [
-   "getquin"
-  ]
- ],
- [
-  "Bitvavo",
-  "fintech",
-  [
-   "bitvavocareers"
-  ]
- ],
- [
-  "Coinmerce",
-  "fintech",
-  [
-   "coinmerce"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1664,6 +7431,13 @@
   "fintech",
   [
    "bitpandats"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1672,6 +7446,13 @@
   [
    "boersestuttgartdigital",
    "bsdex"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1679,6 +7460,13 @@
   "fintech",
   [
    "zodiamarkets"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1686,6 +7474,13 @@
   "fintech",
   [
    "coppertechnologies"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1693,13 +7488,13 @@
   "fintech",
   [
    "komainu"
-  ]
- ],
- [
-  "Metaco",
-  "fintech",
+  ],
   [
-   "metacosa"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1707,13 +7502,13 @@
   "fintech",
   [
    "hextrust"
-  ]
- ],
- [
-  "Finoa",
-  "fintech",
+  ],
   [
-   "finoa"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1721,21 +7516,28 @@
   "fintech",
   [
    "coinsharesgroup"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Valour / DeFi Technologies",
   "fintech",
   [
-   "valour",
-   "defitechnologies"
-  ]
- ],
- [
-  "WisdomTree",
-  "fintech",
+   "defitechnologies",
+   "valour"
+  ],
   [
-   "wisdomtree"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1743,6 +7545,13 @@
   "fintech",
   [
    "franklintempleton"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1750,13 +7559,13 @@
   "fintech",
   [
    "hamiltonlane"
-  ]
- ],
- [
-  "Moonfare",
-  "fintech",
+  ],
   [
-   "moonfare"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1764,6 +7573,13 @@
   "fintech",
   [
    "titanbay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1771,6 +7587,13 @@
   "fintech",
   [
    "allfunds"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1778,6 +7601,13 @@
   "fintech",
   [
    "calastone"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1786,6 +7616,13 @@
   [
    "origin",
    "originmarkets"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1793,6 +7630,13 @@
   "fintech",
   [
    "nivaura"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1800,6 +7644,13 @@
   "fintech",
   [
    "clarityai"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1807,6 +7658,13 @@
   "fintech",
   [
    "cytora"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1814,13 +7672,13 @@
   "fintech",
   [
    "tractable"
-  ]
- ],
- [
-  "Shift Technology",
-  "fintech",
+  ],
   [
-   "shifttechnology"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1828,6 +7686,13 @@
   "fintech",
   [
    "hokodo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1835,13 +7700,13 @@
   "fintech",
   [
    "qover"
-  ]
- ],
- [
-  "Seyna",
-  "fintech",
+  ],
   [
-   "seyna"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1849,14 +7714,13 @@
   "fintech",
   [
    "laka"
-  ]
- ],
- [
-  "Flock",
-  "fintech",
+  ],
   [
-   "flock",
-   "flockcover"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1864,6 +7728,13 @@
   "fintech",
   [
    "superscript"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1871,6 +7742,13 @@
   "fintech",
   [
    "manypets"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1878,6 +7756,13 @@
   "fintech",
   [
    "clearcover"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1886,21 +7771,28 @@
   [
    "hippo",
    "hippoinsurance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Root Insurance",
   "fintech",
   [
-   "rootinsurance",
-   "root"
-  ]
- ],
- [
-  "Openly",
-  "fintech",
+   "root",
+   "rootinsurance"
+  ],
   [
-   "openly"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1908,35 +7800,28 @@
   "fintech",
   [
    "kininsurance"
-  ]
- ],
- [
-  "Federato",
-  "fintech",
+  ],
   [
-   "federato"
-  ]
- ],
- [
-  "Sixfold",
-  "fintech",
-  [
-   "sixfold"
-  ]
- ],
- [
-  "Gradient AI",
-  "fintech",
-  [
-   "gradientai"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Accountable / Kontist",
   "fintech",
   [
-   "kontist",
-   "accountable"
+   "accountable",
+   "kontist"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1945,6 +7830,13 @@
   [
    "light",
    "lightinc"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1953,6 +7845,13 @@
   [
    "puzzle",
    "puzzlefinancial"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1960,27 +7859,13 @@
   "fintech",
   [
    "fiskl"
-  ]
- ],
- [
-  "Mercury",
-  "fintech",
+  ],
   [
-   "mercurytechnologies"
-  ]
- ],
- [
-  "Navan",
-  "fintech",
-  [
-   "navaninc"
-  ]
- ],
- [
-  "Modern Treasury",
-  "fintech",
-  [
-   "moderntreasury"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -1988,20 +7873,13 @@
   "fintech",
   [
    "increase"
-  ]
- ],
- [
-  "Orum",
-  "fintech",
+  ],
   [
-   "orum"
-  ]
- ],
- [
-  "Payoneer",
-  "fintech",
-  [
-   "payoneerinc"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2009,6 +7887,13 @@
   "fintech",
   [
    "nuvei"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2016,6 +7901,13 @@
   "fintech",
   [
    "worldline"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2023,6 +7915,13 @@
   "fintech",
   [
    "nexi"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2030,6 +7929,13 @@
   "fintech",
   [
    "paysafe"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2038,21 +7944,13 @@
   [
    "planetpayment",
    "weareplanet"
-  ]
- ],
- [
-  "Dojo",
-  "fintech",
+  ],
   [
-   "dojo",
-   "paymentsense"
-  ]
- ],
- [
-  "Paymentology",
-  "fintech",
-  [
-   "paymentology"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2060,6 +7958,13 @@
   "fintech",
   [
    "thredd"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2067,6 +7972,13 @@
   "fintech",
   [
    "enfuce"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2074,6 +7986,13 @@
   "fintech",
   [
    "nymcard"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2081,6 +8000,13 @@
   "fintech",
   [
    "raincards"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2089,6 +8015,13 @@
   [
    "reap",
    "reapglobal"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2096,6 +8029,13 @@
   "fintech",
   [
    "baanx"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2103,6 +8043,13 @@
   "fintech",
   [
    "cryptocom"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2110,20 +8057,13 @@
   "fintech",
   [
    "wirex"
-  ]
- ],
- [
-  "Revolut Business / Lead Bank",
-  "fintech",
+  ],
   [
-   "leadbank"
-  ]
- ],
- [
-  "Column",
-  "fintech",
-  [
-   "columnbank"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2131,6 +8071,13 @@
   "fintech",
   [
    "crossriver"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2138,6 +8085,13 @@
   "fintech",
   [
    "evolvebank"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2146,6 +8100,13 @@
   [
    "sila",
    "silamoney"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2154,21 +8115,13 @@
   [
    "moov",
    "moovfinancial"
-  ]
- ],
- [
-  "Finix",
-  "fintech",
+  ],
   [
-   "finix",
-   "finixpayments"
-  ]
- ],
- [
-  "Payabli",
-  "fintech",
-  [
-   "payabli"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2176,6 +8129,13 @@
   "fintech",
   [
    "tilled"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2184,6 +8144,13 @@
   [
    "rainforest",
    "rainforestpay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2192,6 +8159,13 @@
   [
    "stax",
    "staxpayments"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2199,13 +8173,13 @@
   "fintech",
   [
    "gr4vy"
-  ]
- ],
- [
-  "Spreedly",
-  "fintech",
+  ],
   [
-   "spreedly"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2213,28 +8187,13 @@
   "fintech",
   [
    "basistheory"
-  ]
- ],
- [
-  "VGS",
-  "fintech",
+  ],
   [
-   "verygoodsecurity",
-   "vgs"
-  ]
- ],
- [
-  "Skyflow",
-  "fintech",
-  [
-   "skyflow"
-  ]
- ],
- [
-  "Evervault",
-  "fintech",
-  [
-   "evervault"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2242,6 +8201,13 @@
   "fintech",
   [
    "juspay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2249,6 +8215,13 @@
   "fintech",
   [
    "paystack"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2256,6 +8229,13 @@
   "fintech",
   [
    "flutterwave"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2263,6 +8243,13 @@
   "fintech",
   [
    "chippercash"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2270,6 +8257,13 @@
   "fintech",
   [
    "yellowcard"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2277,6 +8271,13 @@
   "fintech",
   [
    "kotanipay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2284,20 +8285,13 @@
   "fintech",
   [
    "tabby"
-  ]
- ],
- [
-  "Tamara",
-  "fintech",
+  ],
   [
-   "tamara"
-  ]
- ],
- [
-  "Ziina",
-  "fintech",
-  [
-   "ziina"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2306,6 +8300,13 @@
   [
    "fuze",
    "fuzefinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2313,6 +8314,13 @@
   "fintech",
   [
    "rainfinancial"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2320,6 +8328,13 @@
   "fintech",
   [
    "bitoasis"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2327,6 +8342,13 @@
   "fintech",
   [
    "lunate"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2334,6 +8356,13 @@
   "fintech",
   [
    "wio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2341,14 +8370,28 @@
   "fintech",
   [
    "prypco"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Stake",
   "fintech",
   [
-   "stake",
-   "getstake"
+   "getstake",
+   "stake"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2356,6 +8399,13 @@
   "fintech",
   [
    "smartcrowd"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2363,6 +8413,13 @@
   "fintech",
   [
    "huspy"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2370,6 +8427,13 @@
   "fintech",
   [
    "sarwa"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2378,13 +8442,13 @@
   [
    "baraka",
    "getbaraka"
-  ]
- ],
- [
-  "Anthropic peers: Cohere",
-  "tech",
+  ],
   [
-   "cohere"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2392,34 +8456,13 @@
   "tech",
   [
    "mistralai"
-  ]
- ],
- [
-  "Aleph Alpha",
-  "tech",
+  ],
   [
-   "alephalpha"
-  ]
- ],
- [
-  "DeepL",
-  "tech",
-  [
-   "deepl"
-  ]
- ],
- [
-  "Synthesia",
-  "tech",
-  [
-   "synthesia"
-  ]
- ],
- [
-  "PolyAI",
-  "tech",
-  [
-   "polyai"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2427,27 +8470,13 @@
   "tech",
   [
    "langfuse"
-  ]
- ],
- [
-  "LangChain",
-  "tech",
+  ],
   [
-   "langchain"
-  ]
- ],
- [
-  "Pinecone",
-  "tech",
-  [
-   "pinecone"
-  ]
- ],
- [
-  "Weaviate",
-  "tech",
-  [
-   "weaviate"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2455,50 +8484,27 @@
   "tech",
   [
    "qdrant"
-  ]
- ],
- [
-  "Modal",
-  "tech",
+  ],
   [
-   "modal"
-  ]
- ],
- [
-  "Baseten",
-  "tech",
-  [
-   "baseten"
-  ]
- ],
- [
-  "Together AI",
-  "tech",
-  [
-   "togetherai"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Cursor (Anysphere)",
   "tech",
   [
-   "anysphere",
-   "cursor"
-  ]
- ],
- [
-  "Sourcegraph",
-  "tech",
+   "anysphere"
+  ],
   [
-   "sourcegraph",
-   "sourcegraph91"
-  ]
- ],
- [
-  "Linear",
-  "tech",
-  [
-   "linear"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2506,27 +8512,13 @@
   "tech",
   [
    "retool"
-  ]
- ],
- [
-  "PostHog",
-  "tech",
+  ],
   [
-   "posthog"
-  ]
- ],
- [
-  "Sentry",
-  "tech",
-  [
-   "sentry"
-  ]
- ],
- [
-  "PlanetScale",
-  "tech",
-  [
-   "planetscale"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2535,13 +8527,13 @@
   [
    "neon",
    "neondatabase"
-  ]
- ],
- [
-  "Tinybird",
-  "tech",
+  ],
   [
-   "tinybird"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2549,6 +8541,13 @@
   "tech",
   [
    "prisma"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2556,6 +8555,13 @@
   "tech",
   [
    "hasura"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2563,6 +8569,13 @@
   "tech",
   [
    "encore"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2570,6 +8583,13 @@
   "tech",
   [
    "pulumi"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2577,28 +8597,13 @@
   "tech",
   [
    "spacelift"
-  ]
- ],
- [
-  "Harness",
-  "tech",
+  ],
   [
-   "harness",
-   "harnessinc"
-  ]
- ],
- [
-  "Buildkite",
-  "tech",
-  [
-   "buildkite"
-  ]
- ],
- [
-  "Depot",
-  "tech",
-  [
-   "depot"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2607,13 +8612,13 @@
   [
    "nrwl",
    "nx"
-  ]
- ],
- [
-  "Vercel peers: Netlify",
-  "tech",
+  ],
   [
-   "netlify"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2621,20 +8626,13 @@
   "tech",
   [
    "flyio"
-  ]
- ],
- [
-  "Render",
-  "tech",
+  ],
   [
-   "render"
-  ]
- ],
- [
-  "Railway",
-  "tech",
-  [
-   "railway"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2642,29 +8640,28 @@
   "tech",
   [
    "northflank"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Port",
   "tech",
   [
-   "port",
-   "getport"
-  ]
- ],
- [
-  "Cortex",
-  "tech",
+   "getport",
+   "port"
+  ],
   [
-   "cortex",
-   "cortexapp"
-  ]
- ],
- [
-  "OpsLevel",
-  "tech",
-  [
-   "opslevel"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2672,6 +8669,13 @@
   "tech",
   [
    "roadie"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2679,13 +8683,13 @@
   "tech",
   [
    "unleash"
-  ]
- ],
- [
-  "LaunchDarkly",
-  "tech",
+  ],
   [
-   "launchdarkly"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2693,21 +8697,13 @@
   "tech",
   [
    "statsig"
-  ]
- ],
- [
-  "Graphite",
-  "tech",
+  ],
   [
-   "graphite",
-   "withgraphite"
-  ]
- ],
- [
-  "CodeRabbit",
-  "tech",
-  [
-   "coderabbit"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2715,27 +8711,13 @@
   "tech",
   [
    "tessl"
-  ]
- ],
- [
-  "Poolside",
-  "tech",
+  ],
   [
-   "poolside"
-  ]
- ],
- [
-  "Lovable",
-  "tech",
-  [
-   "lovable"
-  ]
- ],
- [
-  "Bolt / StackBlitz",
-  "tech",
-  [
-   "stackblitz"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2743,6 +8725,13 @@
   "tech",
   [
    "codacy"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2750,6 +8739,13 @@
   "tech",
   [
    "unbabel"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2757,6 +8753,13 @@
   "tech",
   [
    "outsystems"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2764,34 +8767,28 @@
   "tech",
   [
    "definednet"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Tekever",
   "tech",
   [
+   "tekever",
    "tekeverr"
-  ]
- ],
- [
-  "Quantum Systems",
-  "tech",
+  ],
   [
-   "quantumsystemsgmbh"
-  ]
- ],
- [
-  "Shield AI",
-  "tech",
-  [
-   "shieldai"
-  ]
- ],
- [
-  "Saronic",
-  "tech",
-  [
-   "saronic"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2799,14 +8796,13 @@
   "tech",
   [
    "arxrobotics"
-  ]
- ],
- [
-  "Stark Defence",
-  "tech",
+  ],
   [
-   "stark",
-   "starkdefence"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2814,27 +8810,13 @@
   "tech",
   [
    "cambridgeaerospace"
-  ]
- ],
- [
-  "Isar Aerospace",
-  "tech",
+  ],
   [
-   "isaraerospace"
-  ]
- ],
- [
-  "Auterion",
-  "tech",
-  [
-   "auterion"
-  ]
- ],
- [
-  "Delian Alliance",
-  "tech",
-  [
-   "delian"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2842,13 +8824,13 @@
   "tech",
   [
    "comandai"
-  ]
- ],
- [
-  "Brave1 peers: Swarmer",
-  "tech",
+  ],
   [
-   "swarmer"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2856,55 +8838,13 @@
   "tech",
   [
    "frontline"
-  ]
- ],
- [
-  "Preply",
-  "tech",
+  ],
   [
-   "preplyinc"
-  ]
- ],
- [
-  "Speechify",
-  "tech",
-  [
-   "speechify"
-  ]
- ],
- [
-  "Babbel",
-  "tech",
-  [
-   "babbel"
-  ]
- ],
- [
-  "GoStudent",
-  "tech",
-  [
-   "gostudent"
-  ]
- ],
- [
-  "Brainly",
-  "tech",
-  [
-   "brainly"
-  ]
- ],
- [
-  "Multiverse",
-  "tech",
-  [
-   "multiverse"
-  ]
- ],
- [
-  "Kahoot",
-  "tech",
-  [
-   "kahoot"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2912,13 +8852,13 @@
   "tech",
   [
    "busuu"
-  ]
- ],
- [
-  "Coursera",
-  "tech",
+  ],
   [
-   "coursera"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2926,14 +8866,28 @@
   "tech",
   [
    "synthflow"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
   "Octopus Energy / Kraken Tech",
   "tech",
   [
-   "krakentechnologies",
-   "kraken-tech"
+   "kraken-tech",
+   "krakentechnologies"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2941,6 +8895,13 @@
   "tech",
   [
    "tibber"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2948,6 +8909,13 @@
   "tech",
   [
    "1komma5"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2955,6 +8923,13 @@
   "tech",
   [
    "zolar"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2962,28 +8937,13 @@
   "tech",
   [
    "bolt"
-  ]
- ],
- [
-  "FREENOW",
-  "tech",
+  ],
   [
-   "freenow"
-  ]
- ],
- [
-  "Miro",
-  "tech",
-  [
-   "miro",
-   "realtimeboard"
-  ]
- ],
- [
-  "Pipedrive",
-  "tech",
-  [
-   "pipedrive"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2991,6 +8951,13 @@
   "tech",
   [
    "veriffcareers"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -2998,6 +8965,13 @@
   "tech",
   [
    "glovo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3005,34 +8979,13 @@
   "tech",
   [
    "sennder"
-  ]
- ],
- [
-  "Forto",
-  "tech",
+  ],
   [
-   "forto"
-  ]
- ],
- [
-  "Contentful",
-  "tech",
-  [
-   "contentful"
-  ]
- ],
- [
-  "Storyblok",
-  "tech",
-  [
-   "storyblok"
-  ]
- ],
- [
-  "Hotjar / Contentsquare",
-  "tech",
-  [
-   "contentsquare"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3040,20 +8993,13 @@
   "tech",
   [
    "automattic"
-  ]
- ],
- [
-  "Toptal",
-  "tech",
+  ],
   [
-   "toptal"
-  ]
- ],
- [
-  "Turing",
-  "tech",
-  [
-   "turing"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3061,6 +9007,13 @@
   "tech",
   [
    "andela"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3068,14 +9021,13 @@
   "tech",
   [
    "ateam"
-  ]
- ],
- [
-  "Braintrust",
-  "tech",
+  ],
   [
-   "braintrust",
-   "usebraintrust"
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3083,6 +9035,13 @@
   "tech",
   [
    "gunio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3090,6 +9049,13 @@
   "tech",
   [
    "arcdev"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ],
  [
@@ -3097,6 +9063,1358 @@
   "tech",
   [
    "lemonio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Trading Technologies",
+  "fintech",
+  [
+   "tradingtechnologies",
+   "tt"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "OpenGamma",
+  "fintech",
+  [
+   "opengamma"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Genesis Global",
+  "fintech",
+  [
+   "genesis",
+   "genesisglobal"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Baton Systems",
+  "fintech",
+  [
+   "batonsystems"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "FINBOURNE",
+  "fintech",
+  [
+   "finbourne"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Lightyear",
+  "fintech",
+  [
+   "lightyear"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "BUX",
+  "fintech",
+  [
+   "bux"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Public.com",
+  "fintech",
+  [
+   "publiccom"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "eToro",
+  "fintech",
+  [
+   "etoro"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Lido",
+  "fintech",
+  [
+   "lido",
+   "lidofinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "StarkWare",
+  "fintech",
+  [
+   "starkware"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Scroll",
+  "fintech",
+  [
+   "scroll",
+   "scrolltech"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Edge & Node",
+  "fintech",
+  [
+   "edge-node",
+   "edgeandnode"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Figment",
+  "fintech",
+  [
+   "figment"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Kiln",
+  "fintech",
+  [
+   "kiln"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Category Labs (Monad)",
+  "fintech",
+  [
+   "categorylabs",
+   "monad"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Flashbots",
+  "fintech",
+  [
+   "flashbots"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Web3 Foundation",
+  "fintech",
+  [
+   "web3foundation"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "ChainSafe",
+  "fintech",
+  [
+   "chainsafe"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Messari",
+  "fintech",
+  [
+   "messari"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "CoinShares",
+  "fintech",
+  [
+   "coinshares"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Amberdata",
+  "fintech",
+  [
+   "amberdata"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Dynamic",
+  "fintech",
+  [
+   "dynamic-labs",
+   "dynamiclabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Ramp Network",
+  "fintech",
+  [
+   "ramp-network",
+   "rampnetwork"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Transak",
+  "fintech",
+  [
+   "transak"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Bridge",
+  "fintech",
+  [
+   "bridge",
+   "bridgexyz"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Tokeny",
+  "fintech",
+  [
+   "tokeny"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Polymesh",
+  "fintech",
+  [
+   "polymath",
+   "polymesh"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Archax",
+  "fintech",
+  [
+   "archax"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Interop Labs (Axelar)",
+  "fintech",
+  [
+   "axelar",
+   "interoplabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Risk Labs (Across)",
+  "fintech",
+  [
+   "uma"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "CoW DAO",
+  "fintech",
+  [
+   "cow",
+   "cowdao",
+   "cowswap"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Gelato",
+  "fintech",
+  [
+   "gelato",
+   "gelatonetwork"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Douro Labs (Pyth)",
+  "fintech",
+  [
+   "dourolabs",
+   "pyth",
+   "pythnetwork"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Chaos Labs",
+  "fintech",
+  [
+   "chaos-labs",
+   "chaoslabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Uphold",
+  "fintech",
+  [
+   "uphold"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Nexo",
+  "fintech",
+  [
+   "nexo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Bitso",
+  "fintech",
+  [
+   "bitso"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Coinbase Base / Bitwise",
+  "fintech",
+  [
+   "bitwise",
+   "bitwiseinvestments"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Sky (MakerDAO) / Phoenix Labs",
+  "fintech",
+  [
+   "phoenixlabs",
+   "sky"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Morpho Labs",
+  "fintech",
+  [
+   "morpholabs"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Spendesk",
+  "fintech",
+  [
+   "spendesk"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Payhawk",
+  "fintech",
+  [
+   "payhawk"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Rapyd",
+  "fintech",
+  [
+   "rapyd"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Lunar",
+  "fintech",
+  [
+   "lunar",
+   "lunarway"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Klarna",
+  "fintech",
+  [
+   "klarna"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Pismo",
+  "fintech",
+  [
+   "pismo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Marqeta",
+  "fintech",
+  [
+   "marqeta"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Unit",
+  "fintech",
+  [
+   "unit",
+   "unitfinance"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Synctera",
+  "fintech",
+  [
+   "synctera"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Railsr",
+  "fintech",
+  [
+   "railsr"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Weavr",
+  "fintech",
+  [
+   "weavr"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Banking Circle",
+  "fintech",
+  [
+   "bankingcircle"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Fiat Republic",
+  "fintech",
+  [
+   "fiatrepublic"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Viva Wallet",
+  "fintech",
+  [
+   "vivawallet"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Scalapay",
+  "fintech",
+  [
+   "scalapay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Defacto",
+  "fintech",
+  [
+   "defacto",
+   "getdefacto"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Silvr",
+  "fintech",
+  [
+   "silvr"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Unit21",
+  "fintech",
+  [
+   "unit21"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Hawk AI",
+  "fintech",
+  [
+   "hawk-ai",
+   "hawkai"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Ondato",
+  "fintech",
+  [
+   "ondato"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "wefox",
+  "fintech",
+  [
+   "wefox"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Getsafe",
+  "fintech",
+  [
+   "getsafe"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Cover Genius",
+  "fintech",
+  [
+   "covergenius"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Descartes Underwriting",
+  "fintech",
+  [
+   "descartes",
+   "descartesunderwriting"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Hebbia",
+  "fintech",
+  [
+   "hebbia"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Basis",
+  "fintech",
+  [
+   "basis",
+   "getbasis"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Digits",
+  "fintech",
+  [
+   "digits"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Trovata",
+  "fintech",
+  [
+   "trovata"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Kyriba",
+  "fintech",
+  [
+   "kyriba"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Coverflex",
+  "fintech",
+  [
+   "coverflex"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Rauva",
+  "fintech",
+  [
+   "rauva"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Doutor Finanças",
+  "fintech",
+  [
+   "doutorfinancas"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Teya Portugal / Raisin / Bitpanda done — Shares",
+  "fintech",
+  [
+   "shares",
+   "sharesapp"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Plum",
+  "fintech",
+  [
+   "plum",
+   "withplum"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Curve",
+  "fintech",
+  [
+   "curve",
+   "imaginecurve"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Cleo",
+  "fintech",
+  [
+   "cleo",
+   "meetcleo"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Yonder",
+  "fintech",
+  [
+   "yonder"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Kriya",
+  "fintech",
+  [
+   "kriya"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Paysend",
+  "fintech",
+  [
+   "paysend"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Tymit",
+  "fintech",
+  [
+   "tymit"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Anyfin",
+  "fintech",
+  [
+   "anyfin"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Tink / Kevin — Montonio",
+  "fintech",
+  [
+   "montonio"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Wallester",
+  "fintech",
+  [
+   "wallester"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Payset",
+  "fintech",
+  [
+   "payset"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Embat",
+  "fintech",
+  [
+   "embat"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Kolleno",
+  "fintech",
+  [
+   "kolleno"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Ageras",
+  "fintech",
+  [
+   "ageras"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Mangopay",
+  "fintech",
+  [
+   "mangopay"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Lemonway",
+  "fintech",
+  [
+   "lemonway"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Treezor",
+  "fintech",
+  [
+   "treezor"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Anduril",
+  "tech",
+  [
+   "anduril"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Mistral AI",
+  "tech",
+  [
+   "mistral"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
+  ]
+ ],
+ [
+  "Hugging Face",
+  "tech",
+  [
+   "huggingface"
+  ],
+  [
+   "smartrecruiters",
+   "teamtailor",
+   "bamboohr",
+   "breezy",
+   "pinpoint"
   ]
  ]
 ]

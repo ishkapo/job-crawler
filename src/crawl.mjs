@@ -13,7 +13,7 @@
 
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import { fetchCompany, fillSmartRecruitersDetail } from './fetchers.mjs';
+import { fetchCompany, fillDetail } from './fetchers.mjs';
 import { titleVerdict, locationVerdict } from './filters.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
@@ -107,7 +107,7 @@ async function main() {
       const tv = titleVerdict(job.title);
       if (!tv.keep) continue;
       counts.titleKept++;
-      if (job._detail) await fillSmartRecruitersDetail(job);
+      if (job._detail) await fillDetail(job);
       const lv = locationVerdict(job);
       if (!lv.keep) continue;
       counts.locationKept++;
