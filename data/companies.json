@@ -5195,5 +5195,1797 @@
   "domain": "fintech",
   "curated": true,
   "added": "2026-10-28"
+ },
+ {
+  "name": "21X",
+  "ats": "personio",
+  "slug": "21x",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "360Learning",
+  "ats": "lever",
+  "slug": "360learning",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "73 Strings",
+  "ats": "teamtailor",
+  "slug": "73strings",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Abacum",
+  "ats": "ashby",
+  "slug": "abacum",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Adarga",
+  "ats": "recruitee",
+  "slug": "adarga",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "additiv",
+  "ats": "personio",
+  "slug": "additiv",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "airSlate",
+  "ats": "lever",
+  "slug": "airslate",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ajax Systems",
+  "ats": "lever",
+  "slug": "ajax",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Akur8",
+  "ats": "ashby",
+  "slug": "akur8",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Allium",
+  "ats": "ashby",
+  "slug": "allium",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "AllUnity",
+  "ats": "personio",
+  "slug": "allunity",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Alpine Eagle",
+  "ats": "greenhouse",
+  "slug": "alpineeagle",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Amber Group",
+  "ats": "bamboohr",
+  "slug": "ambergroup",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Amber Group",
+  "ats": "lever",
+  "slug": "ambergroup",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Amplemarket",
+  "ats": "greenhouse",
+  "slug": "amplemarket",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Anrok",
+  "ats": "ashby",
+  "slug": "anrok",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Anyfin",
+  "ats": "teamtailor",
+  "slug": "anyfin",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Arbitrum Foundation",
+  "ats": "lever",
+  "slug": "arbitrumfoundation",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Arta Finance",
+  "ats": "ashby",
+  "slug": "artafinance",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Aveni",
+  "ats": "ashby",
+  "slug": "aveni",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Banked",
+  "ats": "bamboohr",
+  "slug": "banked",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Banxware",
+  "ats": "personio",
+  "slug": "banxware",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Behavox",
+  "ats": "greenhouse",
+  "slug": "behavox",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "BioCatch",
+  "ats": "lever",
+  "slug": "biocatch",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bitrefill",
+  "ats": "teamtailor",
+  "slug": "bitrefill",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bitso",
+  "ats": "bamboohr",
+  "slug": "bitso",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bitwave",
+  "ats": "breezy",
+  "slug": "bitwave",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Black Forest Labs",
+  "ats": "ashby",
+  "slug": "black-forest-labs",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Blockstream",
+  "ats": "ashby",
+  "slug": "blockstream",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bretton AI",
+  "ats": "ashby",
+  "slug": "brettonai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bridge (Bankin)",
+  "ats": "teamtailor",
+  "slug": "bridge",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Brilliant",
+  "ats": "lever",
+  "slug": "brilliant",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bud Financial",
+  "ats": "bamboohr",
+  "slug": "bud",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Busha",
+  "ats": "breezy",
+  "slug": "busha",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Bybit",
+  "ats": "greenhouse",
+  "slug": "bybit",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Cabify",
+  "ats": "greenhouse",
+  "slug": "cabify",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CarbonChain",
+  "ats": "greenhouse",
+  "slug": "carbonchain",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Certora",
+  "ats": "teamtailor",
+  "slug": "certora",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Chainstack",
+  "ats": "bamboohr",
+  "slug": "chainstack",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Chetwood Bank",
+  "ats": "pinpoint",
+  "slug": "chetwood-bank",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Chip",
+  "ats": "teamtailor",
+  "slug": "chip",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Chronicle Labs",
+  "ats": "ashby",
+  "slug": "chronicle-labs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Clark",
+  "ats": "personio",
+  "slug": "clark",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Cloover",
+  "ats": "personio",
+  "slug": "cloover",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CoinGecko",
+  "ats": "lever",
+  "slug": "coingecko",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CoinMarketCap",
+  "ats": "lever",
+  "slug": "coinmarketcap",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CoinMarketCap",
+  "ats": "bamboohr",
+  "slug": "coinmarketcap",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CoinShares",
+  "ats": "teamtailor",
+  "slug": "coinshares",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "CoinTracker",
+  "ats": "ashby",
+  "slug": "cointracker",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Convera",
+  "ats": "greenhouse",
+  "slug": "convera",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Cover Genius",
+  "ats": "pinpoint",
+  "slug": "covergenius",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Coverflex",
+  "ats": "teamtailor",
+  "slug": "coverflex",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Creditspring",
+  "ats": "teamtailor",
+  "slug": "creditspring",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Critical Software",
+  "ats": "breezy",
+  "slug": "critical-software",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Crowdcube",
+  "ats": "teamtailor",
+  "slug": "crowdcube",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Crypto Finance",
+  "ats": "workable",
+  "slug": "crypto-finance",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ctrl Alt",
+  "ats": "teamtailor",
+  "slug": "ctrlalt",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Cuvva",
+  "ats": "bamboohr",
+  "slug": "cuvva",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Deblock",
+  "ats": "workable",
+  "slug": "deblock",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Descartes Underwriting",
+  "ats": "teamtailor",
+  "slug": "descartesunderwriting",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Docebo",
+  "ats": "ashby",
+  "slug": "docebo",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Dotfile",
+  "ats": "ashby",
+  "slug": "dotfile",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "DriveWealth",
+  "ats": "ashby",
+  "slug": "drivewealth",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Duna",
+  "ats": "ashby",
+  "slug": "duna",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Duolingo",
+  "ats": "greenhouse",
+  "slug": "duolingo",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Dust",
+  "ats": "ashby",
+  "slug": "dust",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Elwood Technologies",
+  "ats": "greenhouse",
+  "slug": "elwoodtechnologies",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Elwood Technologies",
+  "ats": "bamboohr",
+  "slug": "elwood",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ethereum Foundation",
+  "ats": "smartrecruiters",
+  "slug": "ethereumfoundation",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Etops",
+  "ats": "personio",
+  "slug": "etops",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Euler Labs",
+  "ats": "breezy",
+  "slug": "euler",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Everstake",
+  "ats": "bamboohr",
+  "slug": "everstake",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Exodus",
+  "ats": "bamboohr",
+  "slug": "exodus",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Faculty",
+  "ats": "ashby",
+  "slug": "faculty",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Farsight AI",
+  "ats": "ashby",
+  "slug": "farsight",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Fasanara Capital",
+  "ats": "workable",
+  "slug": "fasanara",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Feather",
+  "ats": "personio",
+  "slug": "feather",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Fence",
+  "ats": "ashby",
+  "slug": "fence-finance",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Filecoin Foundation",
+  "ats": "greenhouse",
+  "slug": "filecoinfoundation",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "FINBOURNE",
+  "ats": "bamboohr",
+  "slug": "finbourne",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Fipto",
+  "ats": "teamtailor",
+  "slug": "fipto",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "FlexiDAO",
+  "ats": "personio",
+  "slug": "flexidao",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Flix",
+  "ats": "greenhouse",
+  "slug": "flix",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "FloQast",
+  "ats": "lever",
+  "slug": "floqast",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Fondy",
+  "ats": "smartrecruiters",
+  "slug": "fondy",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Fonoa",
+  "ats": "ashby",
+  "slug": "fonoa",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Genesis (Ukraine)",
+  "ats": "breezy",
+  "slug": "gen-tech",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Gensyn",
+  "ats": "greenhouse",
+  "slug": "gensyn",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "gridX",
+  "ats": "personio",
+  "slug": "gridx",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "H Company",
+  "ats": "ashby",
+  "slug": "hcompany",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Hadean",
+  "ats": "teamtailor",
+  "slug": "hadean",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Headway",
+  "ats": "teamtailor",
+  "slug": "headway",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Hedvig",
+  "ats": "teamtailor",
+  "slug": "hedvig",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Holvi",
+  "ats": "teamtailor",
+  "slug": "holvi",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "hyperexponential",
+  "ats": "ashby",
+  "slug": "hyperexponential",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "iBanFirst",
+  "ats": "recruitee",
+  "slug": "ibanfirst",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "ICEYE",
+  "ats": "ashby",
+  "slug": "iceye",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Inco",
+  "ats": "bamboohr",
+  "slug": "inco",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Indie Campers",
+  "ats": "greenhouse",
+  "slug": "indiecampers",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Indy",
+  "ats": "teamtailor",
+  "slug": "indy",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Infraspeak",
+  "ats": "teamtailor",
+  "slug": "infraspeak",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "InvestEngine",
+  "ats": "teamtailor",
+  "slug": "investengine",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "InvestSuite",
+  "ats": "teamtailor",
+  "slug": "investsuite",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Jooble",
+  "ats": "teamtailor",
+  "slug": "jooble",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Jumio",
+  "ats": "greenhouse",
+  "slug": "jumio",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Juniper Square",
+  "ats": "ashby",
+  "slug": "junipersquare",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Kamino",
+  "ats": "ashby",
+  "slug": "kamino",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Knowunity",
+  "ats": "ashby",
+  "slug": "knowunity",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Kpler",
+  "ats": "lever",
+  "slug": "kpler",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Langdock",
+  "ats": "ashby",
+  "slug": "langdock",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ledge",
+  "ats": "ashby",
+  "slug": "ledge",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Lemon Cash",
+  "ats": "teamtailor",
+  "slug": "lemon",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Leocare",
+  "ats": "teamtailor",
+  "slug": "leocare",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Lepaya",
+  "ats": "personio",
+  "slug": "lepaya",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Lightyear",
+  "ats": "teamtailor",
+  "slug": "lightyear",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Lukka",
+  "ats": "bamboohr",
+  "slug": "lukka",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Lunar",
+  "ats": "teamtailor",
+  "slug": "lunar",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Mangopay",
+  "ats": "teamtailor",
+  "slug": "mangopay",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Maybern",
+  "ats": "ashby",
+  "slug": "maybern",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Memo Bank",
+  "ats": "teamtailor",
+  "slug": "memobank",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Meniga",
+  "ats": "bamboohr",
+  "slug": "meniga",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Mentimeter",
+  "ats": "greenhouse",
+  "slug": "mentimeter",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "MillTech",
+  "ats": "bamboohr",
+  "slug": "milltech",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Milrem Robotics",
+  "ats": "teamtailor",
+  "slug": "milrem",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Modo Energy",
+  "ats": "greenhouse",
+  "slug": "modoenergy",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Moodle",
+  "ats": "bamboohr",
+  "slug": "moodle",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Mural Pay",
+  "ats": "ashby",
+  "slug": "mural",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Napier AI",
+  "ats": "pinpoint",
+  "slug": "napier",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Nexo",
+  "ats": "breezy",
+  "slug": "nexo",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Nilus",
+  "ats": "bamboohr",
+  "slug": "nilus",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Nium",
+  "ats": "lever",
+  "slug": "nium",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Nordic Air Defence",
+  "ats": "teamtailor",
+  "slug": "nordicairdefence",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Norm AI",
+  "ats": "ashby",
+  "slug": "norm-ai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Novidea",
+  "ats": "ashby",
+  "slug": "novidea",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Numeral",
+  "ats": "ashby",
+  "slug": "numeral",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Nymcard",
+  "ats": "bamboohr",
+  "slug": "nymcard",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "OBRIO",
+  "ats": "ashby",
+  "slug": "obrio",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ohpen",
+  "ats": "personio",
+  "slug": "ohpen",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Onafriq",
+  "ats": "bamboohr",
+  "slug": "onafriq",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "oneZero",
+  "ats": "bamboohr",
+  "slug": "onezero",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Onramper",
+  "ats": "recruitee",
+  "slug": "onramper",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "OP Labs",
+  "ats": "ashby",
+  "slug": "oplabs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "OpenSea",
+  "ats": "breezy",
+  "slug": "opensea",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ornikar",
+  "ats": "teamtailor",
+  "slug": "ornikar",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "ottonova",
+  "ats": "personio",
+  "slug": "ottonova",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Parloa",
+  "ats": "ashby",
+  "slug": "parloa",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Payfit",
+  "ats": "teamtailor",
+  "slug": "payfit",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Payflows",
+  "ats": "recruitee",
+  "slug": "payflows",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Paystack",
+  "ats": "teamtailor",
+  "slug": "paystack",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Perenna",
+  "ats": "bamboohr",
+  "slug": "perenna",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Performativ",
+  "ats": "teamtailor",
+  "slug": "performativ",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Photoroom",
+  "ats": "ashby",
+  "slug": "photoroom",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Pigment",
+  "ats": "lever",
+  "slug": "pigment",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Powens",
+  "ats": "teamtailor",
+  "slug": "powens",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Prima",
+  "ats": "lever-eu",
+  "slug": "prima",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Provable",
+  "ats": "ashby",
+  "slug": "provable",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ravelin",
+  "ats": "pinpoint",
+  "slug": "ravelin",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "RavenPack",
+  "ats": "teamtailor",
+  "slug": "ravenpack",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "re:cap",
+  "ats": "ashby",
+  "slug": "re-cap",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Regnology",
+  "ats": "personio",
+  "slug": "regnology",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ripio",
+  "ats": "teamtailor",
+  "slug": "ripio",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Ritual",
+  "ats": "greenhouse",
+  "slug": "ritual",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "River",
+  "ats": "ashby",
+  "slug": "river",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Root Platform",
+  "ats": "teamtailor",
+  "slug": "root",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Rowden Technologies",
+  "ats": "bamboohr",
+  "slug": "rowden",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Salary Finance",
+  "ats": "greenhouse",
+  "slug": "salaryfinance",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Samaya AI",
+  "ats": "greenhouse",
+  "slug": "samayaai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "SatoshiLabs",
+  "ats": "ashby",
+  "slug": "satoshilabs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Seccl",
+  "ats": "ashby",
+  "slug": "seccl",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "sFOX",
+  "ats": "greenhouse",
+  "slug": "sfox",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Sift",
+  "ats": "ashby",
+  "slug": "sift",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Signicat",
+  "ats": "teamtailor",
+  "slug": "signicat",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Silent Eight",
+  "ats": "teamtailor",
+  "slug": "silenteight",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "simpleclub",
+  "ats": "pinpoint",
+  "slug": "simpleclub",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Sky Mavis",
+  "ats": "ashby",
+  "slug": "skymavis",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Solflare",
+  "ats": "smartrecruiters",
+  "slug": "solflare",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Solidgate",
+  "ats": "ashby",
+  "slug": "solidgate",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Speak",
+  "ats": "ashby",
+  "slug": "speak",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Spektr",
+  "ats": "greenhouse",
+  "slug": "spektr",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Spiko",
+  "ats": "teamtailor",
+  "slug": "spiko",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Squads",
+  "ats": "ashby",
+  "slug": "squads",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Stake",
+  "ats": "breezy",
+  "slug": "stake",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Stake",
+  "ats": "teamtailor",
+  "slug": "getstake",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Starknet Foundation",
+  "ats": "ashby",
+  "slug": "starknetfoundation",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Staxxer",
+  "ats": "recruitee",
+  "slug": "staxxer",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "SteelEye",
+  "ats": "smartrecruiters",
+  "slug": "steeleye",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Stoïk",
+  "ats": "teamtailor",
+  "slug": "stoik",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Story Protocol",
+  "ats": "ashby",
+  "slug": "story",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Strike",
+  "ats": "greenhouse",
+  "slug": "strike",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "StudySmarter",
+  "ats": "personio",
+  "slug": "studysmarter",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Superscript",
+  "ats": "teamtailor",
+  "slug": "superscript",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "SwissBorg",
+  "ats": "lever",
+  "slug": "swissborg",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Swissquote",
+  "ats": "smartrecruiters",
+  "slug": "swissquote",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Sylvera",
+  "ats": "ashby",
+  "slug": "sylvera",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Symbiotic",
+  "ats": "ashby",
+  "slug": "symbiotic",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Tabby",
+  "ats": "pinpoint",
+  "slug": "tabby",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Tabs",
+  "ats": "ashby",
+  "slug": "tabs",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "tado",
+  "ats": "personio",
+  "slug": "tado",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Tastytrade",
+  "ats": "greenhouse",
+  "slug": "tastytrade",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "TaxBit",
+  "ats": "greenhouse",
+  "slug": "taxbit",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "The Exploration Company",
+  "ats": "ashby",
+  "slug": "the-exploration-company",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Thunes",
+  "ats": "greenhouse",
+  "slug": "thunes",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Tibber",
+  "ats": "teamtailor",
+  "slug": "tibber",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "topi",
+  "ats": "personio",
+  "slug": "topi",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Trading Technologies",
+  "ats": "pinpoint",
+  "slug": "tradingtechnologies",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "TransferGo",
+  "ats": "greenhouse",
+  "slug": "transfergo",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "TreasurySpring",
+  "ats": "recruitee",
+  "slug": "treasuryspring",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Universe Group",
+  "ats": "ashby",
+  "slug": "universe",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Upflow",
+  "ats": "ashby",
+  "slug": "upflow",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Uphold",
+  "ats": "bamboohr",
+  "slug": "uphold",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Veda",
+  "ats": "ashby",
+  "slug": "veda",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Vega",
+  "ats": "ashby",
+  "slug": "vega",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Verto",
+  "ats": "ashby",
+  "slug": "verto",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Vic.ai",
+  "ats": "bamboohr",
+  "slug": "vicai",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Wallester",
+  "ats": "bamboohr",
+  "slug": "wallester",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Wayve",
+  "ats": "ashby",
+  "slug": "wayve",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Wirex",
+  "ats": "bamboohr",
+  "slug": "wirex",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Wolt",
+  "ats": "greenhouse",
+  "slug": "wolt",
+  "domain": "tech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "XTB",
+  "ats": "lever-eu",
+  "slug": "xtb",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Yellow Card",
+  "ats": "bamboohr",
+  "slug": "yellowcard",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Yonder",
+  "ats": "teamtailor",
+  "slug": "yonder",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "YouLend",
+  "ats": "pinpoint",
+  "slug": "youlend",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "YuLife",
+  "ats": "teamtailor",
+  "slug": "yulife",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
+ },
+ {
+  "name": "Zocks",
+  "ats": "lever",
+  "slug": "zocks",
+  "domain": "fintech",
+  "curated": true,
+  "added": "2026-11-16"
  }
 ]
