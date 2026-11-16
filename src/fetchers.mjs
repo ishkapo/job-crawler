@@ -360,9 +360,8 @@ export async function fillDetail(job) {
       if (o.compensation) job.salary = String(o.compensation);
     } else {
       const html = await http(job._detail, { as: 'text' });
-      const body = html.match(/<div[^>]*class="[^"]*description[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<\/div>/i)?.[1]
-        || html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<head[\s\S]*?<\/head>/gi, ' ');
-      job.description = htmlToText(body).slice(0, 12000);
+      const page = html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>|<head[\s\S]*?<\/head>/gi, ' ');
+      job.description = htmlToText(page).slice(0, 12000);
     }
   } catch { /* keep without description */ }
   delete job._detail;
