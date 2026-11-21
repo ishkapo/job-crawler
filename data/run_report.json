@@ -3,17 +3,18 @@
  "ok": 857,
  "failed": 3,
  "notFound": 7,
- "jobs": 41249,
- "titleKept": 6542,
+ "jobs": 41739,
+ "titleKept": 6569,
  "locationKept": 630,
- "open": 393,
- "new": 6,
- "date": "2026-11-20",
+ "open": 392,
+ "new": 7,
+ "date": "2026-11-21",
  "deadSlugs": [
   "ashby:liven",
   "ashby:Coinhako",
   "ashby:vivid",
   "ashby:maple",
-  "ashby:shieldai"
+  "ashby:shieldai",
+  "ashby:norm-ai"
  ]
 }
